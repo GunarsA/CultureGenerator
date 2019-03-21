@@ -3,7 +3,7 @@
   width:250px;
   height:100%;
   background:#151719;
-  left:0px;
+  left:-250px;
   transition:all 150ms linear;
 }
 
@@ -50,6 +50,6 @@ input[type="checkbox"]{
 }
 
 #sidebar.active {
-  left:-250px;
+  left:0px;
 }
 
