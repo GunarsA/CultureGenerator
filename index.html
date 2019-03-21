@@ -1,71 +1,73 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <!--<meta charset="utf-8">-->
-    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
-    <title>Culture Generator</title>
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="stylesheet" href="assets/css/sidebar.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
-</head>
-
-<body>
-    <div id="sidebar"><div class="toggle-btn" onclick="toggleSidebar()">
-    <i class="fa-gear" style="font: normal normal normal 14px/1 FontAwesome;font-size: 30px;"></i>
-</div><div>
-    <h2>Iestatījumi</h2>
-    <table>
-        <tr>
-            <td>Muzeji</td>
-            <td><input type="checkbox"></td>
-        </tr>
-        <tr>
-            <td>Bibliotēkas</td>
-            <td><input type="checkbox"></td>
-        </tr>
-        <tr>
-            <td>Kultūras centri</td>
-            <td><input type="checkbox"></td>
-        </tr>
-        <tr>
-            <td>Mākslas saloni un galerijas</td>
-            <td><input type="checkbox"></td>
-        </tr>
-        <tr>
-            <td>Dabas Parki</td>
-            <td><input type="checkbox"></td>
-        </tr>
-        <tr>
-        <tr>
-            <td>Kino</td>
-            <td><input type="checkbox"></td>
-        </tr>
-        <tr>
-            <td>Maksimālā distance</td>
-            <td>
-                <input name="rangeInput" type="range" min="1" max="500" value="500" class="distance" style="width: 50%;" onchange="updateTextInput(this.value)">
-                <p><span id="currentValue" >500</span> km</p>
-            </td>
-            
-        </tr>
-    </table>
-</div></div>
-    <div id="main">
-        <div id="heading_holder">
-            <h1>Kultūras Ģenerātors</h1>
+    <head>
+        <meta charset="utf-8">
+        <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+        <title>Culture Generator</title>
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="assets/css/sidebar.css">
+        <link rel="stylesheet" href="assets/css/styles.css">
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+        <script src="assets/js/sidebar.js"></script>
+    </head>
+    <body>
+        <div id="sidebar">
+            <div class="toggle-btn" onclick="toggleSidebar()">
+                <i class="fa-gear" style="font: normal normal normal 14px/1 FontAwesome;font-size: 30px;"></i>
+            </div>
+            <div>
+                <h2>Iestatījumi</h2>
+                <table>
+                    <tr>
+                        <td>Muzeji</td>
+                        <td><input type="checkbox"></td>
+                    </tr>
+                    <tr>
+                        <td>Bibliotēkas</td>
+                        <td><input type="checkbox"></td>
+                    </tr>
+                    <tr>
+                        <td>Kultūras centri</td>
+                        <td><input type="checkbox"></td>
+                    </tr>
+                    <tr>
+                        <td>Mākslas saloni un galerijas</td>
+                        <td><input type="checkbox"></td>
+                    </tr>
+                    <tr>
+                        <td>Dabas Parki</td>
+                        <td><input type="checkbox"></td>
+                    </tr>
+                    <tr>
+                    <tr>
+                        <td>Kino</td>
+                        <td><input type="checkbox"></td>
+                    </tr>
+                    <tr>
+                        <td>Maksimālā distance</td>
+                        <td>
+                            <input name="rangeInput" type="range" min="1" max="500" value="500" class="distance" style="width: 50%;" onchange="updateTextInput(this.value)">
+                            <p><span id="currentValue" >500</span> km</p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
         </div>
-        <div id="image_holder">
-            <img class="place_img" src="assets/img/cat.jpg" onerror="this.src='assets/img/image-not-found.png'">
+        <div id="main">
+            <div id="heading_holder">
+                <h1>Kultūras Ģenerātors</h1>
+            </div>
+            <div id="image_holder">
+                <img class="place_img" src="assets/img/cat.jpg" onerror="this.src='assets/img/image-not-found.png'">
+            </div>
+            <!--
+            <div id="text_holder"></div>
+            <div id="button_holder"><button class="btn btn-primary invisible" type="button">Button</button></div>
+            </div><i class="fa fa-gear invisible"></i>
+            -->
         </div>
-        
-        <!--<div id="text_holder"></div>-->
-        <!--<div id="button_holder"><button class="btn btn-primary invisible" type="button">Button</button></div>-->
-    <!--</div><i class="fa fa-gear invisible"></i>-->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="assets/js/sidebar.js"></script>
-</body>
-
+    </body>
 </html>
