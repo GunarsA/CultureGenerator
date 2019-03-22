@@ -1,32 +1,38 @@
-#main {
-  width:100%;
+#main{
+  /*width:100%;
   height:100%;
+  padding-left:250px;
+  */
+  text-align:center;
+  transition:all 150ms linear;
 }
 
-#heading_holder {
-  font-size:50px;/*Nestrada. Atrodi kāpēc.*/
+#main.center{
+  padding-left:+250px;
+}
+
+#heading_holder{
+  font-size:60px;
   font-style:italic;
-  padding-left:250px;
   padding-top:10px;
   width:100%;
   text-align:center;
 }
 
-#image_holder {
-  padding-left:250px;
+#image_holder{
   padding-top:10px;
   width:100%;
   height:400px;
 }
-
-#button_holder {
+/*
+#button_holder{
   margin-left:250px;
   padding-top:10px;
   width:50%;
   height:400px;
 }
-
-.place_img {
+*/
+.place_img{
   display:block;
   margin-left:auto;
   margin-right:auto;
