@@ -1,22 +1,17 @@
 #main{
-  /*width:100%;
-  height:100%;
-  padding-left:250px;
-  */
-  text-align:center;
   transition:all 150ms linear;
 }
-
-#main.center{
+#main.sidebarOpenMain{
   padding-left:+250px;
+  padding-bottom:+100px
 }
 
 #heading_holder{
+  text-align:center;
   font-size:60px;
   font-style:italic;
   padding-top:10px;
   width:100%;
-  text-align:center;
 }
 
 #image_holder{
@@ -32,13 +27,12 @@
   height:400px;
 }
 */
-.place_img{
+#place_img{
   display:block;
   margin-left:auto;
   margin-right:auto;
-  width:50%;
+  width:60%;
   border-style:solid;
   border-width:5px;
   border-color:black;
 }
-

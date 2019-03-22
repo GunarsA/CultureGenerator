@@ -1,6 +1,6 @@
 function toggleSidebar(){
     document.getElementById("sidebar").classList.toggle("active");
-    document.getElementById("main").classList.toggle("center");
+    document.getElementById("main").classList.toggle("sidebarOpenMain");
 }
 function updateTextInput(slider){
     var output=document.getElementById("currentValue");
