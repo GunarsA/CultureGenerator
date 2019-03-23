@@ -1,4 +1,4 @@
-#sidebar {
+#sidebar{
   position:fixed;
   width:250px;
   height:100%;
@@ -6,15 +6,18 @@
   left:-250px;
   transition:all 150ms linear;
 }
+#sidebar.active{
+  left:0px;
+}
 
-#sidebar h2 {
+#sidebar h2{
   font-size:35px;
   text-align:center;
   color:rgb(230,230,230);
   padding:15px;
 }
 
-#sidebar table tr td {
+#sidebar table tr td{
   color:rgb(230,230,230);
   list-style:none;
   padding:15px 10px;
@@ -22,7 +25,7 @@
   text-align:center;
 }
 
-#sidebar .toggle-btn {
+#sidebar .sidebar_toggle_btn{
   position:absolute;
   padding-top:4px;
   left:260px;
@@ -37,19 +40,15 @@ input[type="checkbox"]{
   vertical-align:text-bottom;
 }
 
-#sidebar .toggle-btn:hover, #sidebar table tr td input  {
+#sidebar .sidebar_toggle_btn:hover, #sidebar table tr td input{
   cursor:pointer;
 }
 
-#sidebar .toggle-btn span {
+#sidebar .sidebar_toggle_btn span{
   display:block;
   width:30px;
   height:5px;
   background:#151719;
   margin:5px 0px;
-}
-
-#sidebar.active {
-  left:0px;
 }
 
