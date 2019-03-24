@@ -4,14 +4,14 @@ var markers = [];
 
 function update(){
 	for(var i=0;i<markers.length;i++){
-		marker[i].setMap(null);
+		markers[i].setMap(null);
 	}
-	var museum_bool = document.getElementById("museum_checkbox").checked;
-	if(museum_bool===true){
+	var museums_bool = document.getElementById("museums_checkbox").checked;
+	if(museums_bool===true){
 		dropPins(museums);
 	}
-	var museum_bool = document.getElementById("libraries_checkbox").checked;
-	if(museum_bool===true){
+	var libraries_bool = document.getElementById("libraries_checkbox").checked;
+	if(libraries_bool===true){
 		dropPins(libraries);
 	}
 	

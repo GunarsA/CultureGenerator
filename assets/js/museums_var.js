@@ -10,7 +10,7 @@ var museums = [
    Webpage: "http://barikades.lv/lv/index/",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ādolfa Alunāna memoriālais muzejs",
@@ -23,7 +23,7 @@ var museums = [
    Webpage: "http://www.alunans.lv",
    Other_languages: "",
    Additional_information: "Pusdienas pārtraukums no 13:00 līdz 14:00",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ainažu Ugunsdzēsības muzejs",
@@ -36,7 +36,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Vasaras sezonā, no 1. jūnija līdz 30. septembrim, muzejs apmeklētājiem atvērts otrdien, trešdien, ceturtdien, piektdien, sestdien, svētdien no 10:00 līdz 17:00.;;Pirms valsts svētku dienām darba laiks tiek saīsināts par 1 stundu; valsts svētku dienās muzejs slēgts. ;;Iespējams pieteikt apmeklējumu ārpus muzeja darba laika, iepriekš piezvanot pa tālruni +371 29163881.    ;",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aizkraukles vēstures un mākslas muzejs",
@@ -49,7 +49,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Aizputes novadpētniecības muzejs - tūrisma informācijas punkts",
@@ -62,7 +62,7 @@ var museums = [
    Webpage: "http://www.aizputesmuzejs.lv/",
    Other_languages: "",
    Additional_information: "Muzeja apmeklējums ārpus muzeja darba laika iespējams iepriekš vienojoties, zvanot pa tālruni 29623284",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aknīstes Novadpētniecības muzejs",
@@ -75,7 +75,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Ekskursijas un konsultācijas vēlams iepriekš pieteikt pa tālruni 26436978 vai epastu - muzejs@akniste.lv ",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Aktieru Amtmaņu muzejs",
@@ -88,7 +88,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Ziemas sezonā, no 1. novembra līdz 1. maijam, ekskursijas muzejā un muzeja telpu noma jāpiesaka pa telefonu 26608478. ",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aleksandra Čaka memoriālais dzīvoklis-muzejs",
@@ -101,7 +101,7 @@ var museums = [
    Webpage: "http://www.cakamuzejs.riga.lv/",
    Other_languages: "",
    Additional_information: "",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Alojas Novadpētniecības centrs",
@@ -114,7 +114,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Alūksnes muzejs",
@@ -127,7 +127,7 @@ var museums = [
    Webpage: "http://www.aluksnespils.lv/",
    Other_languages: "",
    Additional_information: "Iepriekš piesakoties, muzeju iespējams apmeklēt ārpus noteiktā darba laika.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Andreja Pumpura Lielvārdes muzejs",
@@ -140,7 +140,7 @@ var museums = [
    Webpage: "http://www.lielvarde.lv/index.php?option=com_content&view=article&id=7843888&Itemid=936",
    Other_languages: "Angļu valoda",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Andreja Upīša memoriālais muzejs",
@@ -153,7 +153,7 @@ var museums = [
    Webpage: "http://www.upisamuzejs.lv",
    Other_languages: "Angļu valoda",
    Additional_information: "Darba laiks A. Upīša memoriālajā muzejā Rīgā vasaras sezonā, no 1. jūnija līdz 31. augustam:  trešdienās muzejs atvērts apmeklētājiem 13:00 - 19:00",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Andreja Upīša memoriālmāja",
@@ -166,7 +166,7 @@ var museums = [
    Webpage: "http://www.upisamuzejs.lv",
    Other_languages: "Angļu valoda",
    Additional_information: "Andreja Upīša memoriālmāja Skrīveros ziemas periodā no 31.10.2017. - 15.05.2018. apmeklētājiem slēgta.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Andrupenes lauku sēta",
@@ -179,7 +179,7 @@ var museums = [
    Webpage: "http://visitdagda.com/index.php/lv/apskates-objekti/muzeji-lv/70-lv/objekti/muzeji-lv/334-andrupenes-lauku-seta",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Vasaras sezonā, no 1. maija līdz 1. oktobrim, muzejs atvērts otrdien, trešdien, ceturtdien un piektdien no 9.00 līdz 17.00, kā arī sestdien no 10:00 līdz 15:00. Iespējams pieteikt grupu ekskursijas ārpus darba laika pa tel. 26458876",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Antona Austriņa memoriālais muzejs \"Kaikaši\"",
@@ -192,7 +192,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Muzejs apmeklētājiem atvērts no 15.maija līdz 15.oktobrim. Muzeja apmeklējumus ārpus darba laika lūdzam pieteikt pa t.26132270",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Antona Rupaiņa muzejs",
@@ -205,7 +205,7 @@ var museums = [
    Webpage: "http://berzgale.lv/antona-rupaina-muzejs/",
    Other_languages: "",
    Additional_information: "Iepriekš sazinoties pa telefonu vai e-pastā, muzeju iespējams apmeklēt brīvdienās un  ārpus muzeja darba laika.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Apriķu  muzejs",
@@ -218,7 +218,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Vasaras sezonā, no 15. maija līdz 15. oktobrim muzejs atvērts otrdien, trešdien, ceturtdien, piektdien, sestdien no 11.00-17.00. Citās dienās un laikos muzeju iespējams apmeklēt, iepriekš piesakoties - tālr. nr.  29184684.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Āraišu arheoloģiskais parks",
@@ -231,7 +231,7 @@ var museums = [
    Webpage: "http://amata.lv/araisu-arheologiskais-parks/",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Ziemas periodā (no 01.novembra līdz 31.martam) Āraišu arheoloģiskais parks atvērts no ceturtdienas līdz svētdienai laikā no plkst. 10:00 līdz 16:00",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Aspazijas māja",
@@ -244,7 +244,7 @@ var museums = [
    Webpage: "http://www.jurmala.lv/lv/kultura/muzeji_un_izstazu_zales/6864-aspazijas-maja",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Vasaras sezonā, no 15. maija līdz 15. septembrim, muzejs atvērts līdz 18.00",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Baldones muzejs",
@@ -257,7 +257,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Baltinavas novada muzejs",
@@ -270,7 +270,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Pusdienu pārtraukums 13:00-14:00, iepriekš piesakoties ir iespēja  muzeju apmeklēt arī ārpus darba laika.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Balvu Novada muzejs",
@@ -283,7 +283,7 @@ var museums = [
    Webpage: "http://muzejs.balvi.lv/",
    Other_languages: "",
    Additional_information: "Pirmdienās un svētdienās izstāžu zāles slēgtas apmeklētājiem. Iepriekš piesakoties pa tālr. 64521430 vai m. tālr. 28352770, muzeja apmeklējums iespējams arī ārpus muzeja darba laika.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bārdu dzimtas memoriālais muzejs",
@@ -296,7 +296,7 @@ var museums = [
    Webpage: "http://muzejs-rumbini.mozello.lv/",
    Other_languages: "",
    Additional_information: "Ar muzeja ekspozīciju un krājumu pēc iepriekšēja pieteikuma iespējams iepazīties arī citā laikā.;Muzejs atvērts vasaras sezonā no 2.maija līdz 31.oktobrim. ;Valsts svētku dienās muzejs ir slēgts.;",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Bārtas  muzejs",
@@ -309,7 +309,7 @@ var museums = [
    Webpage: "http://www.bartasmuzejs.lv/",
    Other_languages: "Angļu valoda",
    Additional_information: "Iespējams vienoties ar muzeja darbiniecēm par apmeklējumu ārpus laika, kad muzejs atvērts.;No 1. oktobra līdz 30. aprīlim muzejs ir slēgts ceturtdienās un sestdienās; pirmdienā, piektdienā un svētdienā muzejs atvērts no plkst. 10.00 - 15.00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bauskas  muzejs",
@@ -322,7 +322,7 @@ var museums = [
    Webpage: "http://www.bauskasmuzejs.lv/i?id=9",
    Other_languages: "Angļu valoda",
    Additional_information: "No maija līdz oktobrim otrdienās, trešdienās, ceturtdienās un piektdienās muzejs atvērts no 10:00 līdz 18:00.; ",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bauskas pils muzejs",
@@ -335,7 +335,7 @@ var museums = [
    Webpage: "http://www.bauskaspils.lv/lv/pils-un-muzejs",
    Other_languages: "Angļu valoda;Krievu valoda;Angļu valoda;Krievu valoda",
    Additional_information: "No maija līdz oktobrim katru dienu 9.00 - 19.00;;Oktobrī katru dienu 9.00 - 18.00;;No novembra līdz maijam otrdienās - svētdienās 11.00 - 17.00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bejas novadpētniecības centrs",
@@ -348,7 +348,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Apmeklējumus lūdzam iepriekš saskaņot.;Esam pieejami ciemiņiem vēlamajā laikā.;;",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Brāļu Jurjānu memoriālais muzejs \"Meņģeļi\"",
@@ -361,7 +361,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Pirmdienas - brīvdienas.;No 1. novembra līdz 10. maijam muzeju iespējams apmeklēt, iepriekš piesakoties pa tālruni 29431659.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Brāļu Kaudzīšu memoriālais muzejs \"Kalna Kaibēni\"",
@@ -374,7 +374,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Muzejs apmeklētājiem atvērts no 15.maija līdz 15.oktobrim.  Muzeja apmeklējumus ārpus darba laika lūdzam pieteikt pa t.26185382",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Cēsu Vēstures un mākslas muzejs",
@@ -387,7 +387,7 @@ var museums = [
    Webpage: "http://cesupils.lv/",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Vasaras sezonā, no 1. maija līdz 30. septembrim, muzejs strādā katru dienu no 10:00 līdz 18:00, izņemot pirmdienas. Pirmdienās apmeklētājiem atvērta viduslaiku pils no 10:00 līdz 18:00.;Vakaros, kad Cēsīs notiek lieli pasākumi un koncerti, līdz to sākumam viduslaiku pils ir atvērta apmeklētājiem.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugavas muzejs",
@@ -400,7 +400,7 @@ var museums = [
    Webpage: "http://www.daugavasmuzejs.lv",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Ieeja muzeja parkā vasaras sezonā (no aprīļa līdz septembrim) līdz 20:00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daugavpils Novadpētniecības un mākslas muzejs",
@@ -413,7 +413,7 @@ var museums = [
    Webpage: "http://dnmm.lv/",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Muzejs atvērts apmeklētājiem katru dienu, bez brīvdienām.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dekoratīvās mākslas un dizaina muzejs",
@@ -426,7 +426,7 @@ var museums = [
    Webpage: "http://www.lnmm.lv/lv/dmdm",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Muzeja kasi slēdz 15 minūtes pirms muzeja darba laika beigām. ;;Muzejs ir slēgts oficiālajās svētku dienās: 1. janvārī, Lielajā Piektdienā, Lieldienās, Līgo un Jāņu dienās (23.–24. jūnijā), Ziemassvētkos (25.–26. decembrī), 31. decembrī.;;Atsevišķos gadījumos muzejs var būt slēgts izstāžu maiņas periodos, kas tiek iepriekš izziņoti.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Dobeles Novadpētniecības muzejs",
@@ -439,7 +439,7 @@ var museums = [
    Webpage: "http://www.dobelesmuzejs.lv/",
    Other_languages: "Angļu valoda",
    Additional_information: "Speciālistu konsultācijas, grāmatu krātuve un krājums pieejams darbadienās no 9.00 līdz 17.00. ;Ekskursiju, grupu apmeklējumam muzejs  pieejams arī citā laikā, iepriekš piesakoties pa telefonu: 63721309",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Drustu novadpētniecības muzejs",
@@ -452,7 +452,7 @@ var museums = [
    Webpage: "http://rauna.lv/muzejs/drustu-novadpetniecibas-muzejs",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Muzeju iespējams apmeklēt sestdienās un svētdienās, iepriekš piesakoties pa tālruni 22047515",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Druvienas vecā skola - muzejs",
@@ -465,7 +465,7 @@ var museums = [
    Webpage: "https://www.draugiem.lv/druvienasmuzejs/",
    Other_languages: "",
    Additional_information: "Druvienas Vecā skola - muzejs apmeklētājiem atvērts no 15. maija - 15. oktobrim.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Durbes pils",
@@ -478,7 +478,7 @@ var museums = [
    Webpage: "http://www.tukumamuzejs.lv/durbes-pils",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Pirmdienas - apmeklētājiem slēgts;",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Džūkstes Pasaku muzejs",
@@ -491,7 +491,7 @@ var museums = [
    Webpage: "http://www.tukumamuzejs.lv/dzukstes-pasaku-muzejs",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "E. Dārziņa un J. Sudrabkalna memoriālais muzejs  \"Jāņaskola\"",
@@ -504,7 +504,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Muzejs apmeklētājiem atvērts no 15.maija līdz 15.oktobrim.  Muzeja apmeklējumus ārpus darba laika lūdzam pieteikt pa t. 26563815",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Eduarda Veidenbauma memoriālais muzejs ''Kalāči''",
@@ -517,7 +517,7 @@ var museums = [
    Webpage: "http://priekuli.lv/kulturas-iestades/muzejs",
    Other_languages: "",
    Additional_information: "Muzejs atvērts apmeklētājiem vasaras sezonā, no 15. maija līdz 15. oktobrim. ;Pirmdienās muzejs slēgts.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Farmācijas muzejs",
@@ -530,7 +530,7 @@ var museums = [
    Webpage: "http://fm.mvm.lv/lv/",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Pirmdienās muzejs apmeklētājiem slēgts.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Franča Trasuna muzejs \"Kolnasāta\"",
@@ -543,7 +543,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Piesakoties iepriekš, apmeklētājiem muzejs pieejams ārpus noteiktā darba laika.;No 01.05. - 01.10.  sestdienās muzejs apmeklētājiem atvērts 10.00 -16.00.;Svētdiena - brīvdiena.;",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gulbenes novada vēstures un mākslas muzejs",
@@ -556,7 +556,7 @@ var museums = [
    Webpage: "http://www.gulbenesmuzejs.lv",
    Other_languages: "",
    Additional_information: "Vasaras sezonā, no 15. maija līdz 15. septembrim, muzejs atvērts apmeklētājiem svētdienās no 10:00 līdz 14:00.;Sezonas laikā no 18.maija līdz 30.septembrim ekspozīciju telpas Stāmerienas pilī atvērtas apmeklētājiem no otrdienas līdz svētdienai no pulksten 9:00 līdz 19:00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ģ. Eliasa Jelgavas vēstures un mākslas muzejs ",
@@ -569,7 +569,7 @@ var museums = [
    Webpage: "http://jvmm.lv",
    Other_languages: "",
    Additional_information: "Iepriekš piesakoties, muzejs pieejams arī pirmdienās.;No 1. maija līdz 30. septembrim muzejs atvērts apmeklētājiem no 11.00 līdz 18.00",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Imanta Ziedoņa muzejs",
@@ -582,7 +582,7 @@ var museums = [
    Webpage: "http://www.ziedonamuzejs.lv",
    Other_languages: "",
    Additional_information: "Imanta Ziedoņa muzejs \"Dzirnakmeņi\" atvērts no 1. jūnija līdz 30. septembrim.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jāņa Akuratera muzejs",
@@ -595,7 +595,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jāņa Jaunsudrabiņa muzejs \"Riekstiņi\"",
@@ -608,7 +608,7 @@ var museums = [
    Webpage: "http://www.neretasnovads.lv/index.php/kultura-un-sports/jaunsudrabina-muzejs",
    Other_languages: "",
    Additional_information: "Pirmdienās muzejs apmeklētājiem slēgts.;Ziemas sezonā - no 1. novembra līdz 15.aprīlim - muzeja apmeklējums iepriekš jāpiesaka, zvanot pa tālruni: 65176467 vai 29133076",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jaņa Rozentāla Saldus vēstures un mākslas muzejs",
@@ -621,7 +621,7 @@ var museums = [
    Webpage: "https://muzejs.saldus.lv/",
    Other_languages: "Krievu valoda;Angļu valoda;Vācu valoda",
    Additional_information: "Pirmdiena - brīvdiena",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaņa Rozentāla un Rūdolfa Blaumaņa muzejs",
@@ -634,7 +634,7 @@ var museums = [
    Webpage: "http://memorialiemuzeji.lv/muzeji/jana-rozentala-un-rudolfa-blaumana-muzejs/",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "No 1. 06. līdz 31. 08. darba laiks trešdienās 11:00 - 19:00",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunlaicenes muižas muzejs",
@@ -647,7 +647,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Muzeja darba laiks atšķiras  ziemas un vasaras sezonās!;Uz nodarbībām lūdzam pieteikties iepriekš.;Piedāvājam muzeju apmeklēt arī ārpus darba laika, iepriekš piesakoties.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunmoku pils muzejs",
@@ -660,7 +660,7 @@ var museums = [
    Webpage: "http://www.jaunmokupils.lv",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Muzeja apmeklējums un ekskursija ārpus darba laika jāpiesaka iepriekš. ;Muzejs slēgts 31. decembrī un 1. janvārī.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunpils muzejs",
@@ -673,7 +673,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Muzeja darba laiks no 1.maija - 30. septembrim katru dienu no plkst. 10.00 līdz 20.00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jāzepa Vītola memoriālais muzejs \"Anniņas\"",
@@ -686,7 +686,7 @@ var museums = [
    Webpage: "http://www.apesnovads.lv/turisms-apes-novads/apes-novada-kulturvesturiska-mantojuma-apvieniba/",
    Other_languages: "",
    Additional_information: "Ārpus darba laika - apmeklējums jāpiesaka T. 26546842",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jēkabpils Vēstures muzeja brīvdabas nodaļa \"Sēļu sēta\"",
@@ -699,7 +699,7 @@ var museums = [
    Webpage: "http://jekabpilsmuzejs.lv/lv/sēļu-sēta",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: " Ziemas sezonā (no 1. novembra līdz 1. maijam) slēgts  ",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jēkabpils Vēstures muzejs",
@@ -712,7 +712,7 @@ var museums = [
    Webpage: "http://jekabpilsmuzejs.lv/",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Ziemas sezonā (no 1. oktobra līdz 30. aprīlim) darba dienās - 9:00-17:00, sestdienās un svētdienās - 10:00 -16:00.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jūrmalas brīvdabas muzejs",
@@ -725,7 +725,7 @@ var museums = [
    Webpage: "http://www.jbmuzejs.lv/",
    Other_languages: "Angļu valoda",
    Additional_information: "No 16. septembra līdz 14. maijam muzejs atvērts līdz plkst. 17:00",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jūrmalas pilsētas muzejs",
@@ -738,7 +738,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Muzeja speciālisti strādā darbdienās no 09:00 līdz 17:00. Vasaras sezonā (15.05.-15.09.) muzejs apmeklētājiem atvērts no 10:00 līdz 18:00, pirmdienās, otrdienās no 09:00 līdz 17:00.;",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kalncempju pagasta Viktora Ķirpa Ates muzejs",
@@ -751,7 +751,7 @@ var museums = [
    Webpage: "http://atesmuzejs.aluksne.lv",
    Other_languages: "",
    Additional_information: "Vasaras sezonā muzejs slēgts pirmdienās. Ziemas sezonā no 1. septembra līdz 30.aprīlim muzejs slēgts pirmdienās un svētdienās. ;Ārpus muzeja darba laika apmeklētājus pieņem pēc iepriekšēja pieteikuma.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kandavas novada muzejs",
@@ -764,7 +764,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kārļa Skalbes memoriālais muzejs ''Saulrieti''",
@@ -777,7 +777,7 @@ var museums = [
    Webpage: "http://www.piebalgasmuzeji.lv/lv/muzeji-36429/saulrieti-39238",
    Other_languages: "",
    Additional_information: "Muzejs apmeklētājiem atvērts no 15.maija līdz 15.oktobrim.  Muzeja apmeklējumus ārpus darba laika lūdzam pieteikt pa t. 26494406",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Kārļa Ulmaņa piemiņas muzejs \"Pikšas\"",
@@ -790,7 +790,7 @@ var museums = [
    Webpage: "http://www.piksas.lv/",
    Other_languages: "",
    Additional_information: "No 1. maija līdz 30. septembrim arī sestdienās, svētdienās no 9.00 līdz 17.00",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kazdangas muzejs",
@@ -803,7 +803,7 @@ var museums = [
    Webpage: "http://www.aizputesnovads.lv/muzeji/kazdangas-pils-muzejs",
    Other_languages: "",
    Additional_information: "     Vasaras sezonā no 1.maija līdz 31.oktobrim, muzejs atvērts pirmdienās - sestdienās no plkst. 10:00 līdz 17:00, izņemot trešdienas, kad muzejs atvērts līdz plkst.18:00.;Ziemas sezonā no 1.novembra līdz 30.aprīlim, muzejs atvērts no pirmdienas līdz piektdienai no plkst. 08:00 līdz 16:00.;Ārpus darba laika, ekskursiju pieteikt iepriekš pa tālruni - 28616717.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Krāslavas Vēstures un mākslas muzejs",
@@ -816,7 +816,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "No 1. maija līdz 30. septembrim muzejs atvērts svētdienās, no 1. oktobra līdz 30. aprīlim - otrdienās.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Krišjāņa Barona muzejs",
@@ -829,7 +829,7 @@ var museums = [
    Webpage: "https://www.baronamuzejs.lv",
    Other_languages: "Angļu valoda;Vācu valoda",
    Additional_information: "Pēc klientu vēlmes iespējams muzeju apmeklēt arī ārpus noteiktā darba laika.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kubalu skola - muzejs",
@@ -842,7 +842,7 @@ var museums = [
    Webpage: "http://www.kubalmuz.lv",
    Other_languages: "",
    Additional_information: "Muzeja ekspozīcijas ir atvērtas apmeklētājiem no 1. maija līdz 31. oktobrim. Iepriekš pieteikušies apmeklētāji tiek pieņemti arī brīvdienās un ārpus darba laika. Skat. muzeja mājas lapas http://www.kubalmuz.lv servisu \"Pieteikt apmeklējumu\".",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Kuldīgas novada pašvaldības iestāde \"Kuldīgas novada muzejs\"",
@@ -855,7 +855,7 @@ var museums = [
    Webpage: "http://www.kuldigasmuzejs.lv/",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Speciālistu un administrācijas darba laiks darba dienās no plkst. 8:00 līdz 17:00",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ķekavas novadpētniecības muzejs",
@@ -868,7 +868,7 @@ var museums = [
    Webpage: "http://parkulturu.lv/kekavas-novadpetniecibas-muzejs",
    Other_languages: "",
    Additional_information: "Vēlams iepriekš pieteikties.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lapmežciema muzejs",
@@ -881,7 +881,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Sestdienās un svētdienās muzejs atvērts pēc pieprasījuma.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latgales kultūrvēstures muzejs",
@@ -894,7 +894,7 @@ var museums = [
    Webpage: "http://www.rezekne.lv/kultura/latgales-kulturvestures-muzejs/",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Vasaras sezonā - no 1. jūnija līdz 31. augustam - izstāžu zāles un ekspozīcijas atvērtas pēc vasaras darba laika:;trešdienās 11:00-19:00; ceturtdienās 11:00-18.00; piektdienās 11:00-19:00; sestdienās 10:00-16:00; svētdienās 10:00-15:00; pirmdienās, otrdienās - slēgtas.;;No 1. septembra līdz 31. maijam -  no otrdienas līdz piektdienai izstāžu zāles un ekspozīcijas apmeklētājiem atvērtas 10:00-17:00; sestdienās 10:00-16:00; svētdienās, pirmdienās - slēgtas.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvenergo koncerna Enerģētikas muzeja ekspozīcija Pļaviņu HES",
@@ -907,7 +907,7 @@ var museums = [
    Webpage: "https://www.latvenergo.lv/lat/energetikas_muzejs/ekspozicija_plavinu_hes/",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvenergo koncerna Enerģētikas muzejs",
@@ -920,7 +920,7 @@ var museums = [
    Webpage: "https://www.latvenergo.lv/lat/energetikas_muzejs/",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Enerģētikas muzejs Ķeguma prospektā 7/9, Ķegumā, Ķeguma novadā no maija līdz oktobrim (ieskaitot) atvērts no pirmdienas līdz svētdienai no 09:00-17:00.;;Enerģētikas muzeja krātuves un administratīvā ēka Andrejostas ielā 19, Andrejsalā, Rīgā atvērta darba dienās no 09:00-17:00 (piektdienās no 09:00-16:00).;;Muzejs ir slēgts oficiālajās svētku dienās.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Arhitektūras muzejs",
@@ -933,7 +933,7 @@ var museums = [
    Webpage: "http://www.archmuseum.lv/",
    Other_languages: "Angļu valoda",
    Additional_information: "Sestdienās un svētdienās muzejs ir slēgts.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Ceļu muzejs",
@@ -946,7 +946,7 @@ var museums = [
    Webpage: "http://celumuzejs.lv/",
    Other_languages: "Angļu valoda",
    Additional_information: "Tabulā norādīts darba laiks vasaras sezonā, no 2. maija līdz 31. oktobrim.;Muzeja darba laiks ziemas sezonā, no 1. novembra līdz 30. aprīlim:;;;no pirmdienas līdz piektdienai - 9.00-16.00;sestdienās un svētdienās - slēgts;;Svētku dienās muzejs slēgts.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Dabas muzejs",
@@ -959,7 +959,7 @@ var museums = [
    Webpage: "http://www.dabasmuzejs.gov.lv/",
    Other_languages: "Angļu valoda;Krievu valoda;Vācu valoda;Franču valoda",
    Additional_information: "Darba laiks izstāžu apskatei sestdienās un svētdienās var atšķirties no muzeja darba laika.;Pirms valsts svētku dienām darba laiks tiek saīsināts par 1 stundu; valsts svētku dienās muzejs slēgts.;Skolēnu rudens un pavasara brīvlaikā muzejs apmeklētājiem atvērts arī pirmdien un otrdien 10.00-17.00",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas dzelzceļa vēstures muzejs",
@@ -972,7 +972,7 @@ var museums = [
    Webpage: "http://www.railwaymuseum.lv",
    Other_languages: "Angļu valoda",
    Additional_information: "Ekspozīcija Jelgavā, Stacijas ielā 3, atvērta apmeklētājiem:;;trešdien - 10:00-17:00;;ceturtdien - 11:00-19:00;;piektdien - 10:00-17:00;;sestdien - 10:00-17:00;;svētdien, pirmdien, otrdien - slēgta.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Etnogrāfiskā brīvdabas muzeja ekspozīcija zvejnieka - zemnieka sēta \"Vītolnieki\"",
@@ -985,7 +985,7 @@ var museums = [
    Webpage: "http://brivdabasmuzejs.lv/muzejs/zvejnieka-zemnieka-seta-vitolnieki/",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Etnogrāfiskā brīvdabas muzeja lauku ekspozīcija \"Vēveri\" Vecpiebalgas novadā",
@@ -998,7 +998,7 @@ var museums = [
    Webpage: "",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Apmeklētājiem muzejs atvērts katru dienu 10.00-17.00. Piesakoties dienu iepriekš, apmeklējums iespējams arī ārpus darba laika. Tālr. 29364806",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Etnogrāfiskais brīvdabas muzejs",
@@ -1011,7 +1011,7 @@ var museums = [
    Webpage: "http://brivdabasmuzejs.lv/",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Vasaras sezonā no 1. maija līdz 30. septembrim muzeja teritorija atvērta apmeklētājiem katru dienu 10:00 - 20:00. ;Muzeja eksponātēkas vasaras un ziemas sezonā ir atvērtas katru dienu no 10:00 līdz 17:00.  Vasaras sezonā katru dienu atvērti vismaz pieci ēku kompleksi (novadu sētas) un Usmas baznīca, ziemas sezonā - divi kompleksi - Kurzemes zemnieka sētas dzīvojamā māja \"Vecķērves\", Kurzemes zvejnieku ciema dzīvojamā māja \"Lurķi\").  ;Slēgtās eksponātēkas pieejamas pēc iepriekšēja pieteikuma vai pieprasījuma.   ",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Fotogrāfijas muzejs ",
@@ -1024,7 +1024,7 @@ var museums = [
    Webpage: "http://www.fotomuzejs.lv",
    Other_languages: "Angļu valoda",
    Additional_information: "No 1. maija līdz 1. oktobrim trešdienās, piektdienās, sestdienās un svētdienās muzejs atvērts no 10:00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Kara muzeja nodaļa \"O. Kalpaka muzejs un piemiņas vieta \"Airītes\"\"",
@@ -1037,7 +1037,7 @@ var museums = [
    Webpage: "http://www.karamuzejs.lv/lv/ok.aspx",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "No 1.decembra līdz 31.martam muzejs pirmdienās ir slēgts. Piemiņas vieta pieejama apmeklētājiem katru dienu bez laika ierobežojuma.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Kara muzeja nodaļa \"Ziemassvētku kauju muzejs\"",
@@ -1050,7 +1050,7 @@ var museums = [
    Webpage: "http://www.karamuzejs.lv/zm.aspx",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "No 1.janvāra līdz 30.aprīlim muzejs svētdienās un pirmdienās ir slēgts. Brīvdabas ekspozīcija pieejama apmeklētājiem katru dienu bez laika ierobežojuma.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Kara muzejs",
@@ -1063,7 +1063,7 @@ var museums = [
    Webpage: "http://www.karamuzejs.lv",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Ziemas sezonā, no novembra līdz martam, muzejs atvērts no 10:00 līdz 17:00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Kultūras akadēmijas Eduarda Smiļģa Teātra muzejs",
@@ -1076,7 +1076,7 @@ var museums = [
    Webpage: "http://teatramuzejs.lv/",
    Other_languages: "",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Lauksaimniecības muzejs",
@@ -1089,7 +1089,7 @@ var museums = [
    Webpage: "http://www.llm.lv",
    Other_languages: "",
    Additional_information: "Vasaras sezonā, no 1. maija līdz 30. septembrim, muzejs atvērts apmeklētājiem arī sestdienās un svētdienās no 10:00 līdz 15:00.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Mākslinieku savienības muzejs",
@@ -1102,7 +1102,7 @@ var museums = [
    Webpage: "http://lms.lv/index.php/cat_id/29/lng/lv",
    Other_languages: "Angļu valoda",
    Additional_information: "",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Nacionālā vēstures muzeja nodaļa \"Dauderi\" ",
@@ -1115,7 +1115,7 @@ var museums = [
    Webpage: "http://lnvm.lv/?page_id=163",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Muzejs ir slēgts oficiālajās svētku dienās:;;1. janvārī, Lielajā Piektdienā, Lieldienās, Latvijas Republikas Neatkarības deklarācijas pasludināšanas dienā (4.maijā), Līgo un Jāņu dienās (23., 24.jūnijā), Latvijas Republikas proklamēšanas dienā (18. novembrī), Ziemassvētkos (24., 25., 26.decembrī), Vecgada dienā (31. decembrī).;",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Nacionālā vēstures muzeja nodaļa \"Tautas frontes muzejs\"",
@@ -1128,7 +1128,7 @@ var museums = [
    Webpage: "http://lnvm.lv/?page_id=3820 ",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Muzejs ir slēgts oficiālajās svētku dienās: 1. janvārī, Lielajā Piektdienā, Lieldienās, Darba svētkos (1. maijā), Līgo un Jāņu dienās (23., 24. jūnijā), Latvijas Republikas proklamēšanas dienā (18. novembrī), Ziemassvētkos (24., 25., 26. decembrī), Vecgada dienā (31. decembrī).;;",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Nacionālais mākslas muzejs",
@@ -1141,7 +1141,7 @@ var museums = [
    Webpage: "http://www.lnmm.lv",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Muzeja kasi slēdz 30 minūtes pirms muzeja darba laika beigām. ;;Muzejs ir slēgts oficiālajās svētku dienās: Līgo un Jāņu dienās (23.–24. jūnijā), Ziemassvētkos (25.–26. decembrī), 31. decembrī.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Nacionālais vēstures muzejs",
@@ -1154,7 +1154,7 @@ var museums = [
    Webpage: "http://lnvm.lv/",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Muzejs ir slēgts apmeklētājiem pirmdienās, kā arī oficiālajās svētku dienās: 1. janvārī, Lielajā Piektdienā, Lieldienās, 1. maijā (Latvijas Republikas Satversmes sapulces sasaukšanas diena), 4. maijā (Latvijas Republikas Neatkarības deklarācijas pasludināšanas diena), Līgo un Jāņu dienās (23., 24.jūnijā), Ziemassvētkos (24.,25., 26.decembrī), Vecgada dienā (31. decembrī).;Informāciju par darba laiku LNVM struktūrvienībās skatīt sadaļās \"Latvijas Nacionālā vēstures muzeja nodaļa \"Dauderi\"\", \"Latvijas Nacionālā vēstures muzeja nodaļa \"Tautas Frontes muzejs\"\".;Vasaras sezonā (jūnijā, jūlijā, augustā) muzejs Brīvības bulvārī 32 otrdienās apmeklētājiem atvērts no 11.00 līdz 19.00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Okupācijas muzejs",
@@ -1167,7 +1167,7 @@ var museums = [
    Webpage: "http://okupacijasmuzejs.lv/",
    Other_languages: "Angļu valoda;Krievu valoda;Vācu valoda",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Sporta muzejs",
@@ -1180,7 +1180,7 @@ var museums = [
    Webpage: "http://sportamuzejs.lv/",
    Other_languages: "Angļu valoda",
    Additional_information: "Muzeja krājuma darba laiks - no otrdienas līdz piektdienai (10.00-17.00), iepriekš piesakoties, zvanot pa tālruni 67225127 vai rakstot uz e-pastu: solvita.lomanova@sportamuzejs.lv.;;Grāmatu un periodisko izdevumu krātuves darba laiks - no trešdienas līdz piektdienai (11.00-16.00), iepriekš piesakoties, zvanot pa tālruni 67225127 vai rakstot uz muzeja e-pastu: sportmuz@apollo.lv. ;;Muzejs nestrādā valsts svētku dienās: 4. maijā, 18. novembrī, Ziemassvētkos no 24. līdz 26. decembrim, Vecgada vakarā 31. decembrī un Jaungada dienā 1. janvārī, kā arī 1. maijā, Lielajā piektdienā, Lieldienu un Jāņu svinību laikā.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Ugunsdzēsības muzejs",
@@ -1193,7 +1193,7 @@ var museums = [
    Webpage: "http://www.muzejs@vugd.gov.lv",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Iepriekš vienojoties, iespēja muzeju apmeklēt ārpus darba laika",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Universitātes Muzejs",
@@ -1206,7 +1206,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Liepājas Muzejs",
@@ -1219,7 +1219,7 @@ var museums = [
    Webpage: "http://liepajasmuzejs.lv/lv/lm/",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Liepājas muzeju ir iespējams apmeklēt arī pirmdienās un otrdienās, ja iepriekš ir pieteikta ekskursija, muzejpedagoģijas nodarbība vai cits plānots pasākums. ;;Nepieciešamības gadījumā, ja notiek iepriekš plānots pasākums, ekskursija vai koncerts, muzejs strādā pēc plkst. 18:00. ;;2017. gadā, pateicoties Nodarbinātības dienesta atbalstam, muzejs vasaras mēnešos bija atvērts katru dienu no 10:00 līdz 18:00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Limbažu muzejs",
@@ -1232,7 +1232,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Tūrisma sezonā, no 1. maija līdz 1. oktobrim, muzeja darba laiks 10:00-18:00.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "LKA Rīgas Kino muzejs",
@@ -1245,7 +1245,7 @@ var museums = [
    Webpage: "http://www.kinomuzejs.lv",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Krājuma darba laiks: pirmdien - piektdien no 9:00-17:00",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "LNMM izstāžu zāle \"Arsenāls\"",
@@ -1258,7 +1258,7 @@ var museums = [
    Webpage: "http://www.lnmm.lv/lv/ars",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Izstāžu zāles kasi slēdz 15 minūtes pirms muzeja darba laika beigām. ;;Izstāžu zāle ir slēgta izstāžu maiņas periodos, kā arī oficiālajās svētku dienās: 1. janvārī, Lielajā Piektdienā, Lieldienās, Līgo un Jāņu dienās (23.–24. jūnijā), Ziemassvētkos (25.–26. decembrī), 31. decembrī.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ludzas Novadpētniecības muzejs",
@@ -1271,7 +1271,7 @@ var museums = [
    Webpage: "http://ludzasmuzejs.lv/",
    Other_languages: "",
    Additional_information: "Ziemas periodā - no 01.11. līdz 31.03. - muzeja darba laiks sestdienās bija no plkst. 10:00 līdz 15:00. Muzejs ir slēgts oficiālajās svētku dienās: 1. janvārī, Lielajā Piektdienā, Lieldienās, 4. maijā (Latvijas Republikas Neatkarības deklarācijas pasludināšanas diena - * pēc pieprasījuma muzejs strādā, ja tiek rīkots pasākums, par to apmeklētāji tiek informēti atsevišķi: informācija vietējā un reģionālajā presē, mājas lapā - muzeja un pašvaldības, informācija uz reklāmas staba pie muzeja vārtiem), Līgo un Jāņu dienās (23., 24.jūnijā - muzejs strādā pēc pieprasījuma*), Latvijas Republikas proklamēšanas dienā (18. novembrī - strādā pēc pieprasījuma*), Ziemassvētkos (25., 26.decembrī), Vecgada dienā (31. decembrī).;;Pēc iepriekšējā pieteikuma ekskursijas tiek vadītas arī ārpus darba laika. ",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Madonas novadpētniecības un mākslas muzejs",
@@ -1284,7 +1284,7 @@ var museums = [
    Webpage: "http://www.madonasmuzejs.lv",
    Other_languages: "",
    Additional_information: "Krājuma un administrācijas ēka Skolas ielā 12, Madonā, darba laiks: ;darbdienās no 8.00 - 17.00 ;brīvdienas - sestdiena, svētdiena;;Muzeja Etnogrāfijas un sadzīves priekšmetu krātuve Sarkaņos, Sarkaņu pagastā, Madonas novadā, darba laiks: ;pirmdienās - brīvs ;otrdiena - piektdiena no 10.00 - 17.00;sestdiena, svētdiena - pēc iepriekšēja pieteikuma mob.t.20221997 ",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mākslas muzejs \"Rīgas Birža\" ",
@@ -1297,7 +1297,7 @@ var museums = [
    Webpage: "http://lnmm.lv/lv/mmrb",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Muzeja kasi slēdz 15 minūtes pirms muzeja darba laika beigām. ;;Muzejs ir slēgts oficiālajās svētku dienās: 1. janvārī, Lielajā Piektdienā, Lieldienās, Līgo un Jāņu dienās (23.–24. jūnijā), Ziemassvētkos (25.–26. decembrī), 31. decembrī.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Maltas vēstures muzejs",
@@ -1310,7 +1310,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Maltas vēstures muzeju iespējams apmeklēt arī ārpus noteiktā darba laika, iepriekš sazinoties un vienojoties pa tālruni: 64621521.;Tūrisma aktīvajā periodā sestdienās no plkst. 12:00 - plkst. 16:00( maijs - oktobris).; Periodā no novembra līdz aprīlim -  sestdien, svētdien brīvs.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mazsalacas novada muzejs",
@@ -1323,7 +1323,7 @@ var museums = [
    Webpage: "http://www.mnhm.id.lv/index.html",
    Other_languages: "",
    Additional_information: "Iepriekš piesakoties  mob. 26519165 saskaņosim muzeja apmeklējumu interesentam vēlamā laikā.;Muzeja atvērts apmeklētājiem no 26.oktobra līdz 30.aprīlim otrdienās, trešdienā un ceturtdienā no 11,00 līdz 16,00",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Memoriālo muzeju apvienība",
@@ -1336,7 +1336,7 @@ var museums = [
    Webpage: "http://www.memorialiemuzeji.lv",
    Other_languages: "Krievu valoda;Angļu valoda;Krievu valoda;Angļu valoda",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mencendorfa nams. Rīdzinieku 17.-18.gs. māja-muzejs.",
@@ -1349,7 +1349,7 @@ var museums = [
    Webpage: "http://www.mencendorfanams.com",
    Other_languages: "Angļu valoda;Krievu valoda;Vācu valoda",
    Additional_information: "Ziemas sezonā, no 1.oktobra līdz 1.maijam, muzejs atvērts no trešdienas līdz svētdienai 11.00 – 17.00.;Vasaras sezonā, no 2.maija līdz 30.septembrim muzejs atvērts katru dienu 10.00 – 17.00.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Muzejs \"Ebreji Latvijā\"",
@@ -1362,7 +1362,7 @@ var museums = [
    Webpage: "https://ebrejumuzejs.lv",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: ";Vasaras laikā (jūnijs, jūlijs, augusts) muzejs strādā arī piektdienās no 11.00 līdz 17.00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Muzejs \"Rīgas Jūgendstila centrs\"",
@@ -1375,7 +1375,7 @@ var museums = [
    Webpage: "http://jugendstils.riga.lv",
    Other_languages: "Angļu valoda",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Naujenes Novadpētniecības muzejs",
@@ -1388,7 +1388,7 @@ var museums = [
    Webpage: "http://naujenesmuzejs.lv/",
    Other_languages: "Krievu valoda",
    Additional_information: "Ārpusmuzeja ekspozīcija \"Slutišķu vecticībnieku lauku sēta\" tūrisma sezonas laikā atvērta no trešdienas līdz svētdienai 10:00- 19:00. Pirmdiena, otrdiena - brīvdiena. Ārpus tūrisma sezonas ekspozīciju iespējams apmeklēt iepriekš piesakoties.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Naukšēnu Cilvēkmuzejs",
@@ -1401,7 +1401,7 @@ var museums = [
    Webpage: "http://cilvekmuzejs.naukseni.lv/",
    Other_languages: "",
    Additional_information: "Tūrisma sezonā no 1. maija līdz 1. oktobrim strādājam sestdienās un svētdienās, pirmdienās muzejs ir slēgts. Iepriekš piesakoties, muzeju iespējams apmeklēt arī ārpus oficiālā darba laika.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ogres Vēstures un mākslas muzejs",
@@ -1414,7 +1414,7 @@ var museums = [
    Webpage: "http://www.ogresmuzejs.lv",
    Other_languages: "",
    Additional_information: "Darba laiks kopš muzeja atvēršanas jaunajā ēkā Brīvības ielā 36",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ojāra Vācieša muzejs",
@@ -1427,7 +1427,7 @@ var museums = [
    Webpage: "http://www.vaciesamuzejs.lv",
    Other_languages: "",
    Additional_information: "Vasaras periodā, no 1. jūnija līdz 31. augustam, O. Vācieša muzejs trešdienās atvērts no 12.00 līdz 19.00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Olaines Vēstures un mākslas muzejs",
@@ -1440,7 +1440,7 @@ var museums = [
    Webpage: "http://olainesmuzejs.lv/",
    Other_languages: "",
    Additional_information: "Iepriekš pieteiktie individuālie un grupu muzeja apmeklējumi tiek pieņemti arī ārpus muzeja  darba laika.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Pāles novadpētniecības muzejs",
@@ -1453,7 +1453,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Minētais darba laiks ir sezonā  no 01.06.- 01.10. Pārējā laikā muzeja atvērts darba dienās no 11.00 - 16.00 . Iepriekš pieteiktas ekskursijas notiek jebkurā citā apmeklētājiem vēlamā laikā un dienā . ",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pastariņa muzejs",
@@ -1466,7 +1466,7 @@ var museums = [
    Webpage: "http://www.tukumamuzejs.lv/pastarina-muzejs/par-pastarina-muzeju",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Pirmdienās un otrdienās muzejs apmeklētājiem slēgts.;Grupas pieteikt iepriekš.;;",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Paula Stradiņa Medicīnas vēstures muzejs",
@@ -1479,7 +1479,7 @@ var museums = [
    Webpage: "http://www.mvm.lv/lv/",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pāvilostas novadpētniecības muzejs",
@@ -1492,7 +1492,7 @@ var museums = [
    Webpage: "http://www.pavilosta.lv/lv/kultra/muzeji/pvilostasnov",
    Other_languages: "",
    Additional_information: "Darba laiks vasaras sezonā, no 15. maija līdz 14. septembrim:;Trešdiena  9.00-17.00;Ceturtdiena 9.00-17.00;Piektdiena 9.00-17.00;Sestdiena 12.00-16.00;Svētdiena 12.00-16.00",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pētera Upīša piemiņas muzejs",
@@ -1505,7 +1505,7 @@ var museums = [
    Webpage: "http://www.darzkopibasinstituts.lv/lv/p-upisa-pieminas-muzejs",
    Other_languages: "Angļu valoda",
    Additional_information: "Sestdien, svētdien iepriekšēja pieteikšanās. No 15.05. - 15.09. muzejs strādā no trešdienas līdz svētdienai, pirmdien, otrdien iepriekšēja pieteikšanās. Ceriņu ziedēšanas laikā muzejs strādā bez brīvdienām no 9.00 - 19.00",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Piebalgas muzeju apvienība \"Orisāre\"",
@@ -1518,7 +1518,7 @@ var museums = [
    Webpage: "http://www.piebalgasmuzeji.lv/",
    Other_languages: "",
    Additional_information: "Komunikāciju daļas apmeklētāju pieņemšanas laiks:  ;\"Norkalni-2\", Vecpiebalgā;16.oktobris - 14.maijs;trešdiena 8.00 - 12.00; 13.00 - 17.00;;Muzeju apvienības vadītājas apmeklētāju pieņemšanas darba laiks:;\"Norkalni-2\", Vecpiebalgā;pirmdiena- 9.00-17.00;;",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Preiļu vēstures un lietišķās mākslas muzejs",
@@ -1531,7 +1531,7 @@ var museums = [
    Webpage: "http://www.preili.lv/page/555",
    Other_languages: "",
    Additional_information: "Tabulā norādīts ekspozīciju un apskates objektu darba laiks. Interesenti un pētnieki var saņemt speciālistu informāciju katru darba dienu no plkst. 8:00 līdz 17:00. Polikarpa Čerņavska keramikas māja sezonas laikā no maija līdz oktobrim atvērta katru dienu.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Profesora Aleksandra Bieziņa muzejs",
@@ -1544,7 +1544,7 @@ var museums = [
    Webpage: "http://abm.mvm.lv/lv",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Pirmsvētku dienās muzejs atvērts no 12:00 līdz 17:00;Muzeja apmeklējums ārpus darba laika iespējams sazinoties zvanot 29452112 vai 26496284;Muzejs slēgts pirmdien, otrdien",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Raiņa māja Berķenelē",
@@ -1557,7 +1557,7 @@ var museums = [
    Webpage: "http://www.rainamaja.lv",
    Other_languages: "",
    Additional_information: "Sezonas darba laiks: 15.maijs -15.oktobris (otrdiena - sestdiena 10:00-18.00):;16.oktobris - 14.maijs - iepriekš piesakoties:;Telpu īre - visu gadu.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Raiņa muzejs \"Jasmuiža\"",
@@ -1570,7 +1570,7 @@ var museums = [
    Webpage: "http://memorialiemuzeji.lv/muzeji/raina-un-aspazijas-muzejs/raina-muzejs-jasmuiza/",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Apmeklētājiem atvērts vasaras sezonā: no 1. maija līdz 31. oktobrim T; C; P; S; Sv 10:00 - 17:00 Brīvdiena - pirmdiena; otrdiena ",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Raiņa muzejs \"Tadenava\"",
@@ -1583,7 +1583,7 @@ var museums = [
    Webpage: "http://memorialiemuzeji.lv/muzeji/raina-un-aspazijas-muzejs/raina-muzejs-tadenava/",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Muzejs atvērts no 1. maija līdz 31. oktobrim",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Raiņa un Aspazijas māja",
@@ -1596,7 +1596,7 @@ var museums = [
    Webpage: "http://www.aspazijarainis.lv/",
    Other_languages: "",
    Additional_information: "Katra mēneša pēdējā sestdienā ieeja muzejā bez maksas.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Raiņa un Aspazijas muzejs (apvienība)",
@@ -1609,7 +1609,7 @@ var museums = [
    Webpage: "http://www.aspazijarainis.lv/",
    Other_languages: "Angļu valoda",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Raiņa un Aspazijas vasarnīca",
@@ -1622,7 +1622,7 @@ var museums = [
    Webpage: "http://www.aspazijarainis.lv/raina-un-aspazijas-vasarnica/",
    Other_languages: "",
    Additional_information: "Katra mēneša pēdējā sestdienā ieeja muzejā bez maksas.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rakstniecības un mūzikas muzejs",
@@ -1635,7 +1635,7 @@ var museums = [
    Webpage: "http://www.rmm.lv",
    Other_languages: "Angļu valoda",
    Additional_information: "Projekta \"Rakstniecības un mūzikas muzeja rekonstrukcija\" īstenošanas nolūkos muzeja ēka (Pils laukumā 2) apmeklētājiem slēgta. Muzeja pakalpojums pieejams ceļojošā formātā - sīkāka informācija mājaslapā. 2014.gada novembrī muzejs sāka pārcelšanos uz pagaidu telpām. Sākot ar 2015.gadu muzeja faktiskā adrese - Tērbatas iela 75, Rīgā.;Muzeja lasītavas darba laiks: pirmdienās - ceturtdienās 9:00 - 16:30.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Retro auto muzejs",
@@ -1648,7 +1648,7 @@ var museums = [
    Webpage: "http://www.automuzejs.lv",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Jebkurā citā laikā muzeju var apmeklēt, iepriekš piesakoties pa tālruni  +371 26414162 un saskaņojot laiku.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Motormuzejs",
@@ -1661,7 +1661,7 @@ var museums = [
    Webpage: "http://www.motormuzejs.lv/",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas pašvaldības kultūras iestāžu apvienības Rīgas Porcelāna muzejs",
@@ -1674,7 +1674,7 @@ var museums = [
    Webpage: "http://porcelanamuzejs.riga.lv/ ",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "vasaras sezonā - no maija līdz septembrim ieskaitot - trešdienās pagarināts darba laiks no 11:00-19:00",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Stradiņa universitātes Anatomijas muzejs",
@@ -1687,7 +1687,7 @@ var museums = [
    Webpage: "https://www.rsu.lv/rsu-anatomijas-muzejs",
    Other_languages: "Angļu valoda",
    Additional_information: "",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Stradiņa universitātes muzejs",
@@ -1700,7 +1700,7 @@ var museums = [
    Webpage: "https://www.rsu.lv/par-rsu/muzeji",
    Other_languages: "Angļu valoda",
    Additional_information: "Par muzeja apmeklējumu ārpus darba laika vai brīvdienās jāvienojas iepriekš, zvanot pa tālruni 22003426 vai rakstot e-pastu muzejs@rsu.lv. ",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas vēstures un kuģniecības muzejs",
@@ -1713,7 +1713,7 @@ var museums = [
    Webpage: "http://www.rigamuz.lv",
    Other_languages: "Angļu valoda;Krievu valoda;Vācu valoda",
    Additional_information: "No 1. maija līdz 30.septembrim muzejs atvērts katru dienu no 10:00-17:00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Roberta Mūka muzejs Galēnos",
@@ -1726,7 +1726,7 @@ var museums = [
    Webpage: "http://www.riebini.lv/lv/sidemenu/nozares/kultura/r-muka-muzejs",
    Other_languages: "",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rojas Jūras zvejniecības muzejs",
@@ -1739,7 +1739,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "No maija līdz augustam muzejs atvērts otrdienās, trešdienās, ceturtdienās, piektdienās, no 10:00 līdz 18:00; sestdienās no 10:00 līdz 17:00; svētdienās no 10:00 līdz 15:00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Romana Sutas un Aleksandras Beļcovas muzejs",
@@ -1752,7 +1752,7 @@ var museums = [
    Webpage: "http://www.lnmm.lv/lv/sbm/",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Muzeja kasi slēdz 15 minūtes pirms muzeja darba laika beigām.;;Muzejs ir slēgts oficiālajās svētku dienās: 1. janvārī, Lielajā Piektdienā, Lieldienās, Līgo un Jāņu dienās (23.–24. jūnijā), Ziemassvētkos (25.–26. decembrī), 31. decembrī.;;Jūlijā muzeju var apmeklēt pēc iepriekšējas pieteikšanās pa tālruni 67288800, 26641249 (sms) vai epastu sbm@lnmm.lv",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rūdolfa Blaumaņa memoriālais muzejs ''Braki''",
@@ -1765,7 +1765,7 @@ var museums = [
    Webpage: "https://braki.lv",
    Other_languages: "Angļu valoda;Vācu valoda",
    Additional_information: "Muzejs atvērts apmeklētājiem no 10. maija līdz 1. novembrim,  no 1. novembra līdz 10. maijam - pēc iepriekšēja pieteikuma.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rundāles pils muzejs",
@@ -1778,7 +1778,7 @@ var museums = [
    Webpage: "http://www.rundale.net",
    Other_languages: "Angļu valoda;Krievu valoda;Vācu valoda",
    Additional_information: "Muzeja darba laiks:;maijs līdz oktobris no plkst.10:00 līdz 18:00,;novembris līdz aprīlis no plkst. 10.00 līdz 17.00. ;Parka darba laiks:;maijā un oktobrī no plkst.10.00 līdz 18.00;jūnijs līdz oktobris no plkst.10.00 līdz 19.00. ;Jūnijā, jūlijā un augustā piektdienās, sestdienās un svētdienās no plkst.10.00 līdz 21.00. ",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salacgrīvas muzejs",
@@ -1791,7 +1791,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "No 1. jūnija līdz 30.septembrim muzejs otrdienās, trešdienās, ceturtdienās un piektdienās atvērts no 10:00 līdz 17:00 un sestdienās no 10:00 līdz 15:00. Par apmeklējumu citā laikā var vienoties, iepriekš piezvanot pa tālruni +371 64 071 981.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Skrindu dzimtas muzejs",
@@ -1804,7 +1804,7 @@ var museums = [
    Webpage: "http://skrindumuzejs.lv/",
    Other_languages: "",
    Additional_information: "Darba laiks no jūnija līdz septembrim: ;otrdiena - sestdiena 09:00 - 18:00;Iepriekš piesakoties - arī brīvdienās un ārpus darba laika.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Smiltenes novada muzejs",
@@ -1817,7 +1817,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Staiceles Lībiešu muzejs \"Pivālind\"",
@@ -1830,7 +1830,7 @@ var museums = [
    Webpage: "http://www.aloja.lv/kultura/staiceles-libiesu-muzejs-pivalind/",
    Other_languages: "",
    Additional_information: "No 1. maija līdz 30. septembrim Staiceles lībiešu muzejs \"Pivālind\" atvērts apmeklētājiem O, T, C, P, Se, no 11.00 līdz 16.00. Brīvdienas: svētdiena, pirmdiena.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada muzejs",
@@ -1843,7 +1843,7 @@ var museums = [
    Webpage: "http://www.talsumuzejs.lv",
    Other_languages: "Angļu valoda;Krievu valoda;Vācu valoda",
    Additional_information: "Speciālistu pieņemšanas laiks: pirmdien - piektdien 9:00 - 17:00",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Tēlnieka Voldemāra Jākobsona memoriālā māja",
@@ -1856,7 +1856,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: " ;Tēlnieka Voldemāra Jākobsona memoriālā māja apmeklētājiem atvērta vasaras sezonā, no 1. maija līdz 30. septembrim. Pārējā laikā  apmeklējums iespējams, iepriekš piesakoties telefoniski.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Tukuma Audēju darbnīca",
@@ -1869,7 +1869,7 @@ var museums = [
    Webpage: "http://www.tukumamuzejs.lv/audeju-darbnica",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Pirmdienas, svētdienas Tukuma Audēju darbnīca apmeklētājiem slēgta.;Muzejs slēgts oficiālajās svētku dienās: 1. janvārī, Lielajā Piektdienā, Vasaras saulgriežos (23.-24. jūnijā), Ziemassvētkos (24.-25. decembrī), 31. decembrī.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tukuma Mākslas muzejs",
@@ -1882,7 +1882,7 @@ var museums = [
    Webpage: "http://www.tukumamuzejs.lv/makslas-muzejs",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Pirmdienas apmeklētājiem slēgts.;Muzejs ir slēgts oficiālajās svētku dienās: 1. janvārī, Lielajā Piektdienā, Vasaras saulgriežos (23.-24. jūnijā), Ziemassvētkos (24.-25. decembrī), 31. decembrī.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tukuma muzejs",
@@ -1895,7 +1895,7 @@ var museums = [
    Webpage: "http://www.tukumamuzejs.lv/kontaktinformacija",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tukuma pilsētas vēstures muzejs „Pils tornis”",
@@ -1908,7 +1908,7 @@ var museums = [
    Webpage: "http://tukumamuzejs.lv/pils-tornis",
    Other_languages: "Angļu valoda;Krievu valoda",
    Additional_information: "Pirmdienās muzejs apmeklētājiem slēgts.;",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Turaidas muzejrezervāts",
@@ -1921,7 +1921,7 @@ var museums = [
    Webpage: "http://www.turaida-muzejs.lv",
    Other_languages: "Angļu valoda;Krievu valoda;Vācu valoda;Franču valoda;Spāņu valoda;Igauņu valoda;Lietuviešu valoda",
    Additional_information: "No 1.maija līdz 31.oktobrim muzeja ekspozīcijas var apskatīt katru dienu no plkst.10.00 līdz plkst.18.00. Papildus darba laiks brīvdabas ekspozīciju apskatei no 1.maija līdz 30.septembrim, plkst.9.00 līdz plkst.10.00 un no plkst.18.00 līdz plkst.20.00. ;No 1.aprīļa līdz 30.aprīlim un no 1.oktobra līdz 31.oktobrim muzejrezervāta teritrorija ir atvērta līdz plkst.19.00;",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Upītes kultūrvēstures muzejs",
@@ -1934,7 +1934,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Muzeja apmeklētāji tiek laipni uzņemti arī ārpus darba laika, iepriekš sazinoties pa telefonu un norunājot datumu un laiku. Zvanīt Ligitai 29868786.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "V. Plūdoņa muzejs ",
@@ -1947,7 +1947,7 @@ var museums = [
    Webpage: "http://www.bauskasmuzejs.lv/i?id=76",
    Other_languages: "Angļu valoda",
    Additional_information: "Sezonas darbs no 1.maija līdz 31.oktobrim",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valkas novadpētniecības muzejs",
@@ -1960,7 +1960,7 @@ var museums = [
    Webpage: "http://muzejs.valka.lv",
    Other_languages: "Angļu valoda;Krievu valoda;Igauņu valoda",
    Additional_information: "No 15. maija līdz 30. septembrim: otrdiena - piektdiena 11:00 - 18:00; sestdiena, svētdiena 10:00 - 16:00",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras muzejs",
@@ -1973,7 +1973,7 @@ var museums = [
    Webpage: "http://valmierasmuzejs.lv/",
    Other_languages: "Krievu valoda;Angļu valoda;Vācu valoda;Igauņu valoda",
    Additional_information: "Jūnijā, jūlijā un augustā muzejs atvērts arī svētdienās no 10.00 līdz 15.00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Varakļānu Novada muzejs",
@@ -1986,7 +1986,7 @@ var museums = [
    Webpage: "http://www.varaklani.lv/kultura/varaklanu-novada-muzejs",
    Other_languages: "",
    Additional_information: "Ziemas sezonā muzejs atvērts apmeklētājiem no pirmdienas līdz sestdienai no 10:00 -; 17:00, brīvdiena - svētdiena. ;Tūrisma sezonā no 01. maija līdz 28. oktobrim muzejs apmeklētājiem bija atvērts visas dienas, arī pirmdienā uz pieprasījumu.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vārkavas novadpētniecības muzejs",
@@ -1999,7 +1999,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Sestdienās un Svētdienās muzejs strādā pēc iepriekšēja pieteikuma",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils muzejs. Herberta Dorbes muzejs \"Senču putekļi\"",
@@ -2012,7 +2012,7 @@ var museums = [
    Webpage: "http://muzejs.ventspils.lv/",
    Other_languages: "Angļu valoda",
    Additional_information: "Iepriekš piesakoties pa tālruņiem 63625004; 29999653, muzejs pieejams arī citā, apmeklētājiem izdevīgā laikā.",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ventspils muzejs. Livonijas ordeņa pils",
@@ -2025,7 +2025,7 @@ var museums = [
    Webpage: "http://muzejs.ventspils.lv",
    Other_languages: "Angļu valoda",
    Additional_information: "Svētku dienās - Lieldienās, Ziemassvētkos, Jaunajā gadā - muzejs strādāja pēc īpaša, katru gadu ar pašvaldību individuāli saskaņota grafika",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ventspils muzejs. Piejūras brīvdabas muzejs",
@@ -2038,7 +2038,7 @@ var museums = [
    Webpage: "http://muzejs.ventspils.lv/",
    Other_languages: "Angļu valoda",
    Additional_information: "Muzejs atvērts no 1. maija līdz 31. oktobrim. No 1. novembra līdz 30. aprīlim muzeja apmeklējums un pedagoģiskās nodarbības pēc pieprasījuma, iepriekš piesakoties pa tālruni +371 63624467.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils muzejs. Ziemeļkurzemes amatniecības centrs \"Amatu māja\" ",
@@ -2051,7 +2051,7 @@ var museums = [
    Webpage: "http://muzejs.ventspils.lv",
    Other_languages: "Angļu valoda",
    Additional_information: "",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vērgales pagasta muzejs",
@@ -2064,7 +2064,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: " Sezonas laikā - no 01.06. līdz 31.10.muzejs atvērts no otrdienas līdz svētdienai, brīvdienas - pirmdiena, otrdiena. No 01.11. līdz 31.05. muzejs atvērts no pirmdienas līdz piektdienai, brīvdienas - sestdiena, svētdiena",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Viesītes muzejs \"Sēlija\"",
@@ -2077,7 +2077,7 @@ var museums = [
    Webpage: "http://www.muzejsselija.lv",
    Other_languages: "",
    Additional_information: "Muzeju iespējams apmeklēt arī ārpus noteiktā darba laika, piesakot apmeklējumu vismaz dienu iepriekš.",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viļakas novada muzejs ",
@@ -2090,7 +2090,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Iepriekš pieteiktās ekskursijas tiek vadītas arī ārpus muzeja darba laika. Muzeja darba laiks aktīvā tūrisma sezonā un pasīvā tūrisma sezonā atšķirīgs.;Aktīvā tūrisma sezonā muzeja darba laiks O.-C. 9.00-17.00, P-9.00-18.00, Se-9.00-16.00, Sv.-P.-slēgts",
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viļānu Novadpētniecības  muzejs",
@@ -2103,7 +2103,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Pusdienu pārtraukums  O., T., C., P. no plkst. 12:00 - 13:00.;;",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Zeltiņu vēstures krātuve",
@@ -2116,7 +2116,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "Vēlams iepriekš pieteikties.;Septembrī darbinieks atvaļinājumā",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Zinātnes un tehnoloģiju muzejs \"Kurzemes Democentrs\"",
@@ -2129,7 +2129,7 @@ var museums = [
    Webpage: "",
    Other_languages: "",
    Additional_information: "",
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Žaņa Lipkes memoriāls",
@@ -2142,6 +2142,6 @@ var museums = [
    Webpage: "http://www.lipke.lv",
    Other_languages: "Krievu valoda;Angļu valoda",
    Additional_information: "Muzejs nestrādā svētdienās laika periodā no 1. oktobra līdz 30.aprīlim. Vasaras periodā no 1. maija līdz 30. septembrim muzeja darba laiks svētdienās ir no 12:00 līdz 18:00.",
-   Wi-Fi: "Jā"
+   WiFi: true
  }
 ]

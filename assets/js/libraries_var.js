@@ -11,7 +11,7 @@
    Handicapped: "",
    Active_users: 265,
    Collections: 7069,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "A. Spāģa Dunalkas pamatskolas bibliotēka",
@@ -25,7 +25,7 @@
    Handicapped: "",
    Active_users: 63,
    Collections: 2777,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ābeļu pamatskolas bibliotēka",
@@ -39,7 +39,7 @@
    Handicapped: "",
    Active_users: 144,
    Collections: 7833,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Adamovas speciālās internātpamatskolas  bibliotēka",
@@ -53,7 +53,7 @@
    Handicapped: "",
    Active_users: 93,
    Collections: 12977,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ādažu bibliotēka",
@@ -67,7 +67,7 @@
    Handicapped: "",
    Active_users: 1405,
    Collections: 17672,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ādažu Brīvās Valdorfa skolas bibliotēka",
@@ -81,7 +81,7 @@
    Handicapped: "Jā",
    Active_users: 395,
    Collections: 12567,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ādažu vidusskolas bibliotēka",
@@ -95,7 +95,7 @@
    Handicapped: "",
    Active_users: 1441,
    Collections: 9250,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Āgenskalna sākumskolas bibliotēka",
@@ -109,7 +109,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 23877,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Āgenskalna Valsts ģimnāzijas bibliotēka",
@@ -123,7 +123,7 @@
    Handicapped: "",
    Active_users: 901,
    Collections: 22686,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aglonas novada centrālā bibliotēka",
@@ -137,7 +137,7 @@
    Handicapped: "Jā",
    Active_users: 603,
    Collections: 18957,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aglonas novada Grāveru pagasta bibliotēka",
@@ -151,7 +151,7 @@
    Handicapped: "",
    Active_users: 172,
    Collections: 3919,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aglonas novada Šķeltovas pagasta bibliotēka",
@@ -165,7 +165,7 @@
    Handicapped: "",
    Active_users: 116,
    Collections: 3138,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aglonas vidusskolas bibliotēka",
@@ -179,7 +179,7 @@
    Handicapped: "Jā",
    Active_users: 243,
    Collections: 7176,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aiviekstes pagasta bibliotēka",
@@ -193,7 +193,7 @@
    Handicapped: "Jā",
    Active_users: 346,
    Collections: 4936,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aizkraukles novada vidusskolas bibliotēka",
@@ -207,7 +207,7 @@
    Handicapped: "",
    Active_users: 805,
    Collections: 62014,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aizkraukles pagasta bibliotēka",
@@ -221,7 +221,7 @@
    Handicapped: "",
    Active_users: 192,
    Collections: 8681,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aizkraukles pagasta sākumskolas bibliotēka",
@@ -235,7 +235,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 0,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Aizkraukles pilsētas bibliotēka",
@@ -249,7 +249,7 @@
    Handicapped: "Jā",
    Active_users: 2402,
    Collections: 66206,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aizkraukles Profesionālās vidusskolas bibliotēka",
@@ -263,7 +263,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 10651,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Aizkraukles Vakara (maiņu ) vidusskola",
@@ -277,7 +277,7 @@
    Handicapped: "Jā",
    Active_users: 103,
    Collections: 5657,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aizputes novada Cīravas pagasta bibliotēka",
@@ -291,7 +291,7 @@
    Handicapped: "Jā",
    Active_users: 266,
    Collections: 6935,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aizputes novada Kalvenes pagasta bibliotēka",
@@ -305,7 +305,7 @@
    Handicapped: "",
    Active_users: 314,
    Collections: 7857,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aizputes novada Kalvenes pamatskolas  bibliotēka",
@@ -319,7 +319,7 @@
    Handicapped: "",
    Active_users: 120,
    Collections: 4388,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Aizputes pagasta bibliotēka",
@@ -333,7 +333,7 @@
    Handicapped: "",
    Active_users: 102,
    Collections: 3070,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Aizputes pagasta pamatskolas  bibliotēka",
@@ -347,7 +347,7 @@
    Handicapped: "",
    Active_users: 74,
    Collections: 5490,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aizputes pilsētas bibliotēka",
@@ -361,7 +361,7 @@
    Handicapped: "",
    Active_users: 1047,
    Collections: 22464,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aizputes vidusskolas bibliotēka",
@@ -375,7 +375,7 @@
    Handicapped: "Jā",
    Active_users: 601,
    Collections: 37169,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aizupes pamatskolas bibliotēka",
@@ -389,7 +389,7 @@
    Handicapped: "",
    Active_users: 353,
    Collections: 8887,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Aknīstes novada Asares pagasta bibliotēka",
@@ -403,7 +403,7 @@
    Handicapped: "",
    Active_users: 154,
    Collections: 6991,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aknīstes novada Gārsenes pagasta bibliotēka",
@@ -417,7 +417,7 @@
    Handicapped: "",
    Active_users: 211,
    Collections: 6976,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aknīstes vidusskolas bibliotēka",
@@ -431,7 +431,7 @@
    Handicapped: "Jā",
    Active_users: 143,
    Collections: 12017,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Alberta koledžas bibliotēka",
@@ -445,7 +445,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 0,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Aleksandrovas  internātpamatskolas  bibliotēka",
@@ -459,7 +459,7 @@
    Handicapped: "",
    Active_users: 101,
    Collections: 5195,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Alfrēda Kalniņa Cēsu mūzikas vidusskolas bibliotēka",
@@ -473,7 +473,7 @@
    Handicapped: "Jā",
    Active_users: 120,
    Collections: 16914,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Allažu pamatskolas bibliotēka",
@@ -487,7 +487,7 @@
    Handicapped: "",
    Active_users: 127,
    Collections: 12113,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Alojas Ausekļa vidusskolas bibliotēka",
@@ -501,7 +501,7 @@
    Handicapped: "Jā",
    Active_users: 309,
    Collections: 15355,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Alojas novada uzņēmējdarbības atbalsta centrs - bibliotēka SALA",
@@ -515,7 +515,7 @@
    Handicapped: "Jā",
    Active_users: 220,
    Collections: 5531,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Alojas pilsētas bibliotēka",
@@ -529,7 +529,7 @@
    Handicapped: "Jā",
    Active_users: 701,
    Collections: 14884,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Alsungas novada bibliotēka",
@@ -543,7 +543,7 @@
    Handicapped: "",
    Active_users: 396,
    Collections: 12196,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Alsungas vidusskolas bibliotēka",
@@ -557,7 +557,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 12038,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Alsviķu  bibliotēka",
@@ -571,7 +571,7 @@
    Handicapped: "",
    Active_users: 200,
    Collections: 6934,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Alūksnes novada vidusskolas bibliotēka",
@@ -585,7 +585,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 0,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Alūksnes pilsētas bibliotēka",
@@ -599,7 +599,7 @@
    Handicapped: "",
    Active_users: 2029,
    Collections: 40068,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Alūksnes pilsētas sākumskolas bibliotēka",
@@ -613,7 +613,7 @@
    Handicapped: "",
    Active_users: 411,
    Collections: 13289,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Alūksnes rajona pašvaldības SIA \"Alūksnes slimnīca\" bibliotēka",
@@ -627,7 +627,7 @@
    Handicapped: "",
    Active_users: 80,
    Collections: 0,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Amatas novada Amatas pagasta Ģikšu bibliotēka",
@@ -641,7 +641,7 @@
    Handicapped: "",
    Active_users: 196,
    Collections: 6442,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Amatas novada Drabešu Jaunā pamatskolas bibliotēka",
@@ -655,7 +655,7 @@
    Handicapped: "",
    Active_users: 172,
    Collections: 10711,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Amatas novada Ieriķu bibliotēka",
@@ -669,7 +669,7 @@
    Handicapped: "Jā",
    Active_users: 122,
    Collections: 2412,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Amatas novada Līvu bibliotēka",
@@ -683,7 +683,7 @@
    Handicapped: "Jā",
    Active_users: 305,
    Collections: 7101,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Amatas novada Skujenes pagasta bibliotēka",
@@ -697,7 +697,7 @@
    Handicapped: "Jā",
    Active_users: 179,
    Collections: 8676,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Amatas novada Zaubes pagasta bibliotēka",
@@ -711,7 +711,7 @@
    Handicapped: "Jā",
    Active_users: 126,
    Collections: 6189,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Amatas pamatskolas bibliotēka",
@@ -725,7 +725,7 @@
    Handicapped: "",
    Active_users: 102,
    Collections: 6442,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ambeļu pagasta bibliotēka",
@@ -739,7 +739,7 @@
    Handicapped: "",
    Active_users: 230,
    Collections: 4881,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ances bibliotēka",
@@ -753,7 +753,7 @@
    Handicapped: "Jā",
    Active_users: 211,
    Collections: 6215,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ances pamatskolas bibliotēka",
@@ -767,7 +767,7 @@
    Handicapped: "",
    Active_users: 74,
    Collections: 5552,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Andreja Eglīša Ļaudonas vidusskolas bibliotēka",
@@ -781,7 +781,7 @@
    Handicapped: "",
    Active_users: 217,
    Collections: 5951,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Andreja Pumpura Rīgas 11. pamatskolas bibliotēka",
@@ -795,7 +795,7 @@
    Handicapped: "Jā",
    Active_users: 675,
    Collections: 18999,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Andreja Upīša Skrīveru bibliotēka",
@@ -809,7 +809,7 @@
    Handicapped: "",
    Active_users: 697,
    Collections: 13205,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Andreja Upīša Skrīveru vidusskolas bibliotēka",
@@ -823,7 +823,7 @@
    Handicapped: "",
    Active_users: 300,
    Collections: 8138,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Andrupenes pagasta bibliotēka",
@@ -837,7 +837,7 @@
    Handicapped: "",
    Active_users: 310,
    Collections: 7524,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Andrupenes pamatskolas bibliotēka",
@@ -851,7 +851,7 @@
    Handicapped: "",
    Active_users: 60,
    Collections: 6449,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Andzeļu pagasta bibliotēka",
@@ -865,7 +865,7 @@
    Handicapped: "Jā",
    Active_users: 152,
    Collections: 5719,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Annas bibliotēka",
@@ -879,7 +879,7 @@
    Handicapped: "",
    Active_users: 163,
    Collections: 6326,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Annas Brigaderes pamatskolas bibliotēka",
@@ -893,7 +893,7 @@
    Handicapped: "",
    Active_users: 139,
    Collections: 5365,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Annenieku pamatskolas bibliotēka",
@@ -907,7 +907,7 @@
    Handicapped: "",
    Active_users: 79,
    Collections: 3025,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Antūžu speciālās internātpamatskolas bibliotēka",
@@ -921,7 +921,7 @@
    Handicapped: "",
    Active_users: 137,
    Collections: 7710,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Apes bibliotēka",
@@ -935,7 +935,7 @@
    Handicapped: "",
    Active_users: 575,
    Collections: 14032,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "APP Agroresursu un ekonomikas institūta Stendes pētniecības centra bibliotēka",
@@ -949,7 +949,7 @@
    Handicapped: "Jā",
    Active_users: 13,
    Collections: 5649,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ārciema bibliotēka",
@@ -963,7 +963,7 @@
    Handicapped: "",
    Active_users: 69,
    Collections: 2579,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aronas pagasta Aronas bibliotēka",
@@ -977,7 +977,7 @@
    Handicapped: "",
    Active_users: 115,
    Collections: 5153,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aronas pagasta Kusas bibliotēka",
@@ -991,7 +991,7 @@
    Handicapped: "",
    Active_users: 259,
    Collections: 5443,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aronas pagasta Viesienas bibliotēka",
@@ -1005,7 +1005,7 @@
    Handicapped: "",
    Active_users: 123,
    Collections: 4826,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Asūnes pagasta bibliotēka",
@@ -1019,7 +1019,7 @@
    Handicapped: "",
    Active_users: 103,
    Collections: 5032,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Asūnes pamatskolas bibliotēka",
@@ -1033,7 +1033,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 0,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ata Kronvalda Durbes pamatskolas  bibliotēka",
@@ -1047,7 +1047,7 @@
    Handicapped: "",
    Active_users: 161,
    Collections: 15201,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Atašienes bibliotēka",
@@ -1061,7 +1061,7 @@
    Handicapped: "Jā",
    Active_users: 198,
    Collections: 5487,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Auces novada Bēnes  bibliotēka",
@@ -1075,7 +1075,7 @@
    Handicapped: "",
    Active_users: 448,
    Collections: 11647,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Auces novada bibliotēka",
@@ -1089,7 +1089,7 @@
    Handicapped: "Jā",
    Active_users: 880,
    Collections: 33285,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Auces novada Īles bibliotēka",
@@ -1103,7 +1103,7 @@
    Handicapped: "",
    Active_users: 146,
    Collections: 4140,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Auces novada Ķeveles bibliotēka",
@@ -1117,7 +1117,7 @@
    Handicapped: "",
    Active_users: 80,
    Collections: 3673,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Auces novada Lielauces bibliotēka",
@@ -1131,7 +1131,7 @@
    Handicapped: "Jā",
    Active_users: 113,
    Collections: 4512,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Auces novada Ukru bibliotēka",
@@ -1145,7 +1145,7 @@
    Handicapped: "",
    Active_users: 42,
    Collections: 3664,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Auces novada Vītiņu bibliotēka",
@@ -1159,7 +1159,7 @@
    Handicapped: "Jā",
    Active_users: 147,
    Collections: 3139,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Auces vidusskolas bibliotēka",
@@ -1173,7 +1173,7 @@
    Handicapped: "",
    Active_users: 560,
    Collections: 23371,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Audriņu pagasta bibliotēka",
@@ -1187,7 +1187,7 @@
    Handicapped: "",
    Active_users: 224,
    Collections: 5806,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Audriņu pamatskolas bibliotēka",
@@ -1201,7 +1201,7 @@
    Handicapped: "",
    Active_users: 76,
    Collections: 13459,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Augstkalnes vidusskolas bibliotēka",
@@ -1215,7 +1215,7 @@
    Handicapped: "",
    Active_users: 278,
    Collections: 10380,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Aulejas pagasta bibliotēka",
@@ -1229,7 +1229,7 @@
    Handicapped: "",
    Active_users: 105,
    Collections: 4696,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Babītes novada pašvaldības Babītes vidusskolas bibliotēka",
@@ -1243,7 +1243,7 @@
    Handicapped: "Jā",
    Active_users: 1016,
    Collections: 26431,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Babītes novada pašvaldības bibliotēka",
@@ -1257,7 +1257,7 @@
    Handicapped: "Jā",
    Active_users: 2109,
    Collections: 30989,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Babītes novada pašvaldības bibliotēkas filiāle Salas pagastā",
@@ -1271,7 +1271,7 @@
    Handicapped: "Jā",
    Active_users: 231,
    Collections: 8299,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Baldones novada bibliotēka",
@@ -1285,7 +1285,7 @@
    Handicapped: "Jā",
    Active_users: 934,
    Collections: 19855,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Baldones vidusskolas bibliotēka",
@@ -1299,7 +1299,7 @@
    Handicapped: "",
    Active_users: 111,
    Collections: 15191,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Baložu pilsētas bibliotēka",
@@ -1313,7 +1313,7 @@
    Handicapped: "",
    Active_users: 1537,
    Collections: 32934,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Baložu vidusskolas bibliotēka",
@@ -1327,7 +1327,7 @@
    Handicapped: "",
    Active_users: 750,
    Collections: 12037,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Baltijas Starptautiskās akadēmijas Centralizētā bibliotēkas sistēma",
@@ -1341,7 +1341,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 109279,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Baltinavas novada bibliotēka",
@@ -1355,7 +1355,7 @@
    Handicapped: "",
    Active_users: 288,
    Collections: 7222,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Baltinavas vidusskolas bibliotēka",
@@ -1369,7 +1369,7 @@
    Handicapped: "",
    Active_users: 145,
    Collections: 10742,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Balvu Centrālā bibliotēka",
@@ -1383,7 +1383,7 @@
    Handicapped: "Jā",
    Active_users: 2244,
    Collections: 44273,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Balvu mūzikas skolas bibliotēka",
@@ -1397,7 +1397,7 @@
    Handicapped: "",
    Active_users: 252,
    Collections: 2046,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Balvu pagasta bibliotēka",
@@ -1411,7 +1411,7 @@
    Handicapped: "",
    Active_users: 47,
    Collections: 4295,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Balvu pamatskolas bibliotēka",
@@ -1425,7 +1425,7 @@
    Handicapped: "",
    Active_users: 517,
    Collections: 15555,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Balvu profesionālās un vispārizglītojošās vidusskolas bibliotēka",
@@ -1439,7 +1439,7 @@
    Handicapped: "Jā",
    Active_users: 220,
    Collections: 8430,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Balvu Valsts ģimnāzijas bibliotēka",
@@ -1453,7 +1453,7 @@
    Handicapped: "",
    Active_users: 301,
    Collections: 17399,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Banku augstskolas bibliotēka",
@@ -1467,7 +1467,7 @@
    Handicapped: "",
    Active_users: 1542,
    Collections: 13820,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bārbeles pagasta Bārbeles bibliotēka",
@@ -1481,7 +1481,7 @@
    Handicapped: "Jā",
    Active_users: 185,
    Collections: 7000,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Barkavas bibliotēka",
@@ -1495,7 +1495,7 @@
    Handicapped: "Jā",
    Active_users: 296,
    Collections: 6910,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Barkavas pagasta Stalīdzānu bibliotēka",
@@ -1509,7 +1509,7 @@
    Handicapped: "",
    Active_users: 128,
    Collections: 4880,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Barkavas pamatskolas bibliotēka",
@@ -1523,7 +1523,7 @@
    Handicapped: "",
    Active_users: 96,
    Collections: 4567,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Bārtas pagasta bibliotēka",
@@ -1537,7 +1537,7 @@
    Handicapped: "",
    Active_users: 258,
    Collections: 9793,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bārtas pamatskolas bibliotēka",
@@ -1551,7 +1551,7 @@
    Handicapped: "",
    Active_users: 79,
    Collections: 3662,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Baumaņu Kārļa Viļķenes pamatskolas bibliotēka",
@@ -1565,7 +1565,7 @@
    Handicapped: "",
    Active_users: 112,
    Collections: 6621,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Bauskas 2. vidusskolas bibliotēka",
@@ -1579,7 +1579,7 @@
    Handicapped: "Jā",
    Active_users: 567,
    Collections: 19389,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Bauskas bērnu bibliotēka",
@@ -1593,7 +1593,7 @@
    Handicapped: "Jā",
    Active_users: 1214,
    Collections: 15395,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bauskas Centrālā bibliotēka",
@@ -1607,7 +1607,7 @@
    Handicapped: "",
    Active_users: 2700,
    Collections: 47033,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bauskas pilsētas pamatskolas bibliotēka",
@@ -1621,7 +1621,7 @@
    Handicapped: "",
    Active_users: 336,
    Collections: 14588,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Bauskas sākumskolas bibliotēka",
@@ -1635,7 +1635,7 @@
    Handicapped: "",
    Active_users: 465,
    Collections: 16983,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bauskas Valsts ģimnāzijas bibliotēka",
@@ -1649,7 +1649,7 @@
    Handicapped: "",
    Active_users: 382,
    Collections: 30125,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bebrenes pagasta bibliotēka",
@@ -1663,7 +1663,7 @@
    Handicapped: "",
    Active_users: 387,
    Collections: 8099,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Bebrenes vispārizglītojošā un profesionālā vidusskolas bibliotēka",
@@ -1677,7 +1677,7 @@
    Handicapped: "",
    Active_users: 167,
    Collections: 22410,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bebru pagasta bibliotēka",
@@ -1691,7 +1691,7 @@
    Handicapped: "Jā",
    Active_users: 568,
    Collections: 5720,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bebru pamatskolas bibliotēka",
@@ -1705,7 +1705,7 @@
    Handicapped: "",
    Active_users: 80,
    Collections: 6733,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Bejas bibliotēka",
@@ -1719,7 +1719,7 @@
    Handicapped: "Jā",
    Active_users: 178,
    Collections: 7815,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bejas pamatskolas bibliotēka",
@@ -1733,7 +1733,7 @@
    Handicapped: "Jā",
    Active_users: 85,
    Collections: 2816,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Beļavas pagasta bibliotēka",
@@ -1747,7 +1747,7 @@
    Handicapped: "",
    Active_users: 164,
    Collections: 7013,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bēnes vidusskolas bibliotēka",
@@ -1761,7 +1761,7 @@
    Handicapped: "",
    Active_users: 214,
    Collections: 16378,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Berģu Mūzikas un mākslas pamatskolas bibliotēka",
@@ -1775,7 +1775,7 @@
    Handicapped: "",
    Active_users: 500,
    Collections: 10813,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bērnu un jauniešu centrs  \"Jaunība\"",
@@ -1789,7 +1789,7 @@
    Handicapped: "",
    Active_users: 340,
    Collections: 8094,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bērzaines pagasta bibliotēka",
@@ -1803,7 +1803,7 @@
    Handicapped: "Jā",
    Active_users: 163,
    Collections: 6273,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bērzaunes pagasta bibliotēka",
@@ -1817,7 +1817,7 @@
    Handicapped: "",
    Active_users: 259,
    Collections: 7390,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bērzaunes pamatskolas bibliotēka",
@@ -1831,7 +1831,7 @@
    Handicapped: "",
    Active_users: 112,
    Collections: 7760,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bērzgales pagasta bibliotēka",
@@ -1845,7 +1845,7 @@
    Handicapped: "",
    Active_users: 239,
    Collections: 5873,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bērziņu pagasta bibliotēka",
@@ -1859,7 +1859,7 @@
    Handicapped: "Jā",
    Active_users: 97,
    Collections: 5367,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bērzkalnes pagasta bibliotēka",
@@ -1873,7 +1873,7 @@
    Handicapped: "",
    Active_users: 144,
    Collections: 5028,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bērzpils pagasta bibliotēka",
@@ -1887,7 +1887,7 @@
    Handicapped: "",
    Active_users: 209,
    Collections: 9047,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bērzpils vidusskolas bibliotēka",
@@ -1901,7 +1901,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 8042,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Bērzpils vidusskolas Krišjāņu filiāle",
@@ -1915,7 +1915,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 5545,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Bērzupes speciālās internātpamatskolas bibliotēka",
@@ -1929,7 +1929,7 @@
    Handicapped: "",
    Active_users: 142,
    Collections: 1349,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Beverīnas novada  Mūrmuižas bibliotēka - informācijas centrs",
@@ -1943,7 +1943,7 @@
    Handicapped: "Jā",
    Active_users: 231,
    Collections: 7079,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Beverīnas novada Brenguļu pagasta bibliotēka",
@@ -1957,7 +1957,7 @@
    Handicapped: "Jā",
    Active_users: 158,
    Collections: 9593,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Beverīnas novada Kauguru pagasta bibliotēka",
@@ -1971,7 +1971,7 @@
    Handicapped: "Jā",
    Active_users: 191,
    Collections: 5000,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Beverīnas novada Trikātas pagasta bibliotēka",
@@ -1985,7 +1985,7 @@
    Handicapped: "Jā",
    Active_users: 315,
    Collections: 6255,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bikstu pamatskolas bibliotēka",
@@ -1999,7 +1999,7 @@
    Handicapped: "",
    Active_users: 112,
    Collections: 5065,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Biķernieku pagasta bibliotēka",
@@ -2013,7 +2013,7 @@
    Handicapped: "",
    Active_users: 197,
    Collections: 3991,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Biķernieku pamatskolas bibliotēka",
@@ -2027,7 +2027,7 @@
    Handicapped: "Jā",
    Active_users: 86,
    Collections: 2137,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Bilskas pamatskolas bibliotēka",
@@ -2041,7 +2041,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 1935,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bīriņu bibliotēka",
@@ -2055,7 +2055,7 @@
    Handicapped: "",
    Active_users: 59,
    Collections: 5064,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Birzgales pamatskolas bibliotēka ",
@@ -2069,7 +2069,7 @@
    Handicapped: "",
    Active_users: 110,
    Collections: 5896,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Biržu bibliotēka",
@@ -2083,7 +2083,7 @@
    Handicapped: "",
    Active_users: 118,
    Collections: 7650,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Biržu internātpamatskolas bibliotēka",
@@ -2097,7 +2097,7 @@
    Handicapped: "",
    Active_users: 155,
    Collections: 9656,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Biržu pamatskolas bibliotēka",
@@ -2111,7 +2111,7 @@
    Handicapped: "",
    Active_users: 104,
    Collections: 16367,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Biznesa, mākslas un tehnoloģiju augstskolas “RISEBA” bibliotēka",
@@ -2125,7 +2125,7 @@
    Handicapped: "",
    Active_users: 1560,
    Collections: 23016,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Blīdenes pagasta bibliotēka",
@@ -2139,7 +2139,7 @@
    Handicapped: "",
    Active_users: 265,
    Collections: 6817,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Blīdenes pamatskolas bibliotēka",
@@ -2153,7 +2153,7 @@
    Handicapped: "",
    Active_users: 121,
    Collections: 8925,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Blomes pamatskolas bibliotēka",
@@ -2167,7 +2167,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 3369,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Blontu pagasta bibliotēka",
@@ -2181,7 +2181,7 @@
    Handicapped: "Jā",
    Active_users: 144,
    Collections: 4817,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Brāļu Skrindu Atašienes vidusskolas bibliotēka",
@@ -2195,7 +2195,7 @@
    Handicapped: "",
    Active_users: 67,
    Collections: 6163,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Braslavas pagasta bibliotēka",
@@ -2209,7 +2209,7 @@
    Handicapped: "Jā",
    Active_users: 101,
    Collections: 2748,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Braslavas pagasta Vilzēnu bibliotēka",
@@ -2223,7 +2223,7 @@
    Handicapped: "Jā",
    Active_users: 201,
    Collections: 4066,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Briežuciema pagasta bibliotēka",
@@ -2237,7 +2237,7 @@
    Handicapped: "",
    Active_users: 215,
    Collections: 6024,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Brigu pagasta bibliotēka",
@@ -2251,7 +2251,7 @@
    Handicapped: "",
    Active_users: 100,
    Collections: 6568,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Brīvzemnieku pagasta Puikules bibliotēka",
@@ -2265,7 +2265,7 @@
    Handicapped: "Jā",
    Active_users: 243,
    Collections: 6648,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Brocēnu novada Gaiķu pagasta bibliotēka",
@@ -2279,7 +2279,7 @@
    Handicapped: "",
    Active_users: 103,
    Collections: 4438,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Brocēnu novada Gaiķu pagasta Satiķu bibliotēka",
@@ -2293,7 +2293,7 @@
    Handicapped: "",
    Active_users: 117,
    Collections: 4618,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Brocēnu novada Remtes pagasta bibliotēka",
@@ -2307,7 +2307,7 @@
    Handicapped: "",
    Active_users: 197,
    Collections: 7617,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Brocēnu pašvaldības bibliotēka",
@@ -2321,7 +2321,7 @@
    Handicapped: "",
    Active_users: 934,
    Collections: 18278,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Brocēnu vidusskolas bibliotēka",
@@ -2335,7 +2335,7 @@
    Handicapped: "",
    Active_users: 631,
    Collections: 25375,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Brunavas pagasta Brunavas  bibliotēka",
@@ -2349,7 +2349,7 @@
    Handicapped: "Jā",
    Active_users: 173,
    Collections: 5865,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Brunavas pagasta Grenctāles bibliotēka",
@@ -2363,7 +2363,7 @@
    Handicapped: "",
    Active_users: 239,
    Collections: 7456,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bunkas pagasta bibliotēka",
@@ -2377,7 +2377,7 @@
    Handicapped: "",
    Active_users: 257,
    Collections: 5192,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bunkas pagasta Krotes bibliotēka",
@@ -2391,7 +2391,7 @@
    Handicapped: "Jā",
    Active_users: 307,
    Collections: 6980,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Bunkas pagasta Tadaiķu ciema bibliotēka",
@@ -2405,7 +2405,7 @@
    Handicapped: "",
    Active_users: 127,
    Collections: 3916,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Burtnieku Ausekļa pamatskolas bibliotēka",
@@ -2419,7 +2419,7 @@
    Handicapped: "",
    Active_users: 112,
    Collections: 10722,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Burtnieku novada pašvaldības Burtnieku pagasta bibliotēka",
@@ -2433,7 +2433,7 @@
    Handicapped: "Jā",
    Active_users: 299,
    Collections: 5585,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Burtnieku novada pašvaldības Ēveles pagasta bibliotēka",
@@ -2447,7 +2447,7 @@
    Handicapped: "Jā",
    Active_users: 151,
    Collections: 3897,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Burtnieku novada pašvaldības Matīšu pagasta bibliotēka",
@@ -2461,7 +2461,7 @@
    Handicapped: "Jā",
    Active_users: 258,
    Collections: 7409,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Burtnieku novada pašvaldības Rencēnu pagasta 1. bibliotēka",
@@ -2475,7 +2475,7 @@
    Handicapped: "Jā",
    Active_users: 190,
    Collections: 6821,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Burtnieku novada pašvaldības Rencēnu pagasta 2. bibliotēka",
@@ -2489,7 +2489,7 @@
    Handicapped: "Jā",
    Active_users: 112,
    Collections: 4536,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Burtnieku novada pašvaldības Valmieras pagasta bibliotēka",
@@ -2503,7 +2503,7 @@
    Handicapped: "Jā",
    Active_users: 324,
    Collections: 4746,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Burtnieku novada pašvaldības Vecates pagasta bibliotēka",
@@ -2517,7 +2517,7 @@
    Handicapped: "Jā",
    Active_users: 205,
    Collections: 4563,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Carnikavas novada bibliotēka",
@@ -2531,7 +2531,7 @@
    Handicapped: "Jā",
    Active_users: 930,
    Collections: 13475,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Carnikavas pamatskolas bibliotēka",
@@ -2545,7 +2545,7 @@
    Handicapped: "",
    Active_users: 410,
    Collections: 5195,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ceraukstes pagasta Ceraukstes bibliotēka",
@@ -2559,7 +2559,7 @@
    Handicapped: "Jā",
    Active_users: 237,
    Collections: 7526,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ceraukstes pagasta Mūsas bibliotēka",
@@ -2573,7 +2573,7 @@
    Handicapped: "Jā",
    Active_users: 188,
    Collections: 6997,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cēres pagasta bibliotēka",
@@ -2587,7 +2587,7 @@
    Handicapped: "",
    Active_users: 170,
    Collections: 4275,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Cēres pamatskolas bibliotēka",
@@ -2601,7 +2601,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 0,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Cēsu 1. pamatskolas bibliotēka",
@@ -2615,7 +2615,7 @@
    Handicapped: "",
    Active_users: 354,
    Collections: 11624,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Cēsu Centrālā bibliotēka",
@@ -2629,7 +2629,7 @@
    Handicapped: "Jā",
    Active_users: 5750,
    Collections: 69766,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cēsu internātpamatskolas- attīstības centra bibliotēka ",
@@ -2643,7 +2643,7 @@
    Handicapped: "Jā",
    Active_users: 247,
    Collections: 10981,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cēsu novada  Draudzīgā Aicinājuma Cēsu Valsts ģimnāzijas bibliotēka",
@@ -2657,7 +2657,7 @@
    Handicapped: "",
    Active_users: 257,
    Collections: 27358,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cēsu novada Cēsu 2. pamatskolas bibliotēka",
@@ -2671,7 +2671,7 @@
    Handicapped: "Jā",
    Active_users: 425,
    Collections: 15345,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cēsu novada Vaives pagasta Rāmuļu bibliotēka",
@@ -2685,7 +2685,7 @@
    Handicapped: "",
    Active_users: 73,
    Collections: 2070,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cēsu novada Vaives pagasta Rīdzenes bibliotēka",
@@ -2699,7 +2699,7 @@
    Handicapped: "",
    Active_users: 221,
    Collections: 5996,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cēsu pilsētas Pastariņa sākumskolas bibliotēka",
@@ -2713,7 +2713,7 @@
    Handicapped: "",
    Active_users: 230,
    Collections: 11143,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cēsu Pilsētas vidusskolas bibliotēka",
@@ -2727,7 +2727,7 @@
    Handicapped: "Jā",
    Active_users: 1552,
    Collections: 25184,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Cēsu Tehnoloģiju un Dizaina vidusskola",
@@ -2741,7 +2741,7 @@
    Handicapped: "",
    Active_users: 196,
    Collections: 8187,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cēsu Valsts ģimnāzijas bibliotēka",
@@ -2755,7 +2755,7 @@
    Handicapped: "",
    Active_users: 409,
    Collections: 18338,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cesvaines bibliotēka",
@@ -2769,7 +2769,7 @@
    Handicapped: "Jā",
    Active_users: 929,
    Collections: 22212,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cesvaines novada Kraukļu bibliotēka",
@@ -2783,7 +2783,7 @@
    Handicapped: "",
    Active_users: 153,
    Collections: 7316,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cesvaines vidusskolas bibliotēka",
@@ -2797,7 +2797,7 @@
    Handicapped: "Jā",
    Active_users: 331,
    Collections: 11648,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ciblas novada Ciblas bibliotēka",
@@ -2811,7 +2811,7 @@
    Handicapped: "",
    Active_users: 200,
    Collections: 4909,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ciblas novada Felicianovas bibliotēka",
@@ -2825,7 +2825,7 @@
    Handicapped: "",
    Active_users: 157,
    Collections: 5892,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ciblas novada Līdumnieku bibliotēka",
@@ -2839,7 +2839,7 @@
    Handicapped: "",
    Active_users: 94,
    Collections: 4897,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ciblas novada Pušmucovas pagasta bibliotēka",
@@ -2853,7 +2853,7 @@
    Handicapped: "Jā",
    Active_users: 145,
    Collections: 4172,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ciblas vidusskolas bibliotēka",
@@ -2867,7 +2867,7 @@
    Handicapped: "",
    Active_users: 162,
    Collections: 12030,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cieceres internātpamatskolas bibliotēka",
@@ -2881,7 +2881,7 @@
    Handicapped: "",
    Active_users: 302,
    Collections: 11641,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cieceres pagasta Emburgas bibliotēka",
@@ -2895,7 +2895,7 @@
    Handicapped: "",
    Active_users: 93,
    Collections: 4699,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Cirmas pagasta bibliotēka",
@@ -2909,7 +2909,7 @@
    Handicapped: "Jā",
    Active_users: 120,
    Collections: 4697,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Codes pagasta Codes bibliotēka",
@@ -2923,7 +2923,7 @@
    Handicapped: "Jā",
    Active_users: 420,
    Collections: 12042,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Codes pagasta Jauncodes bibliotēka",
@@ -2937,7 +2937,7 @@
    Handicapped: "Jā",
    Active_users: 508,
    Collections: 10435,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Codes pamatskolas bibliotēka",
@@ -2951,7 +2951,7 @@
    Handicapped: "Jā",
    Active_users: 170,
    Collections: 6337,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Čornajas pagasta Ratnieku bibliotēka",
@@ -2965,7 +2965,7 @@
    Handicapped: "",
    Active_users: 291,
    Collections: 8697,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Čornajas pagasta Rāznas bibliotēka",
@@ -2979,7 +2979,7 @@
    Handicapped: "",
    Active_users: 253,
    Collections: 9509,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dagdas  bērnu bibliotēka",
@@ -2993,7 +2993,7 @@
    Handicapped: "",
    Active_users: 491,
    Collections: 7596,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dagdas novada tautas bibliotēka",
@@ -3007,7 +3007,7 @@
    Handicapped: "Jā",
    Active_users: 740,
    Collections: 14852,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dagdas vidusskolas bibliotēka",
@@ -3021,7 +3021,7 @@
    Handicapped: "Jā",
    Active_users: 483,
    Collections: 16353,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daudzeses pagasta bibliotēka",
@@ -3035,7 +3035,7 @@
    Handicapped: "Jā",
    Active_users: 120,
    Collections: 6349,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daudzeses pamatskolas bibliotēka",
@@ -3049,7 +3049,7 @@
    Handicapped: "",
    Active_users: 84,
    Collections: 5660,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daugavpils  Centra vidusskolas  bibliotēka",
@@ -3063,7 +3063,7 @@
    Handicapped: "",
    Active_users: 671,
    Collections: 34159,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daugavpils 1. speciālās pamatskolas bibliotēka",
@@ -3077,7 +3077,7 @@
    Handicapped: "Jā",
    Active_users: 90,
    Collections: 9531,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugavpils 10. vidusskolas bibliotēka",
@@ -3091,7 +3091,7 @@
    Handicapped: "",
    Active_users: 765,
    Collections: 30775,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugavpils 11. pamatskolas bibliotēka",
@@ -3105,7 +3105,7 @@
    Handicapped: "Jā",
    Active_users: 301,
    Collections: 14543,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daugavpils 12. vidusskolas  bibliotēka",
@@ -3119,7 +3119,7 @@
    Handicapped: "Jā",
    Active_users: 632,
    Collections: 56865,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugavpils 13. vidusskolas  bibliotēka",
@@ -3133,7 +3133,7 @@
    Handicapped: "",
    Active_users: 865,
    Collections: 41275,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daugavpils 15. vidusskolas bibliotēka",
@@ -3147,7 +3147,7 @@
    Handicapped: "Jā",
    Active_users: 705,
    Collections: 15618,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daugavpils 16. vidusskola  bibliotēka",
@@ -3161,7 +3161,7 @@
    Handicapped: "",
    Active_users: 772,
    Collections: 35287,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugavpils 17. vidusskolas bibliotēka",
@@ -3175,7 +3175,7 @@
    Handicapped: "",
    Active_users: 742,
    Collections: 19521,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugavpils 3. vidusskolas bibliotēka",
@@ -3189,7 +3189,7 @@
    Handicapped: "",
    Active_users: 871,
    Collections: 32130,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugavpils 9. vidusskolas bibliotēka",
@@ -3203,7 +3203,7 @@
    Handicapped: "",
    Active_users: 704,
    Collections: 17725,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugavpils Būvniecības tehnikuma bibliotēka",
@@ -3217,7 +3217,7 @@
    Handicapped: "Jā",
    Active_users: 676,
    Collections: 22323,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daugavpils Krievu vidusskolas - liceja bibliotēka",
@@ -3231,7 +3231,7 @@
    Handicapped: "",
    Active_users: 811,
    Collections: 26375,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daugavpils Logopēdiskās  internātpamatskolas - attīstības centra bibliotēka",
@@ -3245,7 +3245,7 @@
    Handicapped: "",
    Active_users: 267,
    Collections: 30806,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugavpils pilsētas Izglītības pārvaldes Metodiskā bibliotēka",
@@ -3259,7 +3259,7 @@
    Handicapped: "",
    Active_users: 552,
    Collections: 12317,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugavpils Saskaņas pamatskolas bibliotēka",
@@ -3273,7 +3273,7 @@
    Handicapped: "",
    Active_users: 544,
    Collections: 13172,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugavpils Tirdzniecības profesionālās vidusskolas bibliotēka",
@@ -3287,7 +3287,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 4336,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugavpils Universitātes aģentūras \"Daugavpils Universitātes Daugavpils medicīnas koledža\" bibliotēka",
@@ -3301,7 +3301,7 @@
    Handicapped: "",
    Active_users: 304,
    Collections: 7773,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daugavpils Universitātes bibliotēka",
@@ -3315,7 +3315,7 @@
    Handicapped: "Jā",
    Active_users: 2557,
    Collections: 273186,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daugavpils Valsts ģimnāzijas bibliotēka",
@@ -3329,7 +3329,7 @@
    Handicapped: "",
    Active_users: 391,
    Collections: 19509,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daugavpils Vienības pamatskolas  bibliotēka",
@@ -3343,7 +3343,7 @@
    Handicapped: "",
    Active_users: 495,
    Collections: 15117,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Daugmales pamatskolas bibliotēka",
@@ -3357,7 +3357,7 @@
    Handicapped: "",
    Active_users: 183,
    Collections: 6155,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daukstu pagasta bibliotēka",
@@ -3371,7 +3371,7 @@
    Handicapped: "",
    Active_users: 211,
    Collections: 5627,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Daukstu pagasta Staru bibliotēka",
@@ -3385,7 +3385,7 @@
    Handicapped: "Jā",
    Active_users: 305,
    Collections: 7604,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dāviņu pagasta Dāviņu bibliotēka",
@@ -3399,7 +3399,7 @@
    Handicapped: "",
    Active_users: 188,
    Collections: 7576,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dāvja Ozoliņa Apes vidusskolas bibliotēka",
@@ -3413,7 +3413,7 @@
    Handicapped: "",
    Active_users: 162,
    Collections: 8225,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Degoles pagasta bibliotēka",
@@ -3427,7 +3427,7 @@
    Handicapped: "",
    Active_users: 83,
    Collections: 4224,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Degumnieku pamatskolas bibliotēka",
@@ -3441,7 +3441,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 6722,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dekšāres pagasta bibliotēka",
@@ -3455,7 +3455,7 @@
    Handicapped: "",
    Active_users: 207,
    Collections: 6150,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dekšāru pamatskolas bibliotēka",
@@ -3469,7 +3469,7 @@
    Handicapped: "",
    Active_users: 87,
    Collections: 3604,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Demenes pagasta bibliotēka",
@@ -3483,7 +3483,7 @@
    Handicapped: "Jā",
    Active_users: 286,
    Collections: 7395,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dignājas pamatskolas bibliotēka",
@@ -3497,7 +3497,7 @@
    Handicapped: "",
    Active_users: 58,
    Collections: 4069,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dikļu pagasta bibliotēka",
@@ -3511,7 +3511,7 @@
    Handicapped: "Jā",
    Active_users: 246,
    Collections: 4162,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles  novada Aizstrautnieku bibliotēka",
@@ -3525,7 +3525,7 @@
    Handicapped: "Jā",
    Active_users: 104,
    Collections: 4098,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles 1. vidusskolas bibliotēka",
@@ -3539,7 +3539,7 @@
    Handicapped: "Jā",
    Active_users: 856,
    Collections: 20510,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles Amatniecības un vispārizglītojošās vidusskolas bibliotēka",
@@ -3553,7 +3553,7 @@
    Handicapped: "Jā",
    Active_users: 527,
    Collections: 7504,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Dobeles Kristīgās pamatskolas bibliotēka",
@@ -3567,7 +3567,7 @@
    Handicapped: "Jā",
    Active_users: 232,
    Collections: 2614,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Dobeles novada Annenieku bibliotēka",
@@ -3581,7 +3581,7 @@
    Handicapped: "",
    Active_users: 198,
    Collections: 5888,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles novada Bikstu bibliotēka",
@@ -3595,7 +3595,7 @@
    Handicapped: "",
    Active_users: 187,
    Collections: 4704,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles novada Centrālā bibliotēka",
@@ -3609,7 +3609,7 @@
    Handicapped: "Jā",
    Active_users: 2827,
    Collections: 34874,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles novada Jaunbērzes bibliotēka",
@@ -3623,7 +3623,7 @@
    Handicapped: "",
    Active_users: 287,
    Collections: 7059,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles novada Krimūnu bibliotēka",
@@ -3637,7 +3637,7 @@
    Handicapped: "Jā",
    Active_users: 142,
    Collections: 5986,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles novada Lejasstrazdu bibliotēka",
@@ -3651,7 +3651,7 @@
    Handicapped: "",
    Active_users: 127,
    Collections: 3568,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles novada Naudītes bibliotēka",
@@ -3665,7 +3665,7 @@
    Handicapped: "Jā",
    Active_users: 151,
    Collections: 1381,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles novada Penkules bibliotēka",
@@ -3679,7 +3679,7 @@
    Handicapped: "Jā",
    Active_users: 277,
    Collections: 7198,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles novada Šķibes bibliotēka",
@@ -3693,7 +3693,7 @@
    Handicapped: "Jā",
    Active_users: 235,
    Collections: 9887,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles novada Zebrenes bibliotēka",
@@ -3707,7 +3707,7 @@
    Handicapped: "",
    Active_users: 129,
    Collections: 5575,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dobeles sākumskolas bibliotēka",
@@ -3721,7 +3721,7 @@
    Handicapped: "",
    Active_users: 165,
    Collections: 4751,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Dobeles Valsts ģimnāzijas bibliotēka",
@@ -3735,7 +3735,7 @@
    Handicapped: "",
    Active_users: 426,
    Collections: 19824,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Draudzīgā aicinājuma Liepājas pilsētas 5. vidusskolas bibliotēka",
@@ -3749,7 +3749,7 @@
    Handicapped: "",
    Active_users: 1135,
    Collections: 26666,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Dravnieku pamatskolas bibliotēka",
@@ -3763,7 +3763,7 @@
    Handicapped: "",
    Active_users: 53,
    Collections: 6188,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Dricānu pagasta bibliotēka",
@@ -3777,7 +3777,7 @@
    Handicapped: "",
    Active_users: 206,
    Collections: 4485,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dricānu vidusskolas bibliotēka",
@@ -3791,7 +3791,7 @@
    Handicapped: "Jā",
    Active_users: 160,
    Collections: 9620,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Drustu pagasta bibliotēka",
@@ -3805,7 +3805,7 @@
    Handicapped: "",
    Active_users: 285,
    Collections: 7251,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Drustu pagasta Gatartas bibliotēka",
@@ -3819,7 +3819,7 @@
    Handicapped: "",
    Active_users: 230,
    Collections: 10492,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Drustu pamatskolas bibliotēka",
@@ -3833,7 +3833,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 1010,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Druvas vidusskolas bibliotēka",
@@ -3847,7 +3847,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 26569,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Druvienas pagasta bibliotēka",
@@ -3861,7 +3861,7 @@
    Handicapped: "Jā",
    Active_users: 185,
    Collections: 5554,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dubnas pagasta bibliotēka",
@@ -3875,7 +3875,7 @@
    Handicapped: "Jā",
    Active_users: 202,
    Collections: 6367,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dunalkas pagasta bibliotēka",
@@ -3889,7 +3889,7 @@
    Handicapped: "",
    Active_users: 250,
    Collections: 5380,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dunalkas pagasta Rāvas bibliotēka",
@@ -3903,7 +3903,7 @@
    Handicapped: "",
    Active_users: 61,
    Collections: 3459,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dunavas pamatskolas bibliotēka",
@@ -3917,7 +3917,7 @@
    Handicapped: "",
    Active_users: 34,
    Collections: 2010,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Dundagas novada Centrālā  bibliotēka",
@@ -3931,7 +3931,7 @@
    Handicapped: "",
    Active_users: 568,
    Collections: 20820,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dundagas novada Kaļķu bibliotēka",
@@ -3945,7 +3945,7 @@
    Handicapped: "",
    Active_users: 65,
    Collections: 3966,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dundagas novada Kolkas pagasta bibliotēka",
@@ -3959,7 +3959,7 @@
    Handicapped: "",
    Active_users: 234,
    Collections: 10675,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dundagas novada Kolkas pagasta Mazirbes bibliotēka",
@@ -3973,7 +3973,7 @@
    Handicapped: "Jā",
    Active_users: 152,
    Collections: 3534,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dundagas novada Vīdāles bibliotēka",
@@ -3987,7 +3987,7 @@
    Handicapped: "",
    Active_users: 77,
    Collections: 4809,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dundagas vidusskolas bibliotēka",
@@ -4001,7 +4001,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 24570,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Dunikas pagasta Sikšņu bibliotēka",
@@ -4015,7 +4015,7 @@
    Handicapped: "Jā",
    Active_users: 282,
    Collections: 7479,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Durbes novada Lieģu bibliotēka ",
@@ -4029,7 +4029,7 @@
    Handicapped: "",
    Active_users: 217,
    Collections: 5248,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Durbes pilsētas bibliotēka",
@@ -4043,7 +4043,7 @@
    Handicapped: "",
    Active_users: 507,
    Collections: 10264,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Dvietes pagasta bibliotēka",
@@ -4057,7 +4057,7 @@
    Handicapped: "",
    Active_users: 144,
    Collections: 5183,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dzelzavas interrnātpamatskolas bibliotēka",
@@ -4071,7 +4071,7 @@
    Handicapped: "",
    Active_users: 144,
    Collections: 5710,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Dzelzavas pagasta 1. bibliotēka",
@@ -4085,7 +4085,7 @@
    Handicapped: "Jā",
    Active_users: 360,
    Collections: 6776,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dzelzavas pagasta 2. bibliotēka",
@@ -4099,7 +4099,7 @@
    Handicapped: "",
    Active_users: 207,
    Collections: 4749,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dzelzavas pamatskolas bibliotēka",
@@ -4113,7 +4113,7 @@
    Handicapped: "",
    Active_users: 120,
    Collections: 4386,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dzērbenes vidusskolas bibliotēka",
@@ -4127,7 +4127,7 @@
    Handicapped: "",
    Active_users: 28,
    Collections: 6491,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Dzērves pamatskolas bibliotēka",
@@ -4141,7 +4141,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 0,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Dzirciema  internātpamatskolas bibliotēka",
@@ -4155,7 +4155,7 @@
    Handicapped: "",
    Active_users: 96,
    Collections: 8001,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Dzirnieku bibliotēka",
@@ -4169,7 +4169,7 @@
    Handicapped: "Jā",
    Active_users: 178,
    Collections: 5798,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Džūkstes pagasta 1. bibliotēka",
@@ -4183,7 +4183,7 @@
    Handicapped: "Jā",
    Active_users: 178,
    Collections: 5292,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Džūkstes pagasta 2. bibliotēka",
@@ -4197,7 +4197,7 @@
    Handicapped: "",
    Active_users: 111,
    Collections: 5345,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Džūkstes pamatskolas bibliotēka",
@@ -4211,7 +4211,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 14280,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "E. Kauliņa Lielvārdes vidusskolas bibliotēka",
@@ -4225,7 +4225,7 @@
    Handicapped: "Jā",
    Active_users: 586,
    Collections: 19640,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ēdoles pamatskolas bibliotēka",
@@ -4239,7 +4239,7 @@
    Handicapped: "",
    Active_users: 90,
    Collections: 7673,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Edvarta Virzas Iecavas bibliotēka",
@@ -4253,7 +4253,7 @@
    Handicapped: "",
    Active_users: 804,
    Collections: 13597,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Eglaines pagasta bibliotēka",
@@ -4267,7 +4267,7 @@
    Handicapped: "",
    Active_users: 253,
    Collections: 6147,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Eglaines pamatskolas bibliotēka",
@@ -4281,7 +4281,7 @@
    Handicapped: "",
    Active_users: 57,
    Collections: 3734,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ekonomikas un kultūras augstskolas bibliotēka",
@@ -4295,7 +4295,7 @@
    Handicapped: "",
    Active_users: 421,
    Collections: 14633,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Elejas pagasta bibliotēka",
@@ -4309,7 +4309,7 @@
    Handicapped: "Jā",
    Active_users: 716,
    Collections: 9503,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Elejas vidusskolas bibliotēka ",
@@ -4323,7 +4323,7 @@
    Handicapped: "",
    Active_users: 462,
    Collections: 15005,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Embūtes pagasta bibliotēka",
@@ -4337,7 +4337,7 @@
    Handicapped: "",
    Active_users: 88,
    Collections: 2202,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Engures novada Engures pagasta bibliotēka",
@@ -4351,7 +4351,7 @@
    Handicapped: "Jā",
    Active_users: 309,
    Collections: 7289,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Engures pagasta Apšuciema bibliotēka",
@@ -4365,7 +4365,7 @@
    Handicapped: "Jā",
    Active_users: 156,
    Collections: 2685,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Engures pagasta Bērzciema bibliotēka",
@@ -4379,7 +4379,7 @@
    Handicapped: "",
    Active_users: 182,
    Collections: 5336,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Engures vidusskolas bibliotēka",
@@ -4393,7 +4393,7 @@
    Handicapped: "Jā",
    Active_users: 137,
    Collections: 11784,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ērgļu  bibliotēka",
@@ -4407,7 +4407,7 @@
    Handicapped: "",
    Active_users: 636,
    Collections: 15056,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ērgļu novada Jumurdas bibliotēka",
@@ -4421,7 +4421,7 @@
    Handicapped: "Jā",
    Active_users: 65,
    Collections: 6602,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ērgļu novada Liepkalnes bibliotēka [reorganizēta 29.06.2017, Sausnējas bibliotēkas ĀAP]",
@@ -4435,7 +4435,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: null,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ērgļu novada Sausnējas bibliotēka",
@@ -4449,7 +4449,7 @@
    Handicapped: "Jā",
    Active_users: 137,
    Collections: 8612,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ērgļu vidusskolas bibliotēka",
@@ -4463,7 +4463,7 @@
    Handicapped: "Jā",
    Active_users: 257,
    Collections: 13447,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ērģemes pamatskolas bibliotēka",
@@ -4477,7 +4477,7 @@
    Handicapped: "",
    Active_users: 67,
    Collections: 4893,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ernsta Glika Alūksnes Valsts ģimnāzijas bibliotēka",
@@ -4491,7 +4491,7 @@
    Handicapped: "",
    Active_users: 382,
    Collections: 24722,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ēveles pamatskolas bibliotēka",
@@ -4505,7 +4505,7 @@
    Handicapped: "Jā",
    Active_users: 72,
    Collections: 7451,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ezeres bibliotēka",
@@ -4519,7 +4519,7 @@
    Handicapped: "Jā",
    Active_users: 306,
    Collections: 8959,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ezeres pamatskolas bibliotēka",
@@ -4533,7 +4533,7 @@
    Handicapped: "",
    Active_users: 124,
    Collections: 4138,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ezernieku pagasta bibliotēka",
@@ -4547,7 +4547,7 @@
    Handicapped: "Jā",
    Active_users: 232,
    Collections: 7047,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ezernieku vidusskolas bibliotēka",
@@ -4561,7 +4561,7 @@
    Handicapped: "",
    Active_users: 174,
    Collections: 14104,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ezersalas  internātpamatskolas bibliotēka",
@@ -4575,7 +4575,7 @@
    Handicapped: "Jā",
    Active_users: 48,
    Collections: 5027,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Feimaņu pagasta bibliotēka",
@@ -4589,7 +4589,7 @@
    Handicapped: "Jā",
    Active_users: 251,
    Collections: 9275,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Feimaņu pamatskolas bibliotēka",
@@ -4603,7 +4603,7 @@
    Handicapped: "",
    Active_users: 98,
    Collections: 3163,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Friča Brīvzemnieka pamatskolas bibliotēka",
@@ -4617,7 +4617,7 @@
    Handicapped: "",
    Active_users: 370,
    Collections: 11010,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gaigalavas pagasta bibliotēka",
@@ -4631,7 +4631,7 @@
    Handicapped: "Jā",
    Active_users: 207,
    Collections: 5874,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gaigalavas pagasta Vecstrūžānu bibliotēka",
@@ -4645,7 +4645,7 @@
    Handicapped: "",
    Active_users: 120,
    Collections: 4548,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gaigalavas pamatskolas bibliotēka",
@@ -4659,7 +4659,7 @@
    Handicapped: "",
    Active_users: 81,
    Collections: 4627,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Gaigalavas pamatskolas struktūrvienība Rikavas sākumskola.",
@@ -4673,7 +4673,7 @@
    Handicapped: "",
    Active_users: 40,
    Collections: 1566,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gaiķu pamatskolas bibliotēka",
@@ -4687,7 +4687,7 @@
    Handicapped: "",
    Active_users: 33,
    Collections: 2929,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Gailīšu pagasta Gailīšu bibliotēka",
@@ -4701,7 +4701,7 @@
    Handicapped: "",
    Active_users: 425,
    Collections: 8040,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gailīšu pagasta Pāces bibliotēka",
@@ -4715,7 +4715,7 @@
    Handicapped: "",
    Active_users: 196,
    Collections: 5376,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gaismas internātpamatskolas bibliotēka",
@@ -4729,7 +4729,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 5283,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Galēnu pamatskolas bibliotēka ",
@@ -4743,7 +4743,7 @@
    Handicapped: "",
    Active_users: 82,
    Collections: 4244,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Galgauskas pagasta biblioteka",
@@ -4757,7 +4757,7 @@
    Handicapped: "",
    Active_users: 250,
    Collections: 7550,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Galgauskas pamatskolas bibliotēka",
@@ -4771,7 +4771,7 @@
    Handicapped: "",
    Active_users: 100,
    Collections: 3131,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Gardenes pamatskolas bibliotēka",
@@ -4785,7 +4785,7 @@
    Handicapped: "",
    Active_users: 130,
    Collections: 5198,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Garkalnes Mākslu un vispārizglītojošās pamatskolas bibliotēka",
@@ -4799,7 +4799,7 @@
    Handicapped: "Jā",
    Active_users: 337,
    Collections: 8993,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Garkalnes novada bibliotēka",
@@ -4813,7 +4813,7 @@
    Handicapped: "",
    Active_users: 249,
    Collections: 8061,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Garkalnes novada Upesciema Tautas bibliotēka",
@@ -4827,7 +4827,7 @@
    Handicapped: "Jā",
    Active_users: 310,
    Collections: 4799,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Garlība Merķeļa Lēdurgas pamatskolas bibliotēka",
@@ -4841,7 +4841,7 @@
    Handicapped: "",
    Active_users: 90,
    Collections: 6614,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Garozas pamatskolas bibliotēka  ",
@@ -4855,7 +4855,7 @@
    Handicapped: "",
    Active_users: 106,
    Collections: 5030,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Gaujienas bibliotēka",
@@ -4869,7 +4869,7 @@
    Handicapped: "",
    Active_users: 477,
    Collections: 7348,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gaujienas speciālās internātpamatskolas bibliotēka",
@@ -4883,7 +4883,7 @@
    Handicapped: "",
    Active_users: 102,
    Collections: 10978,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gaviezes pamatskolas bibliotēka",
@@ -4897,7 +4897,7 @@
    Handicapped: "",
    Active_users: 73,
    Collections: 6595,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Gētes institūta Rīgā bibliotēka",
@@ -4911,7 +4911,7 @@
    Handicapped: "Jā",
    Active_users: 489,
    Collections: 6867,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Glūdas pagasta Bramberģes bibliotēka",
@@ -4925,7 +4925,7 @@
    Handicapped: "",
    Active_users: 373,
    Collections: 5684,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gostiņu bibliotēka",
@@ -4939,7 +4939,7 @@
    Handicapped: "Jā",
    Active_users: 271,
    Collections: 8893,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Griķu pamatskolas bibliotēka",
@@ -4953,7 +4953,7 @@
    Handicapped: "",
    Active_users: 116,
    Collections: 5405,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Griškānu pagasta bibliotēka",
@@ -4967,7 +4967,7 @@
    Handicapped: "Jā",
    Active_users: 229,
    Collections: 5072,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Grobiņas  ģimnāzijas bibliotēka",
@@ -4981,7 +4981,7 @@
    Handicapped: "",
    Active_users: 304,
    Collections: 6048,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Grobiņas novada Gaviezes pagasta bibliotēka",
@@ -4995,7 +4995,7 @@
    Handicapped: "Jā",
    Active_users: 220,
    Collections: 11096,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Grobiņas novada Medzes pagasta bibliotēka",
@@ -5009,7 +5009,7 @@
    Handicapped: "Jā",
    Active_users: 182,
    Collections: 7876,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Grobiņas pagasta bibliotēka",
@@ -5023,7 +5023,7 @@
    Handicapped: "",
    Active_users: 367,
    Collections: 12658,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Grobiņas pilsētas bibliotēka",
@@ -5037,7 +5037,7 @@
    Handicapped: "Jā",
    Active_users: 1218,
    Collections: 24402,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Grobiņas sākumskolas bibliotēka",
@@ -5051,7 +5051,7 @@
    Handicapped: "",
    Active_users: 463,
    Collections: 7594,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Grundzāles pamatskolas bibliotēka",
@@ -5065,7 +5065,7 @@
    Handicapped: "Jā",
    Active_users: 103,
    Collections: 6814,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Gudenieku pagasta Basu bibliotēka",
@@ -5079,7 +5079,7 @@
    Handicapped: "",
    Active_users: 175,
    Collections: 4521,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gudenieku pagasta Gudenieku bibliotēka",
@@ -5093,7 +5093,7 @@
    Handicapped: "Jā",
    Active_users: 187,
    Collections: 3617,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gulbenes 2. vidusskolas bibliotēka",
@@ -5107,7 +5107,7 @@
    Handicapped: "Jā",
    Active_users: 692,
    Collections: 14865,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gulbenes novada bibliotēka",
@@ -5121,7 +5121,7 @@
    Handicapped: "Jā",
    Active_users: 2975,
    Collections: 55469,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gulbenes novada valsts ģimnāzijas bibliotēka",
@@ -5135,7 +5135,7 @@
    Handicapped: "",
    Active_users: 276,
    Collections: 12202,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gulbenes sākumskolas bibliotēka",
@@ -5149,7 +5149,7 @@
    Handicapped: "Jā",
    Active_users: 458,
    Collections: 20501,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Gulbenes vakara (maiņu) vidusskolas bibliotēka",
@@ -5163,7 +5163,7 @@
    Handicapped: "",
    Active_users: 97,
    Collections: 12981,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Gulbīša pamatskolas bibliotēka",
@@ -5177,7 +5177,7 @@
    Handicapped: "",
    Active_users: 82,
    Collections: 2618,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Iecavas internātpamatskolas bibliotēka",
@@ -5191,7 +5191,7 @@
    Handicapped: "",
    Active_users: 210,
    Collections: 8208,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Iecavas novada bērnu bibliotēka",
@@ -5205,7 +5205,7 @@
    Handicapped: "",
    Active_users: 828,
    Collections: 9989,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Iecavas novada Rosmes bibliotēka",
@@ -5219,7 +5219,7 @@
    Handicapped: "Jā",
    Active_users: 149,
    Collections: 5996,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Iecavas novada Zālītes bibliotēka",
@@ -5233,7 +5233,7 @@
    Handicapped: "",
    Active_users: 200,
    Collections: 7408,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Iecavas novada Ziemeļu bibliotēka",
@@ -5247,7 +5247,7 @@
    Handicapped: "",
    Active_users: 237,
    Collections: 6154,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Iecavas novada Zorģu bibliotēka",
@@ -5261,7 +5261,7 @@
    Handicapped: "Jā",
    Active_users: 213,
    Collections: 7653,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Iecavas vidusskolas bibliotēka",
@@ -5275,7 +5275,7 @@
    Handicapped: "Jā",
    Active_users: 807,
    Collections: 23914,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ikšķiles novada centrālā bibliotēka",
@@ -5289,7 +5289,7 @@
    Handicapped: "",
    Active_users: 1373,
    Collections: 25900,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ikšķiles novada Tīnūžu bibliotēka",
@@ -5303,7 +5303,7 @@
    Handicapped: "Jā",
    Active_users: 317,
    Collections: 9757,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ikšķiles vidusskolas bibliotēka",
@@ -5317,7 +5317,7 @@
    Handicapped: "",
    Active_users: 1090,
    Collections: 21040,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ilmāra Gaiša Kokneses vidusskolas bibliotēka",
@@ -5331,7 +5331,7 @@
    Handicapped: "",
    Active_users: 187,
    Collections: 31394,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ilūkstes 1. vidusskolas bibliotēka",
@@ -5345,7 +5345,7 @@
    Handicapped: "Jā",
    Active_users: 336,
    Collections: 18065,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ilūkstes novada centrālā  bibliotēka",
@@ -5359,7 +5359,7 @@
    Handicapped: "",
    Active_users: 612,
    Collections: 14513,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ilūkstes novada centrālās bibliotēkas Ilūkstes pilsētas bērnu bibliotēka",
@@ -5373,7 +5373,7 @@
    Handicapped: "",
    Active_users: 493,
    Collections: 7866,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ilūkstes novada centrālās bibliotēkas Pilskalnes pagasta bibliotēka",
@@ -5387,7 +5387,7 @@
    Handicapped: "",
    Active_users: 203,
    Collections: 5732,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ilūkstes Sadraudzības vidusskolas bibliotēka",
@@ -5401,7 +5401,7 @@
    Handicapped: "",
    Active_users: 190,
    Collections: 19262,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ilzenes bibliotēka",
@@ -5415,7 +5415,7 @@
    Handicapped: "Jā",
    Active_users: 202,
    Collections: 4826,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ilzeskalna pagasta bibliotēka",
@@ -5429,7 +5429,7 @@
    Handicapped: "Jā",
    Active_users: 227,
    Collections: 5082,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Iļģuciema vidusskolas bibliotēka",
@@ -5443,7 +5443,7 @@
    Handicapped: "",
    Active_users: 405,
    Collections: 8329,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Inčukalna novada bibliotēka",
@@ -5457,7 +5457,7 @@
    Handicapped: "Jā",
    Active_users: 1708,
    Collections: 18826,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Inčukalna novada bibliotēkas filiālbibliotēka Vangažu pilsētas bibliotēka",
@@ -5471,7 +5471,7 @@
    Handicapped: "",
    Active_users: 944,
    Collections: 16661,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Inčukalna pamatskolas bibliotēka",
@@ -5485,7 +5485,7 @@
    Handicapped: "",
    Active_users: 246,
    Collections: 14866,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Indras pagasta bibliotēka",
@@ -5499,7 +5499,7 @@
    Handicapped: "",
    Active_users: 283,
    Collections: 8755,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Indras pamatskolas bibliotēka",
@@ -5513,7 +5513,7 @@
    Handicapped: "",
    Active_users: 86,
    Collections: 13568,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Inešu pagasta bibliotēka",
@@ -5527,7 +5527,7 @@
    Handicapped: "",
    Active_users: 180,
    Collections: 6627,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Irlavas pagasta 1. bibliotēka",
@@ -5541,7 +5541,7 @@
    Handicapped: "Jā",
    Active_users: 239,
    Collections: 11501,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Irlavas pagasta 2. bibliotēka",
@@ -5555,7 +5555,7 @@
    Handicapped: "",
    Active_users: 88,
    Collections: 7932,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Irlavas vidusskolas bibliotēka",
@@ -5569,7 +5569,7 @@
    Handicapped: "",
    Active_users: 137,
    Collections: 7544,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Iršu pagasta bibliotēka",
@@ -5583,7 +5583,7 @@
    Handicapped: "Jā",
    Active_users: 146,
    Collections: 5803,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Īslīces pagasta Ādžūnu bibliotēka",
@@ -5597,7 +5597,7 @@
    Handicapped: "",
    Active_users: 206,
    Collections: 7494,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Īslīces pagasta Rītausmu bibliotēka",
@@ -5611,7 +5611,7 @@
    Handicapped: "Jā",
    Active_users: 639,
    Collections: 10356,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Īslīces pamatskolas bibliotēka",
@@ -5625,7 +5625,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 4918,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Isnaudas pagasta Isnaudas bibliotēka",
@@ -5639,7 +5639,7 @@
    Handicapped: "Jā",
    Active_users: 122,
    Collections: 5271,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Isnaudas pagasta Istalsnas bibliotēka ",
@@ -5653,7 +5653,7 @@
    Handicapped: "Jā",
    Active_users: 135,
    Collections: 4151,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Istras pagasta bibliotēka",
@@ -5667,7 +5667,7 @@
    Handicapped: "",
    Active_users: 187,
    Collections: 4852,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Īvandes bibliotēka",
@@ -5681,7 +5681,7 @@
    Handicapped: "Jā",
    Active_users: 148,
    Collections: 3077,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Izvaltas pagasta bibliotēka",
@@ -5695,7 +5695,7 @@
    Handicapped: "",
    Active_users: 203,
    Collections: 6592,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Izvaltas pamatskolas bibliotēka",
@@ -5709,7 +5709,7 @@
    Handicapped: "",
    Active_users: 49,
    Collections: 1920,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "J. Raiņa Daugavpils 6. vidusskolas  bibliotēka",
@@ -5723,7 +5723,7 @@
    Handicapped: "",
    Active_users: 482,
    Collections: 25709,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "J. Soikāna Ludzas mākslas skolas bibliotēka",
@@ -5737,7 +5737,7 @@
    Handicapped: "",
    Active_users: 250,
    Collections: 702,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "J.Čakstes Liepājas pilsētas 10.vidusskola ",
@@ -5751,7 +5751,7 @@
    Handicapped: "Jā",
    Active_users: 766,
    Collections: 26119,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "J.G.Herdera Rīgas Grīziņkalna vidusskolas bibliotēka",
@@ -5765,7 +5765,7 @@
    Handicapped: "",
    Active_users: 565,
    Collections: 18423,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "J.Pilsudska Daugavpils valsts poļu ģimnāzijas bibliotēka",
@@ -5779,7 +5779,7 @@
    Handicapped: "",
    Active_users: 418,
    Collections: 16681,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jankas Kupalas Rīgas Baltkrievu pamatskolas bibliotēka",
@@ -5793,7 +5793,7 @@
    Handicapped: "",
    Active_users: 185,
    Collections: 4188,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jāņa Eglīša Preiļu Valsts ģimnāzijas bibliotēka",
@@ -5807,7 +5807,7 @@
    Handicapped: "Jā",
    Active_users: 290,
    Collections: 20743,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jāņa Endzelīna Kauguru pamatskolas bibliotēka",
@@ -5821,7 +5821,7 @@
    Handicapped: "",
    Active_users: 147,
    Collections: 7442,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jāņa Ivanova Rēzeknes mūzikas vidusskolas bibliotēka",
@@ -5835,7 +5835,7 @@
    Handicapped: "",
    Active_users: 366,
    Collections: 32653,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunalūksnes bibliotēka",
@@ -5849,7 +5849,7 @@
    Handicapped: "",
    Active_users: 220,
    Collections: 5192,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunannas bibliotēka",
@@ -5863,7 +5863,7 @@
    Handicapped: "",
    Active_users: 165,
    Collections: 5356,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunannas Mūzikas un mākslas  pamatskolas bibliotēka",
@@ -5877,7 +5877,7 @@
    Handicapped: "",
    Active_users: 54,
    Collections: 2139,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jaunauces pagasta bibliotēka",
@@ -5891,7 +5891,7 @@
    Handicapped: "",
    Active_users: 78,
    Collections: 5130,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaundubultu vidusskolas bibliotēka",
@@ -5905,7 +5905,7 @@
    Handicapped: "",
    Active_users: 340,
    Collections: 24422,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jaungulbenes pagasta bibliotēka",
@@ -5919,7 +5919,7 @@
    Handicapped: "",
    Active_users: 401,
    Collections: 6458,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunjelgavas pilsētas bērnu bibliotēka",
@@ -5933,7 +5933,7 @@
    Handicapped: "",
    Active_users: 228,
    Collections: 4509,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunjelgavas pilsētas bibliotēka",
@@ -5947,7 +5947,7 @@
    Handicapped: "Jā",
    Active_users: 453,
    Collections: 19206,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunjelgavas vidusskolas bibliotēka",
@@ -5961,7 +5961,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 12123,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunlaicenes pagasta bibliotēka",
@@ -5975,7 +5975,7 @@
    Handicapped: "",
    Active_users: 181,
    Collections: 4767,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunlutriņu pagasta bibliotēka",
@@ -5989,7 +5989,7 @@
    Handicapped: "Jā",
    Active_users: 273,
    Collections: 5171,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jaunlutriņu pagasta Ošenieku bibliotēka",
@@ -6003,7 +6003,7 @@
    Handicapped: "",
    Active_users: 174,
    Collections: 6102,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunlutriņu pamatskolas bibliotēka",
@@ -6017,7 +6017,7 @@
    Handicapped: "",
    Active_users: 77,
    Collections: 7103,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jaunmārupes pamatskolas bibliotēka",
@@ -6031,7 +6031,7 @@
    Handicapped: "Jā",
    Active_users: 790,
    Collections: 26466,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunmuižas pamatskolas bibliotēka",
@@ -6045,7 +6045,7 @@
    Handicapped: "",
    Active_users: 27,
    Collections: 4469,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunogres vidusskolas bibliotēka",
@@ -6059,7 +6059,7 @@
    Handicapped: "Jā",
    Active_users: 653,
    Collections: 36366,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jaunpiebalgas novada Jaunpiebalgas pagasta bibliotēka",
@@ -6073,7 +6073,7 @@
    Handicapped: "Jā",
    Active_users: 711,
    Collections: 13388,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunpiebalgas novada Zosēnu pagasta bibliotēka",
@@ -6087,7 +6087,7 @@
    Handicapped: "",
    Active_users: 145,
    Collections: 5173,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunpiebalgas vidusskolas bibliotēka",
@@ -6101,7 +6101,7 @@
    Handicapped: "",
    Active_users: 452,
    Collections: 11412,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jaunpils pagasta bibliotēka",
@@ -6115,7 +6115,7 @@
    Handicapped: "",
    Active_users: 278,
    Collections: 9503,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunpils vidusskolas bibliotēka",
@@ -6129,7 +6129,7 @@
    Handicapped: "",
    Active_users: 312,
    Collections: 10077,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunsātu pagasta bibliotēka",
@@ -6143,7 +6143,7 @@
    Handicapped: "",
    Active_users: 135,
    Collections: 10876,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jaunsātu pamatskolas bibliotēka",
@@ -6157,7 +6157,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 1726,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jaunsilavas pamatskolas bibliotēka",
@@ -6171,7 +6171,7 @@
    Handicapped: "",
    Active_users: 182,
    Collections: 5215,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jaunstrūžānu pamatskolas bibliotēka",
@@ -6185,7 +6185,7 @@
    Handicapped: "",
    Active_users: 68,
    Collections: 1338,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jaunsvirlaukas pagasta Staļģenes bibliotēka",
@@ -6199,7 +6199,7 @@
    Handicapped: "Jā",
    Active_users: 510,
    Collections: 9103,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jāzepa Mediņa Rīgas Mūzikas vidusskolas bibliotēka",
@@ -6213,7 +6213,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 66028,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jāzepa Vītola Latvijas Mūzikas akadēmijas bibliotēka",
@@ -6227,7 +6227,7 @@
    Handicapped: "",
    Active_users: 1298,
    Collections: 216919,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils 2. vidusskolas bibliotēka",
@@ -6241,7 +6241,7 @@
    Handicapped: "",
    Active_users: 650,
    Collections: 33784,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils 3. vidusskolas bibliotēka",
@@ -6255,7 +6255,7 @@
    Handicapped: "",
    Active_users: 640,
    Collections: 36375,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jēkabpils Agrobiznesa koledžas Barkavas struktūrvienības bibliotēka",
@@ -6269,7 +6269,7 @@
    Handicapped: "Jā",
    Active_users: 240,
    Collections: 12108,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jēkabpils Agrobiznesa koledžas bibliotēka",
@@ -6283,7 +6283,7 @@
    Handicapped: "Jā",
    Active_users: 512,
    Collections: 18778,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils Galvenā bibliotēka",
@@ -6297,7 +6297,7 @@
    Handicapped: "Jā",
    Active_users: 2253,
    Collections: 57621,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils novada Ābeļu bibliotēka",
@@ -6311,7 +6311,7 @@
    Handicapped: "Jā",
    Active_users: 246,
    Collections: 6508,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils novada Dignājas bibliotēka",
@@ -6325,7 +6325,7 @@
    Handicapped: "Jā",
    Active_users: 181,
    Collections: 4308,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils novada Dunavas bibliotēka",
@@ -6339,7 +6339,7 @@
    Handicapped: "",
    Active_users: 229,
    Collections: 7439,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils novada Kalna bibliotēka",
@@ -6353,7 +6353,7 @@
    Handicapped: "",
    Active_users: 136,
    Collections: 5765,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils novada Leimaņu bibliotēka",
@@ -6367,7 +6367,7 @@
    Handicapped: "Jā",
    Active_users: 142,
    Collections: 8532,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils novada Liepu bibliotēka",
@@ -6381,7 +6381,7 @@
    Handicapped: "",
    Active_users: 63,
    Collections: 3219,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils novada Mežzemes bibliotēka",
@@ -6395,7 +6395,7 @@
    Handicapped: "",
    Active_users: 111,
    Collections: 3555,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils novada Rubeņu bibliotēka",
@@ -6409,7 +6409,7 @@
    Handicapped: "Jā",
    Active_users: 187,
    Collections: 5962,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils novada Slates bibliotēka",
@@ -6423,7 +6423,7 @@
    Handicapped: "",
    Active_users: 81,
    Collections: 4565,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils novada Tadenavas bibliotēka",
@@ -6437,7 +6437,7 @@
    Handicapped: "",
    Active_users: 40,
    Collections: 3043,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils novada Zasas  bibliotēka",
@@ -6451,7 +6451,7 @@
    Handicapped: "Jā",
    Active_users: 75,
    Collections: 5448,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jēkabpils pamatskolas bibliotēka",
@@ -6465,7 +6465,7 @@
    Handicapped: "",
    Active_users: 813,
    Collections: 17007,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils pilsētas bibliotēka",
@@ -6479,7 +6479,7 @@
    Handicapped: "",
    Active_users: 3602,
    Collections: 71092,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils vakara vidusskolas bibliotēka",
@@ -6493,7 +6493,7 @@
    Handicapped: "Jā",
    Active_users: 188,
    Collections: 16743,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jēkabpils Valsts ģimnāzijas bibliotēka",
@@ -6507,7 +6507,7 @@
    Handicapped: "",
    Active_users: 682,
    Collections: 38391,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas 1. internātpamatskolas - attīstības centra bibliotēka",
@@ -6521,7 +6521,7 @@
    Handicapped: "Jā",
    Active_users: 331,
    Collections: 8337,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas 2. internātpamatskolas bibliotēka",
@@ -6535,7 +6535,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 9589,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jelgavas 2. pamatskolas bibliotēka",
@@ -6549,7 +6549,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 38176,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jelgavas 3.sākumskolas bibliotēka",
@@ -6563,7 +6563,7 @@
    Handicapped: "",
    Active_users: 652,
    Collections: 19319,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas 4. sākumskolas bibliotēka",
@@ -6577,7 +6577,7 @@
    Handicapped: "",
    Active_users: 1228,
    Collections: 22251,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas 4. vidusskolas bibliotēka",
@@ -6591,7 +6591,7 @@
    Handicapped: "Jā",
    Active_users: 1501,
    Collections: 45297,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jelgavas 5. vidusskolas bibliotēka",
@@ -6605,7 +6605,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 31968,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas 6. vidusskolas bibliotēka",
@@ -6619,7 +6619,7 @@
    Handicapped: "",
    Active_users: 731,
    Collections: 23823,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas Amatu vidusskolas bibliotēka",
@@ -6633,7 +6633,7 @@
    Handicapped: "Jā",
    Active_users: 785,
    Collections: 7696,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas bērnu bibliotēka \"Zinītis\"",
@@ -6647,7 +6647,7 @@
    Handicapped: "",
    Active_users: 3344,
    Collections: 24854,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas Miezītes bibliotēka",
@@ -6661,7 +6661,7 @@
    Handicapped: "",
    Active_users: 926,
    Collections: 16353,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas mūzikas vidusskolas bibliotēka",
@@ -6675,7 +6675,7 @@
    Handicapped: "Jā",
    Active_users: 135,
    Collections: 39112,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas novada Neklātienes vidusskolas bibliotēka ",
@@ -6689,7 +6689,7 @@
    Handicapped: "",
    Active_users: 593,
    Collections: 4329,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jelgavas Pārlielupes bibliotēka",
@@ -6703,7 +6703,7 @@
    Handicapped: "",
    Active_users: 2048,
    Collections: 28562,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jelgavas pilsētas bibliotēka",
@@ -6717,7 +6717,7 @@
    Handicapped: "",
    Active_users: 4596,
    Collections: 99414,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas Spīdolas Valsts ģimnāzijas bibliotēka",
@@ -6731,7 +6731,7 @@
    Handicapped: "",
    Active_users: 630,
    Collections: 27381,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas Tehnikuma bibliotēka",
@@ -6745,7 +6745,7 @@
    Handicapped: "Jā",
    Active_users: 764,
    Collections: 16860,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jelgavas Tehnoloģiju vidusskolas bibliotēka",
@@ -6759,7 +6759,7 @@
    Handicapped: "",
    Active_users: 860,
    Collections: 23145,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jelgavas Vakara (maiņu) vidusskolas bibliotēka",
@@ -6773,7 +6773,7 @@
    Handicapped: "Jā",
    Active_users: 651,
    Collections: 8627,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jelgavas Valsts ģimnāzijas bibliotēka",
@@ -6787,7 +6787,7 @@
    Handicapped: "",
    Active_users: 995,
    Collections: 35293,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jērcēnu pagasta bibliotēka - informācijas centrs",
@@ -6801,7 +6801,7 @@
    Handicapped: "",
    Active_users: 109,
    Collections: 5022,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jersikas pamatskolas bibliotēka ",
@@ -6815,7 +6815,7 @@
    Handicapped: "",
    Active_users: 120,
    Collections: 2515,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jumpravas internātpamatskolas bibliotēka",
@@ -6829,7 +6829,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 3763,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jura Neikena Dikļu pamatskolas bibliotēka",
@@ -6843,7 +6843,7 @@
    Handicapped: "",
    Active_users: 94,
    Collections: 3628,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Juridiskās koledžas bibliotēka",
@@ -6857,7 +6857,7 @@
    Handicapped: "",
    Active_users: 615,
    Collections: 24463,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jūrkalnes bibliotēka",
@@ -6871,7 +6871,7 @@
    Handicapped: "Jā",
    Active_users: 115,
    Collections: 4846,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jūrmalas  Centrālā bibliotēka",
@@ -6885,7 +6885,7 @@
    Handicapped: "Jā",
    Active_users: 2009,
    Collections: 37053,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jūrmalas Alternatīvās skolas bibliotēka",
@@ -6899,7 +6899,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 8229,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jūrmalas Centrālās bibliotēkas Alberta Kronenberga Slokas bibliotēka",
@@ -6913,7 +6913,7 @@
    Handicapped: "Jā",
    Active_users: 1189,
    Collections: 17827,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jūrmalas Centrālās bibliotēkas Asaru bibliotēka",
@@ -6927,7 +6927,7 @@
    Handicapped: "Jā",
    Active_users: 649,
    Collections: 12924,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jūrmalas Centrālās bibliotēkas Bulduru bibliotēka",
@@ -6941,7 +6941,7 @@
    Handicapped: "Jā",
    Active_users: 1964,
    Collections: 29965,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jūrmalas Centrālās bibliotēkas Dubultu bērnu bibliotēka",
@@ -6955,7 +6955,7 @@
    Handicapped: "Jā",
    Active_users: 663,
    Collections: 6385,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jūrmalas Centrālās bibliotēkas Kauguru bibliotēka",
@@ -6969,7 +6969,7 @@
    Handicapped: "Jā",
    Active_users: 2581,
    Collections: 30787,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jūrmalas Centrālās bibliotēkas Ķemeru bibliotēka",
@@ -6983,7 +6983,7 @@
    Handicapped: "Jā",
    Active_users: 857,
    Collections: 10603,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jūrmalas pilsētas  internātpamatskolas bibliotēka",
@@ -6997,7 +6997,7 @@
    Handicapped: "",
    Active_users: 30,
    Collections: 3715,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Jūrmalas pilsētas Mežmalas vidusskolas bibliotēka",
@@ -7011,7 +7011,7 @@
    Handicapped: "",
    Active_users: 469,
    Collections: 13389,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jūrmalas sākumskolas \"Atvase\" bibliotēka",
@@ -7025,7 +7025,7 @@
    Handicapped: "",
    Active_users: 394,
    Collections: 11282,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jūrmalas vakara vidusskolas bibliotēka",
@@ -7039,7 +7039,7 @@
    Handicapped: "",
    Active_users: 214,
    Collections: 8965,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Jūrmalas Valsts ģimnāzijas bibliotēka",
@@ -7053,7 +7053,7 @@
    Handicapped: "Jā",
    Active_users: 352,
    Collections: 9747,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "K. Valdemāra sākumskolas bibliotēka",
@@ -7067,7 +7067,7 @@
    Handicapped: "",
    Active_users: 49,
    Collections: 6463,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kabiles pagasta bibliotēka",
@@ -7081,7 +7081,7 @@
    Handicapped: "Jā",
    Active_users: 237,
    Collections: 5903,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kaives pagasta bibliotēka",
@@ -7095,7 +7095,7 @@
    Handicapped: "",
    Active_users: 109,
    Collections: 6458,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kalētu pagasta bibliotēka",
@@ -7109,7 +7109,7 @@
    Handicapped: "",
    Active_users: 194,
    Collections: 7579,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kalkūnes pagasta bibliotēka",
@@ -7123,7 +7123,7 @@
    Handicapped: "",
    Active_users: 150,
    Collections: 8226,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kalncempju bibliotēka",
@@ -7137,7 +7137,7 @@
    Handicapped: "Jā",
    Active_users: 85,
    Collections: 4849,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kalnciema pagasta bibliotēka",
@@ -7151,7 +7151,7 @@
    Handicapped: "Jā",
    Active_users: 761,
    Collections: 10673,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kalnciema pagasta vidusskolas bibliotēka ",
@@ -7165,7 +7165,7 @@
    Handicapped: "",
    Active_users: 180,
    Collections: 5678,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kalnciema vidusskolas bibliotēka ",
@@ -7179,7 +7179,7 @@
    Handicapped: "",
    Active_users: 273,
    Collections: 21113,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Kalniešu pagasta bibliotēka",
@@ -7193,7 +7193,7 @@
    Handicapped: "",
    Active_users: 180,
    Collections: 7437,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kalsnavas pagasta bibliotēka  ",
@@ -7207,7 +7207,7 @@
    Handicapped: "",
    Active_users: 350,
    Collections: 11949,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kalsnavas pamatskolas bibliotēka",
@@ -7221,7 +7221,7 @@
    Handicapped: "Jā",
    Active_users: 146,
    Collections: 4351,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Kalupes pagasta bibliotēka",
@@ -7235,7 +7235,7 @@
    Handicapped: "Jā",
    Active_users: 218,
    Collections: 7419,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kalupes pamatskolas bibliotēka",
@@ -7249,7 +7249,7 @@
    Handicapped: "",
    Active_users: 69,
    Collections: 5120,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Kandavas internātvidusskolas bibliotēka",
@@ -7263,7 +7263,7 @@
    Handicapped: "",
    Active_users: 381,
    Collections: 13195,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kandavas Kārļa Mīlenbaha vidusskolas bibliotēka",
@@ -7277,7 +7277,7 @@
    Handicapped: "",
    Active_users: 449,
    Collections: 16505,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Kandavas Lauksaimniecības tehnikuma bibliotēka",
@@ -7291,7 +7291,7 @@
    Handicapped: "",
    Active_users: 712,
    Collections: 55785,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Kandavas novada Kandavas pagasta bibliotēka",
@@ -7305,7 +7305,7 @@
    Handicapped: "",
    Active_users: 205,
    Collections: 6419,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Kandavas novada Matkules pagasta bibliotēka",
@@ -7319,7 +7319,7 @@
    Handicapped: "Jā",
    Active_users: 219,
    Collections: 7872,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kandavas novada Zantes pagasta bibliotēka",
@@ -7333,7 +7333,7 @@
    Handicapped: "Jā",
    Active_users: 234,
    Collections: 8041,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kandavas novada Zemītes pagasta bibliotēka",
@@ -7347,7 +7347,7 @@
    Handicapped: "Jā",
    Active_users: 272,
    Collections: 6880,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kandavas pilsētas bibliotēka",
@@ -7361,7 +7361,7 @@
    Handicapped: "Jā",
    Active_users: 679,
    Collections: 10094,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kantinieku pagasta bibliotēka",
@@ -7375,7 +7375,7 @@
    Handicapped: "Jā",
    Active_users: 129,
    Collections: 5276,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kaplavas pagasta bibliotēka",
@@ -7389,7 +7389,7 @@
    Handicapped: "Jā",
    Active_users: 143,
    Collections: 4412,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kapsēdes pamatskolas  bibliotēka",
@@ -7403,7 +7403,7 @@
    Handicapped: "",
    Active_users: 128,
    Collections: 10843,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kārķu pagasta bibliotēka",
@@ -7417,7 +7417,7 @@
    Handicapped: "",
    Active_users: 196,
    Collections: 6169,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kārķu pamatskolas bibliotēka",
@@ -7431,7 +7431,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 5235,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Kārsavas novada Goliševas pagasta bibliotēka",
@@ -7445,7 +7445,7 @@
    Handicapped: "",
    Active_users: 116,
    Collections: 4050,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kārsavas pilsētas bibliotēka",
@@ -7459,7 +7459,7 @@
    Handicapped: "",
    Active_users: 634,
    Collections: 17864,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kārsavas vidusskolas bibliotēka",
@@ -7473,7 +7473,7 @@
    Handicapped: "",
    Active_users: 319,
    Collections: 43778,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kastuļinas pagasta bibliotēka",
@@ -7487,7 +7487,7 @@
    Handicapped: "",
    Active_users: 175,
    Collections: 3530,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Katvaru  internātpamatskolas bibliotēka",
@@ -7501,7 +7501,7 @@
    Handicapped: "Jā",
    Active_users: 91,
    Collections: 3393,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Katvaru bibliotēka",
@@ -7515,7 +7515,7 @@
    Handicapped: "Jā",
    Active_users: 152,
    Collections: 5220,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kauguru vidusskolas bibliotēka",
@@ -7529,7 +7529,7 @@
    Handicapped: "",
    Active_users: 761,
    Collections: 23511,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kaunatas pagasta 2. bibliotēka",
@@ -7543,7 +7543,7 @@
    Handicapped: "",
    Active_users: 154,
    Collections: 3280,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kaunatas pagasta bibliotēka",
@@ -7557,7 +7557,7 @@
    Handicapped: "",
    Active_users: 181,
    Collections: 7990,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kaunatas vidusskolas bibliotēka",
@@ -7571,7 +7571,7 @@
    Handicapped: "Jā",
    Active_users: 299,
    Collections: 12421,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kazdangas pagasta bibliotēka",
@@ -7585,7 +7585,7 @@
    Handicapped: "",
    Active_users: 338,
    Collections: 7035,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Klintaines pagasta bibliotēka",
@@ -7599,7 +7599,7 @@
    Handicapped: "Jā",
    Active_users: 227,
    Collections: 5298,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kocēnu pagasta 1. bibliotēka",
@@ -7613,7 +7613,7 @@
    Handicapped: "Jā",
    Active_users: 422,
    Collections: 4862,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kocēnu pamatskolas bibliotēka",
@@ -7627,7 +7627,7 @@
    Handicapped: "",
    Active_users: 245,
    Collections: 8514,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kokneses internātpamatskolas - attīstības centra bibliotēka",
@@ -7641,7 +7641,7 @@
    Handicapped: "",
    Active_users: 103,
    Collections: 11461,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kokneses novada Kokneses pagasta bibliotēka",
@@ -7655,7 +7655,7 @@
    Handicapped: "Jā",
    Active_users: 1046,
    Collections: 13877,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kokneses pagasta Ratnicēnu bibliotēka",
@@ -7669,7 +7669,7 @@
    Handicapped: "Jā",
    Active_users: 125,
    Collections: 5192,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Kolkas pamatskolas bibliotēka",
@@ -7683,7 +7683,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 3370,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Kombuļu pagasta bibliotēka",
@@ -7697,7 +7697,7 @@
    Handicapped: "Jā",
    Active_users: 100,
    Collections: 4729,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Konstantinovas pagasta bibliotēka",
@@ -7711,7 +7711,7 @@
    Handicapped: "",
    Active_users: 113,
    Collections: 5648,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Krapes pagasta bibliotēka",
@@ -7725,7 +7725,7 @@
    Handicapped: "",
    Active_users: 139,
    Collections: 4603,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Krāslavas Mūzikas skolas bibliotēka",
@@ -7739,7 +7739,7 @@
    Handicapped: "",
    Active_users: 156,
    Collections: 5093,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Krāslavas novada centrālā bibliotēka",
@@ -7753,7 +7753,7 @@
    Handicapped: "Jā",
    Active_users: 3127,
    Collections: 43111,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Krāslavas pamatskolas bibliotēka",
@@ -7767,7 +7767,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 12579,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Krāslavas Valsts ģimnāzijas bibliotēka",
@@ -7781,7 +7781,7 @@
    Handicapped: "",
    Active_users: 238,
    Collections: 10670,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Krāslavas Varavīksnes vidusskolas bibliotēka",
@@ -7795,7 +7795,7 @@
    Handicapped: "",
    Active_users: 535,
    Collections: 12905,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Krimuldas novada Atmodas bibliotēka",
@@ -7809,7 +7809,7 @@
    Handicapped: "Jā",
    Active_users: 61,
    Collections: 3092,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Krimuldas novada Inciema bibliotēka",
@@ -7823,7 +7823,7 @@
    Handicapped: "Jā",
    Active_users: 173,
    Collections: 6273,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Krimuldas novada Krimuldas bibliotēka",
@@ -7837,7 +7837,7 @@
    Handicapped: "Jā",
    Active_users: 188,
    Collections: 8197,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Krimuldas novada Lēdurgas bibliotēka",
@@ -7851,7 +7851,7 @@
    Handicapped: "",
    Active_users: 280,
    Collections: 5853,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Krimuldas novada Turaidas bibliotēka",
@@ -7865,7 +7865,7 @@
    Handicapped: "Jā",
    Active_users: 122,
    Collections: 5931,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Krimuldas vidusskolas bibliotēka",
@@ -7879,7 +7879,7 @@
    Handicapped: "",
    Active_users: 340,
    Collections: 12054,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kristiāna Dāvida pamatskolas bibliotēka",
@@ -7893,7 +7893,7 @@
    Handicapped: "Jā",
    Active_users: 40,
    Collections: 4486,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Krišjāņa Valdemāra Ainažu pamatskolas bibliotēka",
@@ -7907,7 +7907,7 @@
    Handicapped: "",
    Active_users: 112,
    Collections: 3850,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Krišjāņa Valdemāra Ēdoles pagasta bibliotēka",
@@ -7921,7 +7921,7 @@
    Handicapped: "",
    Active_users: 320,
    Collections: 3834,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Krišjāņu pagasta bibliotēka",
@@ -7935,7 +7935,7 @@
    Handicapped: "",
    Active_users: 136,
    Collections: 4225,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Krustpils pagasta bibliotēka",
@@ -7949,7 +7949,7 @@
    Handicapped: "Jā",
    Active_users: 384,
    Collections: 6933,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Krustpils pamatskolas bibliotēka",
@@ -7963,7 +7963,7 @@
    Handicapped: "",
    Active_users: 120,
    Collections: 10105,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kubulu pagasta bibliotēka",
@@ -7977,7 +7977,7 @@
    Handicapped: "",
    Active_users: 104,
    Collections: 4288,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kūku bibliotēka",
@@ -7991,7 +7991,7 @@
    Handicapped: "",
    Active_users: 239,
    Collections: 7732,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kuldīgas 2. vidusskolas bibliotēka",
@@ -8005,7 +8005,7 @@
    Handicapped: "Jā",
    Active_users: 534,
    Collections: 9980,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kuldīgas Centra vidusskolas bibliotēka",
@@ -8019,7 +8019,7 @@
    Handicapped: "Jā",
    Active_users: 753,
    Collections: 16894,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kuldīgas Galvenā bibliotēka",
@@ -8033,7 +8033,7 @@
    Handicapped: "Jā",
    Active_users: 3538,
    Collections: 52424,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kuldīgas Mākslas un humanitāro zinību vidusskolas bibliotēka",
@@ -8047,7 +8047,7 @@
    Handicapped: "",
    Active_users: 348,
    Collections: 7163,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Kuldīgas Tehnoloģiju un tūrisma profesionālās vidusskolas bibliotēka",
@@ -8061,7 +8061,7 @@
    Handicapped: "",
    Active_users: 426,
    Collections: 8011,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kupravas bibliotēka",
@@ -8075,7 +8075,7 @@
    Handicapped: "",
    Active_users: 84,
    Collections: 4157,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kurmāles pagasta Priedaines bibliotēka",
@@ -8089,7 +8089,7 @@
    Handicapped: "",
    Active_users: 248,
    Collections: 4964,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kurmāles pagasta Vilgāles bibliotēka",
@@ -8103,7 +8103,7 @@
    Handicapped: "",
    Active_users: 315,
    Collections: 6542,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kurmenes pagasta bibliotēka",
@@ -8117,7 +8117,7 @@
    Handicapped: "Jā",
    Active_users: 203,
    Collections: 3966,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kursīšu pagasta bibliotēka - informācijas centrs",
@@ -8131,7 +8131,7 @@
    Handicapped: "Jā",
    Active_users: 300,
    Collections: 10146,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Kusas pamatskolas bibliotēka",
@@ -8145,7 +8145,7 @@
    Handicapped: "",
    Active_users: 92,
    Collections: 2851,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ķeguma komercnovirziena vidusskolas bibliotēka",
@@ -8159,7 +8159,7 @@
    Handicapped: "",
    Active_users: 338,
    Collections: 14972,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ķeguma novada bibliotēka",
@@ -8173,7 +8173,7 @@
    Handicapped: "Jā",
    Active_users: 825,
    Collections: 18471,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ķeguma novada bibliotēkas Rembates bibliotēka",
@@ -8187,7 +8187,7 @@
    Handicapped: "Jā",
    Active_users: 162,
    Collections: 5372,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ķeguma novada bibliotēkas Tomes bibliotēka ",
@@ -8201,7 +8201,7 @@
    Handicapped: "Jā",
    Active_users: 77,
    Collections: 3487,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ķeguma novada Birzgales bibliotēka",
@@ -8215,7 +8215,7 @@
    Handicapped: "Jā",
    Active_users: 244,
    Collections: 3890,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ķeipenes pagasta bibliotēka",
@@ -8229,7 +8229,7 @@
    Handicapped: "Jā",
    Active_users: 143,
    Collections: 9216,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ķeipenes pamatskolas  bibliotēka",
@@ -8243,7 +8243,7 @@
    Handicapped: "",
    Active_users: 84,
    Collections: 7583,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ķekavas novada Daugmales pagasta bibliotēka",
@@ -8257,7 +8257,7 @@
    Handicapped: "Jā",
    Active_users: 188,
    Collections: 8173,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ķekavas novada Katlakalna bibliotēka",
@@ -8271,7 +8271,7 @@
    Handicapped: "Jā",
    Active_users: 725,
    Collections: 14503,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ķekavas pagasta bibliotēka",
@@ -8285,7 +8285,7 @@
    Handicapped: "Jā",
    Active_users: 1232,
    Collections: 13686,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ķekavas vidusskolas bibliotēka",
@@ -8299,7 +8299,7 @@
    Handicapped: "",
    Active_users: 1374,
    Collections: 24859,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ķemeru pamatskolas bibliotēka",
@@ -8313,7 +8313,7 @@
    Handicapped: "Jā",
    Active_users: 98,
    Collections: 10550,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ķepovas pagasta bibliotēka",
@@ -8327,7 +8327,7 @@
    Handicapped: "",
    Active_users: 52,
    Collections: 3338,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ķoņu pagasta bibliotēka",
@@ -8341,7 +8341,7 @@
    Handicapped: "",
    Active_users: 89,
    Collections: 4389,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lāču pamatskolas bibliotēka",
@@ -8355,7 +8355,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 8705,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Lādes bibliotēka",
@@ -8369,7 +8369,7 @@
    Handicapped: "Jā",
    Active_users: 127,
    Collections: 4807,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lādezera bibliotēka",
@@ -8383,7 +8383,7 @@
    Handicapped: "Jā",
    Active_users: 361,
    Collections: 5225,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lādezera pamatskolas bibliotēka",
@@ -8397,7 +8397,7 @@
    Handicapped: "Jā",
    Active_users: 184,
    Collections: 3729,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Laidu pagasta bibliotēka",
@@ -8411,7 +8411,7 @@
    Handicapped: "Jā",
    Active_users: 323,
    Collections: 4740,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Laidu pagasta Sermītes bibliotēka",
@@ -8425,7 +8425,7 @@
    Handicapped: "Jā",
    Active_users: 274,
    Collections: 6203,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Laidu pamatskolas bibliotēka",
@@ -8439,7 +8439,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 0,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Lapmežciema pagasta bibliotēka",
@@ -8453,7 +8453,7 @@
    Handicapped: "Jā",
    Active_users: 179,
    Collections: 10618,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lapmežciema pamatskolas bibliotēka",
@@ -8467,7 +8467,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 9655,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latgales Centrālā bibliotēka",
@@ -8481,7 +8481,7 @@
    Handicapped: "Jā",
    Active_users: 6751,
    Collections: 111400,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latgales Centrālās bibliotēkas filiāle Bērnu bibliotēka \"Zīlīte\"",
@@ -8495,7 +8495,7 @@
    Handicapped: "",
    Active_users: 3207,
    Collections: 19688,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latgales Centrālās bibliotēkas filiāle Ceriņu bibliotēka",
@@ -8509,7 +8509,7 @@
    Handicapped: "",
    Active_users: 1344,
    Collections: 12604,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latgales Centrālās bibliotēkas filiāle Gaismas bibliotēka",
@@ -8523,7 +8523,7 @@
    Handicapped: "",
    Active_users: 787,
    Collections: 7111,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latgales Centrālās bibliotēkas filiāle Jaunbūves bibliotēka",
@@ -8537,7 +8537,7 @@
    Handicapped: "",
    Active_users: 2448,
    Collections: 20858,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latgales Centrālās bibliotēkas filiāle Pārdaugavas bibliotēka",
@@ -8551,7 +8551,7 @@
    Handicapped: "",
    Active_users: 977,
    Collections: 10198,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latgales Centrālās bibliotēkas filiāle Piekrastes bibliotēka",
@@ -8565,7 +8565,7 @@
    Handicapped: "",
    Active_users: 2278,
    Collections: 14719,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Bankas Bibliotēka",
@@ -8579,7 +8579,7 @@
    Handicapped: "",
    Active_users: 262,
    Collections: 54840,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Jūras akadēmijas bibliotēka",
@@ -8593,7 +8593,7 @@
    Handicapped: "Jā",
    Active_users: 1034,
    Collections: 25757,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Kristīgās akadēmijas Zinātniskā bibliotēka",
@@ -8607,7 +8607,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 0,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Kultūras akadēmijas bibliotēka",
@@ -8621,7 +8621,7 @@
    Handicapped: "",
    Active_users: 529,
    Collections: 41970,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Kultūras akadēmijas Latvijas Kultūras koledžas bibliotēka",
@@ -8635,7 +8635,7 @@
    Handicapped: "",
    Active_users: 458,
    Collections: 7981,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Lauksaimniecības universitātes Fundamentālā bibliotēka",
@@ -8649,7 +8649,7 @@
    Handicapped: "Jā",
    Active_users: 3927,
    Collections: 409912,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Mākslas akadēmijas bibliotēka",
@@ -8663,7 +8663,7 @@
    Handicapped: "Jā",
    Active_users: 883,
    Collections: 33186,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Nacionālā arhīva bibliotēka",
@@ -8677,7 +8677,7 @@
    Handicapped: "",
    Active_users: 107,
    Collections: 103803,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Nacionālā bibliotēka ",
@@ -8691,7 +8691,7 @@
    Handicapped: "",
    Active_users: 26556,
    Collections: 4216127,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Nacionālā Mākslas muzeja slēgta tipa speciālā mākslas bibliotēka",
@@ -8705,7 +8705,7 @@
    Handicapped: "Jā",
    Active_users: 104,
    Collections: 29094,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Nacionālā Vēstures muzeja zinātniskā bibliotēka",
@@ -8719,7 +8719,7 @@
    Handicapped: "",
    Active_users: 85,
    Collections: 33135,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Nacionālās aizsardzības akadēmijas bibliotēka",
@@ -8733,7 +8733,7 @@
    Handicapped: "",
    Active_users: 641,
    Collections: 52250,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Neredzīgo bibliotēka ",
@@ -8747,7 +8747,7 @@
    Handicapped: "",
    Active_users: 611,
    Collections: 54159,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Neredzīgo bibliotēkas Balvu filiālbibliotēka",
@@ -8761,7 +8761,7 @@
    Handicapped: "Jā",
    Active_users: 134,
    Collections: 10360,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Neredzīgo bibliotēkas Cēsu filiālbibliotēka",
@@ -8775,7 +8775,7 @@
    Handicapped: "",
    Active_users: 87,
    Collections: 5739,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Neredzīgo bibliotēkas Daugavpils filiālbibliotēka",
@@ -8789,7 +8789,7 @@
    Handicapped: "",
    Active_users: 207,
    Collections: 7139,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Neredzīgo bibliotēkas Jelgavas filiālbibliotēka",
@@ -8803,7 +8803,7 @@
    Handicapped: "Jā",
    Active_users: 66,
    Collections: 1620,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Neredzīgo bibliotēkas Liepājas filiālbibliotēka",
@@ -8817,7 +8817,7 @@
    Handicapped: "",
    Active_users: 244,
    Collections: 18773,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Neredzīgo bibliotēkas Rēzeknes filiālbibliotēka",
@@ -8831,7 +8831,7 @@
    Handicapped: "",
    Active_users: 250,
    Collections: 12955,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Neredzīgo bibliotēkas Ventspils filiālbibliotēka",
@@ -8845,7 +8845,7 @@
    Handicapped: "Jā",
    Active_users: 111,
    Collections: 3724,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Sporta Pedagoģijas akadēmijas Sporta nozares bibliotēka",
@@ -8859,7 +8859,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 271620,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Latvijas Universitātes Akadēmiskā bibliotēka",
@@ -8873,7 +8873,7 @@
    Handicapped: "",
    Active_users: 10564,
    Collections: 3360252,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Universitātes Bibliotēka",
@@ -8887,7 +8887,7 @@
    Handicapped: "Jā",
    Active_users: 20211,
    Collections: 1758305,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Universitātes P.Stradiņa medicīnas koledžas bibliotēka",
@@ -8901,7 +8901,7 @@
    Handicapped: "",
    Active_users: 1123,
    Collections: 9699,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Universitātes Rīgas Medicīnas koledžas bibliotēka",
@@ -8915,7 +8915,7 @@
    Handicapped: "Jā",
    Active_users: 575,
    Collections: 13697,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Latvijas Valsts Mežzinātnes institūta \"Silava\" bibliotēka",
@@ -8929,7 +8929,7 @@
    Handicapped: "Jā",
    Active_users: 236,
    Collections: 51458,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lauberes pagasta bibliotēka",
@@ -8943,7 +8943,7 @@
    Handicapped: "Jā",
    Active_users: 296,
    Collections: 8894,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Laucesas pagasta bibliotēka",
@@ -8957,7 +8957,7 @@
    Handicapped: "",
    Active_users: 141,
    Collections: 5201,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Laucesas pagasta Mirnija bibliotēka",
@@ -8971,7 +8971,7 @@
    Handicapped: "",
    Active_users: 202,
    Collections: 5255,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Laucesas pamatskolas bibliotēka",
@@ -8985,7 +8985,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 1635,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Laucienes pamatskolas bibliotēka",
@@ -8999,7 +8999,7 @@
    Handicapped: "Jā",
    Active_users: 139,
    Collections: 12523,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lauderu pagasta bibliotēka",
@@ -9013,7 +9013,7 @@
    Handicapped: "Jā",
    Active_users: 107,
    Collections: 4547,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Launkalnes sākumskolas bibliotēka",
@@ -9027,7 +9027,7 @@
    Handicapped: "Jā",
    Active_users: 15,
    Collections: 553,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Laurenču sākumskolas bibliotēka",
@@ -9041,7 +9041,7 @@
    Handicapped: "Jā",
    Active_users: 324,
    Collections: 3894,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lazdonas pagasta bibliotēka",
@@ -9055,7 +9055,7 @@
    Handicapped: "Jā",
    Active_users: 307,
    Collections: 7901,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lazdonas pamatskolas bibliotēka",
@@ -9069,7 +9069,7 @@
    Handicapped: "",
    Active_users: 71,
    Collections: 4665,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Lazdu bibliotēka",
@@ -9083,7 +9083,7 @@
    Handicapped: "Jā",
    Active_users: 134,
    Collections: 3690,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lazdukalna bibliotēka",
@@ -9097,7 +9097,7 @@
    Handicapped: "Jā",
    Active_users: 171,
    Collections: 6411,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lazdulejas pagasta bibliotēka",
@@ -9111,7 +9111,7 @@
    Handicapped: "",
    Active_users: 134,
    Collections: 4455,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lažas pagasta Apriķu bibliotēka",
@@ -9125,7 +9125,7 @@
    Handicapped: "Jā",
    Active_users: 104,
    Collections: 5121,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lēdmanes pamatskolas bibliotēka ",
@@ -9139,7 +9139,7 @@
    Handicapped: "",
    Active_users: 132,
    Collections: 6493,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lejasciema pagasta bibliotēka",
@@ -9153,7 +9153,7 @@
    Handicapped: "Jā",
    Active_users: 563,
    Collections: 8771,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lejasciema pagasta Mālu bibliotēka",
@@ -9167,7 +9167,7 @@
    Handicapped: "",
    Active_users: 72,
    Collections: 3244,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lejasciema vidusskolas bibliotēka",
@@ -9181,7 +9181,7 @@
    Handicapped: "",
    Active_users: 156,
    Collections: 12522,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lejasstrazdu sākumskolas bibliotēka",
@@ -9195,7 +9195,7 @@
    Handicapped: "Jā",
    Active_users: 120,
    Collections: 5304,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Lendžu pagasta bibliotēka",
@@ -9209,7 +9209,7 @@
    Handicapped: "",
    Active_users: 175,
    Collections: 6868,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lestenes pagasta bibliotēka",
@@ -9223,7 +9223,7 @@
    Handicapped: "",
    Active_users: 160,
    Collections: 5684,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lībagu sākumskolas bibliotēka",
@@ -9237,7 +9237,7 @@
    Handicapped: "",
    Active_users: 86,
    Collections: 4335,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lielplatones internātpamatskolas bibliotēka",
@@ -9251,7 +9251,7 @@
    Handicapped: "Jā",
    Active_users: 205,
    Collections: 11493,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lielplatones pagasta bibliotēka",
@@ -9265,7 +9265,7 @@
    Handicapped: "",
    Active_users: 176,
    Collections: 4343,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lielupes pamatskolas bibliotēka",
@@ -9279,7 +9279,7 @@
    Handicapped: "",
    Active_users: 205,
    Collections: 1444,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Lielvārdes novada Kultūras centra struktūrvienība \"Lēdmanes bibliotēka\" ",
@@ -9293,7 +9293,7 @@
    Handicapped: "",
    Active_users: 446,
    Collections: 9721,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lielvārdes novada Kultūras centra struktūrvienība Jumpravas bibliotēka",
@@ -9307,7 +9307,7 @@
    Handicapped: "",
    Active_users: 360,
    Collections: 10692,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lielvārdes novada Kultūras centra struktūrvienība Lielvārdes pilsētas bibliotēka",
@@ -9321,7 +9321,7 @@
    Handicapped: "Jā",
    Active_users: 1557,
    Collections: 27244,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lielvārdes novada pašvaldības Jumpravas pamatskolas bibliotēka    ",
@@ -9335,7 +9335,7 @@
    Handicapped: "Jā",
    Active_users: 202,
    Collections: 9965,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lielvārdes pamatskolas bibliotēka ",
@@ -9349,7 +9349,7 @@
    Handicapped: "Jā",
    Active_users: 312,
    Collections: 10088,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Liepājas  Centrālā zinātniskā bibliotēka",
@@ -9363,7 +9363,7 @@
    Handicapped: "",
    Active_users: 5388,
    Collections: 217111,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas 12. vidusskolas bibliotēka",
@@ -9377,7 +9377,7 @@
    Handicapped: "Jā",
    Active_users: 600,
    Collections: 19576,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Liepājas 15. vidusskolas bibliotēka",
@@ -9391,7 +9391,7 @@
    Handicapped: "",
    Active_users: 1064,
    Collections: 41628,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Liepājas 3. pamatskolas bibliotēka ",
@@ -9405,7 +9405,7 @@
    Handicapped: "",
    Active_users: 455,
    Collections: 6074,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Liepājas 7. vidusskolas bibliotēka",
@@ -9419,7 +9419,7 @@
    Handicapped: "",
    Active_users: 752,
    Collections: 31160,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Liepājas 8. vidusskolas bibliotēka",
@@ -9433,7 +9433,7 @@
    Handicapped: "Jā",
    Active_users: 655,
    Collections: 42993,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas A. Puškina 2. vidusskolas bibliotēka",
@@ -9447,7 +9447,7 @@
    Handicapped: "",
    Active_users: 683,
    Collections: 22533,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas Centra sākumskolas bibliotēka",
@@ -9461,7 +9461,7 @@
    Handicapped: "",
    Active_users: 593,
    Collections: 11549,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas Centrālās zinātniskās bibliotēkas filiāle  -  \"Zaļās birzs\" bibliotēka",
@@ -9475,7 +9475,7 @@
    Handicapped: "",
    Active_users: 893,
    Collections: 19675,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas Centrālās zinātniskās bibliotēkas filiāle -  bibliotēka \"Varavīksne\"",
@@ -9489,7 +9489,7 @@
    Handicapped: "Jā",
    Active_users: 1841,
    Collections: 18373,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas Centrālās zinātniskās bibliotēkas filiāle - bērnu bibliotēka \"Vecliepājas Rūķis\"",
@@ -9503,7 +9503,7 @@
    Handicapped: "Jā",
    Active_users: 2272,
    Collections: 24809,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas Centrālās zinātniskās bibliotēkas filiāle - bibliotēka \"Libris\"",
@@ -9517,7 +9517,7 @@
    Handicapped: "Jā",
    Active_users: 2319,
    Collections: 20978,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas Centrālās zinātniskās bibliotēkas filiāle - Valtera bibliotēka",
@@ -9531,7 +9531,7 @@
    Handicapped: "Jā",
    Active_users: 2022,
    Collections: 19070,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas Ezerkrasta sākumskolas bibliotēka",
@@ -9545,7 +9545,7 @@
    Handicapped: "",
    Active_users: 380,
    Collections: 11514,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas internātpamatskolas bibliotēka",
@@ -9559,7 +9559,7 @@
    Handicapped: "",
    Active_users: 160,
    Collections: 15376,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas Jūrniecības koledžas bibliotēka",
@@ -9573,7 +9573,7 @@
    Handicapped: "",
    Active_users: 1154,
    Collections: 21125,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas Katoļu pamatskolas bibliotēka",
@@ -9587,7 +9587,7 @@
    Handicapped: "Jā",
    Active_users: 211,
    Collections: 5038,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Liepājas Līvupes pamatskola - attīstības centrs bibliotēka",
@@ -9601,7 +9601,7 @@
    Handicapped: "",
    Active_users: 355,
    Collections: 8982,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas pilsētas Izglītības pārvaldes bibliotēka",
@@ -9615,7 +9615,7 @@
    Handicapped: "",
    Active_users: 856,
    Collections: 5611,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Liepājas Raiņa 6. vidusskolas bibliotēka",
@@ -9629,7 +9629,7 @@
    Handicapped: "Jā",
    Active_users: 456,
    Collections: 16622,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas Universitātes bibliotēka",
@@ -9643,7 +9643,7 @@
    Handicapped: "Jā",
    Active_users: 1274,
    Collections: 68010,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas vakara (maiņu) vidusskolas bibliotēka",
@@ -9657,7 +9657,7 @@
    Handicapped: "",
    Active_users: 276,
    Collections: 19059,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepājas Valsts 1. ģimnāzijas bibliotēka",
@@ -9671,7 +9671,7 @@
    Handicapped: "Jā",
    Active_users: 650,
    Collections: 22731,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepas pamatskolas bibliotēka",
@@ -9685,7 +9685,7 @@
    Handicapped: "",
    Active_users: 177,
    Collections: 7531,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepnas pagasta bibliotēka",
@@ -9699,7 +9699,7 @@
    Handicapped: "Jā",
    Active_users: 333,
    Collections: 7277,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepnas vidusskolas bibliotēka",
@@ -9713,7 +9713,7 @@
    Handicapped: "Jā",
    Active_users: 96,
    Collections: 9153,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liepupes pamatskolas bibliotēka",
@@ -9727,7 +9727,7 @@
    Handicapped: "",
    Active_users: 169,
    Collections: 10593,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liezēres  pagasta bibliotēka",
@@ -9741,7 +9741,7 @@
    Handicapped: "",
    Active_users: 197,
    Collections: 4320,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liezēres pagasta Mēdzūlas bibliotēka",
@@ -9755,7 +9755,7 @@
    Handicapped: "",
    Active_users: 73,
    Collections: 2921,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Liezēres pamatskolas bibliotēka",
@@ -9769,7 +9769,7 @@
    Handicapped: "",
    Active_users: 109,
    Collections: 5894,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līgatnes novada Līgatnes pagasta  bibliotēka",
@@ -9783,7 +9783,7 @@
    Handicapped: "Jā",
    Active_users: 386,
    Collections: 5681,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līgatnes novada vidusskolas bibliotēka",
@@ -9797,7 +9797,7 @@
    Handicapped: "Jā",
    Active_users: 1242,
    Collections: 23404,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Līgatnes pilsētas bibliotēka",
@@ -9811,7 +9811,7 @@
    Handicapped: "",
    Active_users: 338,
    Collections: 6348,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līgo pagasta bibliotēka",
@@ -9825,7 +9825,7 @@
    Handicapped: "",
    Active_users: 158,
    Collections: 4481,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līksnas pagasta bibliotēka",
@@ -9839,7 +9839,7 @@
    Handicapped: "Jā",
    Active_users: 186,
    Collections: 6202,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Limbažu 3. vidusskolas bibliotēka ",
@@ -9853,7 +9853,7 @@
    Handicapped: "Jā",
    Active_users: 557,
    Collections: 30387,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Limbažu Galvenā bibliotēka",
@@ -9867,7 +9867,7 @@
    Handicapped: "Jā",
    Active_users: 2303,
    Collections: 42772,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Limbažu novada ģimnāzijas bibliotēka",
@@ -9881,7 +9881,7 @@
    Handicapped: "Jā",
    Active_users: 305,
    Collections: 22819,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Limbažu sākumskolas bibliotēka",
@@ -9895,7 +9895,7 @@
    Handicapped: "Jā",
    Active_users: 412,
    Collections: 6852,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Litenes pagasta bibliotēka",
@@ -9909,7 +9909,7 @@
    Handicapped: "",
    Active_users: 326,
    Collections: 5893,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līvānu 1. vidusskolas bibliotēka",
@@ -9923,7 +9923,7 @@
    Handicapped: "Jā",
    Active_users: 615,
    Collections: 28069,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Līvānu 2. vidusskolas bibliotēka",
@@ -9937,7 +9937,7 @@
    Handicapped: "",
    Active_users: 263,
    Collections: 19292,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Līvānu novada Centrālā bibliotēka",
@@ -9951,7 +9951,7 @@
    Handicapped: "Jā",
    Active_users: 2052,
    Collections: 84212,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līvānu novada Centrālās bibliotēkas Druvas bibliotēka [reorganizēta, Līvānu NCB Rožupes bibliotēkas ārējais apkalpošanas punkts]",
@@ -9965,7 +9965,7 @@
    Handicapped: "",
    Active_users: 21,
    Collections: 2193,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līvānu novada Centrālās bibliotēkas Jaunsilavu bibliotēka",
@@ -9979,7 +9979,7 @@
    Handicapped: "",
    Active_users: 223,
    Collections: 7584,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līvānu novada Centrālās bibliotēkas Jersikas bibliotēka",
@@ -9993,7 +9993,7 @@
    Handicapped: "",
    Active_users: 217,
    Collections: 5475,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līvānu novada Centrālās bibliotēkas Rīta filiālbibliotēka",
@@ -10007,7 +10007,7 @@
    Handicapped: "Jā",
    Active_users: 295,
    Collections: 7112,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līvānu novada Centrālās bibliotēkas Rožupes bibliotēka",
@@ -10021,7 +10021,7 @@
    Handicapped: "Jā",
    Active_users: 399,
    Collections: 9745,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līvānu novada Centrālās bibliotēkas Rudzātu bibliotēka ",
@@ -10035,7 +10035,7 @@
    Handicapped: "Jā",
    Active_users: 309,
    Collections: 7675,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līvānu novada Centrālās bibliotēkas Sutru filiālbibliotēka",
@@ -10049,7 +10049,7 @@
    Handicapped: "",
    Active_users: 178,
    Collections: 9245,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līvānu novada Centrālās bibliotēkas Turku pagasta bibliotēka",
@@ -10063,7 +10063,7 @@
    Handicapped: "Jā",
    Active_users: 167,
    Collections: 6198,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Līvānu novada Vakara (maiņu) vidusskolas bibliotēka",
@@ -10077,7 +10077,7 @@
    Handicapped: "",
    Active_users: 103,
    Collections: 4025,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līvbērzes pagasta bibliotēka",
@@ -10091,7 +10091,7 @@
    Handicapped: "",
    Active_users: 310,
    Collections: 7000,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līvbērzes pamatskolas informācijas centra bibliotēka",
@@ -10105,7 +10105,7 @@
    Handicapped: "",
    Active_users: 191,
    Collections: 5774,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Līvu pamatskolas bibliotēka",
@@ -10119,7 +10119,7 @@
    Handicapped: "",
    Active_users: 114,
    Collections: 5354,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Lizuma pagasta bibliotēka",
@@ -10133,7 +10133,7 @@
    Handicapped: "",
    Active_users: 498,
    Collections: 9091,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lizuma vidusskolas bibliotēka",
@@ -10147,7 +10147,7 @@
    Handicapped: "",
    Active_users: 199,
    Collections: 16443,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "LNKC struktūrvienības Lielvārdes pilsētas bibliotēkas filiālbibliotēka \"LĀČPLĒSIS\"",
@@ -10161,7 +10161,7 @@
    Handicapped: "",
    Active_users: 707,
    Collections: 9441,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "LR Saeimas bibliotēka",
@@ -10175,7 +10175,7 @@
    Handicapped: "",
    Active_users: 416,
    Collections: 12856,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lubānas novada Meirānu bibliotēka",
@@ -10189,7 +10189,7 @@
    Handicapped: "",
    Active_users: 79,
    Collections: 4276,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lubānas pilsētas bibliotēka",
@@ -10203,7 +10203,7 @@
    Handicapped: "",
    Active_users: 773,
    Collections: 20209,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lubānas vidusskolas bibliotēka",
@@ -10217,7 +10217,7 @@
    Handicapped: "",
    Active_users: 210,
    Collections: 20094,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lūcijas Rancānes Makašānu amatu vidusskolas bibliotēka",
@@ -10231,7 +10231,7 @@
    Handicapped: "",
    Active_users: 110,
    Collections: 8424,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ludzas 2. vidusskolas bibliotēka",
@@ -10245,7 +10245,7 @@
    Handicapped: "Jā",
    Active_users: 426,
    Collections: 19568,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ludzas Mūzikas pamatskolas bibliotēka",
@@ -10259,7 +10259,7 @@
    Handicapped: "",
    Active_users: 248,
    Collections: 16529,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ludzas novada vakara vidusskolas bibliotēka",
@@ -10273,7 +10273,7 @@
    Handicapped: "",
    Active_users: 346,
    Collections: 8635,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ludzas pilsētas galvenā bibliotēka",
@@ -10287,7 +10287,7 @@
    Handicapped: "",
    Active_users: 2879,
    Collections: 50648,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ludzas pilsētas ģimnāzijas bibliotēka",
@@ -10301,7 +10301,7 @@
    Handicapped: "Jā",
    Active_users: 607,
    Collections: 63110,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lutriņu pagasta bibliotēka",
@@ -10315,7 +10315,7 @@
    Handicapped: "",
    Active_users: 304,
    Collections: 7118,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Lutriņu pamatskolas bibliotēka",
@@ -10329,7 +10329,7 @@
    Handicapped: "",
    Active_users: 60,
    Collections: 4845,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Lūznavas pagasta bibliotēka",
@@ -10343,7 +10343,7 @@
    Handicapped: "Jā",
    Active_users: 147,
    Collections: 7373,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ļaudonas pagasta bibliotēka",
@@ -10357,7 +10357,7 @@
    Handicapped: "",
    Active_users: 295,
    Collections: 7911,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ļaudonas pagasta Sāvienas bibliotēka",
@@ -10371,7 +10371,7 @@
    Handicapped: "",
    Active_users: 68,
    Collections: 5590,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Madlienas vidusskolas bibliotēka",
@@ -10385,7 +10385,7 @@
    Handicapped: "",
    Active_users: 254,
    Collections: 16654,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Madonas novada bibliotēka",
@@ -10399,7 +10399,7 @@
    Handicapped: "Jā",
    Active_users: 2690,
    Collections: 62234,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Madonas pilsētas vidusskolas bibliotēka",
@@ -10413,7 +10413,7 @@
    Handicapped: "Jā",
    Active_users: 780,
    Collections: 20340,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Madonas Valsts ģimnāzijas bibliotēka",
@@ -10427,7 +10427,7 @@
    Handicapped: "",
    Active_users: 305,
    Collections: 15502,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Majoru vidusskolas bibliotēka",
@@ -10441,7 +10441,7 @@
    Handicapped: "",
    Active_users: 478,
    Collections: 14496,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mākoņkalna pagasta bibliotēka",
@@ -10455,7 +10455,7 @@
    Handicapped: "",
    Active_users: 168,
    Collections: 3490,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Malienas bibliotēka",
@@ -10469,7 +10469,7 @@
    Handicapped: "",
    Active_users: 154,
    Collections: 4828,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Malienas pamatskolas bibliotēka",
@@ -10483,7 +10483,7 @@
    Handicapped: "",
    Active_users: 72,
    Collections: 3140,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Malnavas koledžas bibliotēka",
@@ -10497,7 +10497,7 @@
    Handicapped: "Jā",
    Active_users: 926,
    Collections: 20044,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Malnavas pagasta Nesteru bibliotēka",
@@ -10511,7 +10511,7 @@
    Handicapped: "Jā",
    Active_users: 56,
    Collections: 3036,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mālpils novada bibliotēka",
@@ -10525,7 +10525,7 @@
    Handicapped: "Jā",
    Active_users: 647,
    Collections: 11370,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mālpils novada Sidgundas bibliotēka",
@@ -10539,7 +10539,7 @@
    Handicapped: "",
    Active_users: 98,
    Collections: 4544,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mālpils novada vidusskolas bibliotēka",
@@ -10553,7 +10553,7 @@
    Handicapped: "",
    Active_users: 402,
    Collections: 27513,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Maltas pagasta bibliotēka",
@@ -10567,7 +10567,7 @@
    Handicapped: "",
    Active_users: 836,
    Collections: 17658,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Maltas speciālās  internātpamatskolas  bibliotēka",
@@ -10581,7 +10581,7 @@
    Handicapped: "Jā",
    Active_users: 97,
    Collections: 10515,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Maltas vidusskolas bibliotēka",
@@ -10595,7 +10595,7 @@
    Handicapped: "Jā",
    Active_users: 735,
    Collections: 20072,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Maltas vidusskolas struktūrvienības Liepu pamatskolas bibliotēka ",
@@ -10609,7 +10609,7 @@
    Handicapped: "",
    Active_users: 88,
    Collections: 4726,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mālupes pagasta bibliotēka",
@@ -10623,7 +10623,7 @@
    Handicapped: "Jā",
    Active_users: 248,
    Collections: 6792,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Maļinovas pagasta bibliotēka",
@@ -10637,7 +10637,7 @@
    Handicapped: "Jā",
    Active_users: 251,
    Collections: 3052,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mārcienas pagasta bibliotēka",
@@ -10651,7 +10651,7 @@
    Handicapped: "",
    Active_users: 176,
    Collections: 6157,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Māriņkalna bibliotēka",
@@ -10665,7 +10665,7 @@
    Handicapped: "",
    Active_users: 253,
    Collections: 5679,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mārkalnes pagasta bibliotēka",
@@ -10679,7 +10679,7 @@
    Handicapped: "Jā",
    Active_users: 176,
    Collections: 6035,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mārupes novada Domes Mazcenas bibliotēka",
@@ -10693,7 +10693,7 @@
    Handicapped: "Jā",
    Active_users: 1809,
    Collections: 15168,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mārupes novada Skultes sākumskolas bibliotēka",
@@ -10707,7 +10707,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 8011,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mārupes pamatskolas bibliotēka",
@@ -10721,7 +10721,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 7709,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mārupes vidusskolas bibliotēka",
@@ -10735,7 +10735,7 @@
    Handicapped: "Jā",
    Active_users: 1300,
    Collections: 37402,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Māteru Jura Kazdangas pamatskolas  bibliotēka",
@@ -10749,7 +10749,7 @@
    Handicapped: "",
    Active_users: 142,
    Collections: 8116,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Matīšu pamatskolas bibliotēka",
@@ -10763,7 +10763,7 @@
    Handicapped: "Jā",
    Active_users: 111,
    Collections: 7063,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mazozolu pagasta bibliotēka",
@@ -10777,7 +10777,7 @@
    Handicapped: "",
    Active_users: 109,
    Collections: 5211,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mazsalacas novada Ramatas pagasta bibliotēka",
@@ -10791,7 +10791,7 @@
    Handicapped: "",
    Active_users: 90,
    Collections: 4027,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mazsalacas novada Sēļu pagasta bibliotēka",
@@ -10805,7 +10805,7 @@
    Handicapped: "",
    Active_users: 185,
    Collections: 5187,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mazsalacas novada Skaņkalnes pagasta bibliotēka",
@@ -10819,7 +10819,7 @@
    Handicapped: "",
    Active_users: 125,
    Collections: 4253,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mazsalacas pilsētas bibliotēka",
@@ -10833,7 +10833,7 @@
    Handicapped: "Jā",
    Active_users: 700,
    Collections: 15346,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mazsalacas vidusskolas bibliotēka",
@@ -10847,7 +10847,7 @@
    Handicapped: "",
    Active_users: 321,
    Collections: 60454,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mazzalves pamatskolas bibliotēka",
@@ -10861,7 +10861,7 @@
    Handicapped: "",
    Active_users: 87,
    Collections: 3911,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Medņevas  bibliotēka",
@@ -10875,7 +10875,7 @@
    Handicapped: "",
    Active_users: 161,
    Collections: 5445,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Medumu  internātpamatskolas bibliotēka",
@@ -10889,7 +10889,7 @@
    Handicapped: "",
    Active_users: 146,
    Collections: 3081,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Medumu pagasta bibliotēka",
@@ -10903,7 +10903,7 @@
    Handicapped: "Jā",
    Active_users: 172,
    Collections: 6641,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Medumu pamatskolas bibliotēka",
@@ -10917,7 +10917,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 5951,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Meirānu Oskara Kalpaka pamatskolas bibliotēka",
@@ -10931,7 +10931,7 @@
    Handicapped: "",
    Active_users: 52,
    Collections: 4317,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Meņģeles pagasta bibliotēka",
@@ -10945,7 +10945,7 @@
    Handicapped: "",
    Active_users: 177,
    Collections: 4224,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mērdzenes pagasta bibliotēka",
@@ -10959,7 +10959,7 @@
    Handicapped: "Jā",
    Active_users: 237,
    Collections: 5545,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mērdzenes pamatskolas bibliotēka",
@@ -10973,7 +10973,7 @@
    Handicapped: "Jā",
    Active_users: 78,
    Collections: 2161,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mērsraga novada bibliotēka",
@@ -10987,7 +10987,7 @@
    Handicapped: "Jā",
    Active_users: 319,
    Collections: 8866,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mērsraga vidusskolas bibliotēka",
@@ -11001,7 +11001,7 @@
    Handicapped: "Jā",
    Active_users: 168,
    Collections: 9820,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Mētrienas pagasta bibliotēka",
@@ -11015,7 +11015,7 @@
    Handicapped: "Jā",
    Active_users: 168,
    Collections: 8102,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mētrienas pamatskolas bibliotēka",
@@ -11029,7 +11029,7 @@
    Handicapped: "",
    Active_users: 38,
    Collections: 1472,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mežāres bibliotēka",
@@ -11043,7 +11043,7 @@
    Handicapped: "Jā",
    Active_users: 203,
    Collections: 6355,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mežāres pamatskolas bibliotēka",
@@ -11057,7 +11057,7 @@
    Handicapped: "Jā",
    Active_users: 63,
    Collections: 2969,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Mežciema pamatskolas bibliotēka",
@@ -11071,7 +11071,7 @@
    Handicapped: "",
    Active_users: 695,
    Collections: 14072,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Mežgaļu pamatskolas bibliotēka",
@@ -11085,7 +11085,7 @@
    Handicapped: "",
    Active_users: 88,
    Collections: 8049,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mežinieku pamatskola bibliotēka",
@@ -11099,7 +11099,7 @@
    Handicapped: "",
    Active_users: 116,
    Collections: 5084,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mežotnes pagasta Jumpravas bibliotēka",
@@ -11113,7 +11113,7 @@
    Handicapped: "Jā",
    Active_users: 113,
    Collections: 3630,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Mežotnes pagasta Mežotnes bibliotēka",
@@ -11127,7 +11127,7 @@
    Handicapped: "Jā",
    Active_users: 183,
    Collections: 4424,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mežotnes pagasta Strēlnieku bibliotēka",
@@ -11141,7 +11141,7 @@
    Handicapped: "",
    Active_users: 195,
    Collections: 7110,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mežotnes sākumskola bibliotēka",
@@ -11155,7 +11155,7 @@
    Handicapped: "",
    Active_users: 30,
    Collections: 2660,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Mežvidu pagasta bibliotēka",
@@ -11169,7 +11169,7 @@
    Handicapped: "",
    Active_users: 157,
    Collections: 5426,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mežvidu pagasta Ranču bibliotēka",
@@ -11183,7 +11183,7 @@
    Handicapped: "",
    Active_users: 81,
    Collections: 2831,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mežvidu pamatskolas bibliotēka ",
@@ -11197,7 +11197,7 @@
    Handicapped: "",
    Active_users: 73,
    Collections: 6803,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Milzkalnes sākumskolas bibliotēka",
@@ -11211,7 +11211,7 @@
    Handicapped: "",
    Active_users: 126,
    Collections: 1213,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Misas vidusskolas bibliotēka",
@@ -11225,7 +11225,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 4238,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Mores pamatskolas bibliotēka",
@@ -11239,7 +11239,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 2218,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Murjāņu sporta ģimnāzijas bibliotēka",
@@ -11253,7 +11253,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 31580,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Murmastienes pamatskolas bibliotēka",
@@ -11267,7 +11267,7 @@
    Handicapped: "",
    Active_users: 47,
    Collections: 5919,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Nagļu pagasta bibliotēka",
@@ -11281,7 +11281,7 @@
    Handicapped: "",
    Active_users: 161,
    Collections: 6326,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nākotnes bibliotēka",
@@ -11295,7 +11295,7 @@
    Handicapped: "",
    Active_users: 387,
    Collections: 5506,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Naujenes pamatskolas bibliotēka",
@@ -11309,7 +11309,7 @@
    Handicapped: "Jā",
    Active_users: 131,
    Collections: 6728,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Naujenes tautas bibliotēka",
@@ -11323,7 +11323,7 @@
    Handicapped: "Jā",
    Active_users: 1250,
    Collections: 28541,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Naukšēnu novada vidusskolas bibliotēka",
@@ -11337,7 +11337,7 @@
    Handicapped: "",
    Active_users: 287,
    Collections: 7659,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Naukšēnu pagasta bibliotēka",
@@ -11351,7 +11351,7 @@
    Handicapped: "Jā",
    Active_users: 470,
    Collections: 8836,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nautrēnu pagasta bibliotēka",
@@ -11365,7 +11365,7 @@
    Handicapped: "Jā",
    Active_users: 249,
    Collections: 9048,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nautrēnu vidusskolas bibliotēka",
@@ -11379,7 +11379,7 @@
    Handicapped: "Jā",
    Active_users: 174,
    Collections: 7303,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nautrēnu vidusskolas struktūrvienības Bērzgales pamatskolas bibliotēka ",
@@ -11393,7 +11393,7 @@
    Handicapped: "",
    Active_users: 64,
    Collections: 10119,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Neretas Jāņa Jaunsudrabiņa vidusskolas bibliotēka",
@@ -11407,7 +11407,7 @@
    Handicapped: "Jā",
    Active_users: 200,
    Collections: 12507,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Neretas novada centrālā bibliotēka",
@@ -11421,7 +11421,7 @@
    Handicapped: "",
    Active_users: 212,
    Collections: 8357,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Neretas novada Mazzalves pagasta bibliotēka",
@@ -11435,7 +11435,7 @@
    Handicapped: "",
    Active_users: 109,
    Collections: 7187,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Neretas novada Neretas bērnu bibliotēka",
@@ -11449,7 +11449,7 @@
    Handicapped: "",
    Active_users: 180,
    Collections: 5185,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Neretas novada Pilskalnes pagasta bibliotēka",
@@ -11463,7 +11463,7 @@
    Handicapped: "",
    Active_users: 82,
    Collections: 4564,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Neretas novada Zalves pagasta bibliotēka",
@@ -11477,7 +11477,7 @@
    Handicapped: "",
    Active_users: 72,
    Collections: 4056,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Neretas novada Zalves pagasta Sproģu bibliotēka",
@@ -11491,7 +11491,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 4206,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nīcas novada Nīcas pagasta bibliotēka",
@@ -11505,7 +11505,7 @@
    Handicapped: "Jā",
    Active_users: 436,
    Collections: 10437,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nīcas vidusskolas bibliotēka",
@@ -11519,7 +11519,7 @@
    Handicapped: "",
    Active_users: 220,
    Collections: 6985,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nīcgales pagasta tautas bibliotēka",
@@ -11533,7 +11533,7 @@
    Handicapped: "",
    Active_users: 202,
    Collections: 4180,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nīgrandes pagasta bibliotēka",
@@ -11547,7 +11547,7 @@
    Handicapped: "Jā",
    Active_users: 352,
    Collections: 10071,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nīgrandes pagasta Kalnu bibliotēka",
@@ -11561,7 +11561,7 @@
    Handicapped: "",
    Active_users: 334,
    Collections: 12995,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nīgrandes pagasta Kalnu vidusskolas bibliotēka",
@@ -11575,7 +11575,7 @@
    Handicapped: "",
    Active_users: 159,
    Collections: 11593,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nīkrāces pagasta bibliotēka",
@@ -11589,7 +11589,7 @@
    Handicapped: "",
    Active_users: 195,
    Collections: 5598,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nīkrāces pamatskolas bibliotēka",
@@ -11603,7 +11603,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 3830,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Nirzas pagasta bibliotēka",
@@ -11617,7 +11617,7 @@
    Handicapped: "",
    Active_users: 103,
    Collections: 5322,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nītaures pagasta bibliotēka",
@@ -11631,7 +11631,7 @@
    Handicapped: "",
    Active_users: 314,
    Collections: 8284,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Nītaures vidusskolas bibliotēka",
@@ -11645,7 +11645,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 11432,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Novadnieku pagasta tautas bibliotēka",
@@ -11659,7 +11659,7 @@
    Handicapped: "",
    Active_users: 196,
    Collections: 9054,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ņukšu pagasta bibliotēka",
@@ -11673,7 +11673,7 @@
    Handicapped: "",
    Active_users: 126,
    Collections: 4495,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "O. Kalpaka Rīgas Tautas daiļamatu pamatskolas bibliotēka",
@@ -11687,7 +11687,7 @@
    Handicapped: "",
    Active_users: 625,
    Collections: 9058,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ogres 1. vidusskolas bibliotēka",
@@ -11701,7 +11701,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 43856,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ogres Centrālā bibliotēka",
@@ -11715,7 +11715,7 @@
    Handicapped: "Jā",
    Active_users: 5422,
    Collections: 75335,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ogres novada Ciemupes bibliotēka",
@@ -11729,7 +11729,7 @@
    Handicapped: "",
    Active_users: 176,
    Collections: 5414,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ogres novada Madlienas  bibliotēka",
@@ -11743,7 +11743,7 @@
    Handicapped: "",
    Active_users: 324,
    Collections: 13163,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ogres novada Ogresgala bibliotēka",
@@ -11757,7 +11757,7 @@
    Handicapped: "",
    Active_users: 424,
    Collections: 7879,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ogres sākumskolas bibliotēka ",
@@ -11771,7 +11771,7 @@
    Handicapped: "",
    Active_users: 829,
    Collections: 18178,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ogres tehnikuma bibliotēka",
@@ -11785,7 +11785,7 @@
    Handicapped: "Jā",
    Active_users: 1051,
    Collections: 31104,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ogres Valsts ģimnāzijas bibliotēka",
@@ -11799,7 +11799,7 @@
    Handicapped: "",
    Active_users: 517,
    Collections: 31537,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ogresgala pamatskolas bibliotēka",
@@ -11813,7 +11813,7 @@
    Handicapped: "Jā",
    Active_users: 171,
    Collections: 7308,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ojāra Vācieša Gaujienas pamatskolas bibliotēka",
@@ -11827,7 +11827,7 @@
    Handicapped: "",
    Active_users: 144,
    Collections: 7783,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Olaines 1. vidusskolas bibliotēka",
@@ -11841,7 +11841,7 @@
    Handicapped: "",
    Active_users: 1092,
    Collections: 69762,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Olaines 2. vidusskolas bibliotēka",
@@ -11855,7 +11855,7 @@
    Handicapped: "Jā",
    Active_users: 875,
    Collections: 34076,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Olaines Bibliotēka",
@@ -11869,7 +11869,7 @@
    Handicapped: "",
    Active_users: 1611,
    Collections: 33672,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Olaines Mehānikas un tehnoloģijas koledžas bibliotēka",
@@ -11883,7 +11883,7 @@
    Handicapped: "",
    Active_users: 241,
    Collections: 21589,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Olaines novada Gaismu bibliotēka",
@@ -11897,7 +11897,7 @@
    Handicapped: "Jā",
    Active_users: 242,
    Collections: 8278,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Olaines novada Jaunolaines bibliotēka",
@@ -11911,7 +11911,7 @@
    Handicapped: "",
    Active_users: 305,
    Collections: 10182,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ošupes pagasta Degumnieku bibliotēka",
@@ -11925,7 +11925,7 @@
    Handicapped: "",
    Active_users: 195,
    Collections: 5489,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Otaņķu pagasta bibliotēka",
@@ -11939,7 +11939,7 @@
    Handicapped: "",
    Active_users: 238,
    Collections: 6575,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ozolaines pagasta bibliotēka",
@@ -11953,7 +11953,7 @@
    Handicapped: "",
    Active_users: 253,
    Collections: 9447,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ozolmuižas pagasta bibliotēka",
@@ -11967,7 +11967,7 @@
    Handicapped: "Jā",
    Active_users: 140,
    Collections: 5004,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ozolmuižas pamatskolas bibliotēka",
@@ -11981,7 +11981,7 @@
    Handicapped: "",
    Active_users: 159,
    Collections: 6602,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ozolnieku novada Ānes bibliotēka",
@@ -11995,7 +11995,7 @@
    Handicapped: "Jā",
    Active_users: 300,
    Collections: 6269,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ozolnieku novada Centrālā bibliotēka",
@@ -12009,7 +12009,7 @@
    Handicapped: "Jā",
    Active_users: 861,
    Collections: 16196,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ozolnieku novada Jaunpēternieku bibliotēka [reorganizēta 01.04.2018, Ozolnieku novada centrālās bibliotēkas ĀAP]",
@@ -12023,7 +12023,7 @@
    Handicapped: "",
    Active_users: 116,
    Collections: 4889,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ozolnieku novada Vainu bibliotēka",
@@ -12037,7 +12037,7 @@
    Handicapped: "Jā",
    Active_users: 259,
    Collections: 7999,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ozolnieku vidusskolas bibliotēka ",
@@ -12051,7 +12051,7 @@
    Handicapped: "Jā",
    Active_users: 797,
    Collections: 25851,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ozolu pamatskolas bibliotēka",
@@ -12065,7 +12065,7 @@
    Handicapped: "",
    Active_users: 15,
    Collections: 2305,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "P. Stradiņa Medicīnas vēstures muzeja bibliotēka",
@@ -12079,7 +12079,7 @@
    Handicapped: "",
    Active_users: 32,
    Collections: 21260,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Padures pagasta bibliotēka",
@@ -12093,7 +12093,7 @@
    Handicapped: "Jā",
    Active_users: 349,
    Collections: 11713,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pāles bibliotēka",
@@ -12107,7 +12107,7 @@
    Handicapped: "",
    Active_users: 114,
    Collections: 4317,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pāles pamatskolas bibliotēka",
@@ -12121,7 +12121,7 @@
    Handicapped: "",
    Active_users: 113,
    Collections: 2854,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Palsmanes  internātpamatskolas bibliotēka",
@@ -12135,7 +12135,7 @@
    Handicapped: "",
    Active_users: 115,
    Collections: 3825,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Palsmanes pamatskolas bibliotēka",
@@ -12149,7 +12149,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 3002,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pamatskolas \"Rīdze\" bibliotēka",
@@ -12163,7 +12163,7 @@
    Handicapped: "Jā",
    Active_users: 588,
    Collections: 8680,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Pampāļu pagasta bibliotēka",
@@ -12177,7 +12177,7 @@
    Handicapped: "",
    Active_users: 212,
    Collections: 9161,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pampāļu pamatskolas bibliotēka",
@@ -12191,7 +12191,7 @@
    Handicapped: "",
    Active_users: 72,
    Collections: 5433,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pamūšas speciālās internātpamatskolas bibliotēka",
@@ -12205,7 +12205,7 @@
    Handicapped: "Jā",
    Active_users: 112,
    Collections: 5447,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Pārgaujas novada Raiskuma pagasta bibliotēka",
@@ -12219,7 +12219,7 @@
    Handicapped: "",
    Active_users: 125,
    Collections: 5047,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pārtikas drošības, dzīvnieku veselības un vides zinātniskā institūta \"BIOR\" Zivju resursu pētniecības departamenta bibliotēka",
@@ -12233,7 +12233,7 @@
    Handicapped: "",
    Active_users: 38,
    Collections: 19565,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Pasienes pagasta bibliotēka",
@@ -12247,7 +12247,7 @@
    Handicapped: "Jā",
    Active_users: 166,
    Collections: 3945,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pastendes pamatskolas bibliotēka",
@@ -12261,7 +12261,7 @@
    Handicapped: "",
    Active_users: 157,
    Collections: 7169,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Patentu valdes bibliotēka",
@@ -12275,7 +12275,7 @@
    Handicapped: "Jā",
    Active_users: 2936,
    Collections: 39400102,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pāvilostas novada Pāvilostas bibliotēka",
@@ -12289,7 +12289,7 @@
    Handicapped: "Jā",
    Active_users: 378,
    Collections: 8953,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pāvilostas novada Rīvas bibliotēka",
@@ -12303,7 +12303,7 @@
    Handicapped: "",
    Active_users: 62,
    Collections: 2607,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pāvilostas novada Sakas bibliotēka",
@@ -12317,7 +12317,7 @@
    Handicapped: "",
    Active_users: 111,
    Collections: 2676,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pāvilostas novada Ulmales bibliotēka",
@@ -12331,7 +12331,7 @@
    Handicapped: "",
    Active_users: 67,
    Collections: 2629,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pāvilostas novada Vērgales bibliotēka",
@@ -12345,7 +12345,7 @@
    Handicapped: "",
    Active_users: 210,
    Collections: 4643,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pāvilostas vidusskolas bibliotēka",
@@ -12359,7 +12359,7 @@
    Handicapped: "",
    Active_users: 146,
    Collections: 8706,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Pededzes bibliotēka",
@@ -12373,7 +12373,7 @@
    Handicapped: "",
    Active_users: 234,
    Collections: 6966,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pededzes pamatskolas bibliotēka",
@@ -12387,7 +12387,7 @@
    Handicapped: "",
    Active_users: 110,
    Collections: 4720,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pelču pagasta bibliotēka",
@@ -12401,7 +12401,7 @@
    Handicapped: "",
    Active_users: 314,
    Collections: 5576,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pelču speciālās internātpamatskolas - attīstības centra bibliotēka",
@@ -12415,7 +12415,7 @@
    Handicapped: "",
    Active_users: 291,
    Collections: 7646,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Pelēču pamatskolas bibliotēka ",
@@ -12429,7 +12429,7 @@
    Handicapped: "",
    Active_users: 94,
    Collections: 2129,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Penkules pamatskolas bibliotēka",
@@ -12443,7 +12443,7 @@
    Handicapped: "",
    Active_users: 112,
    Collections: 2797,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pērses pamatskolas bibliotēka",
@@ -12457,7 +12457,7 @@
    Handicapped: "",
    Active_users: 42,
    Collections: 3642,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Piedrujas pagasta bibliotēka",
@@ -12471,7 +12471,7 @@
    Handicapped: "",
    Active_users: 165,
    Collections: 5842,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "PIKC \"Liepājas Valsts tehnikums\" bibliotēka",
@@ -12485,7 +12485,7 @@
    Handicapped: "Jā",
    Active_users: 1200,
    Collections: 47333,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "PIKC \"Rīgas Dizaina un mākslas vidusskola\" bibliotēka",
@@ -12499,7 +12499,7 @@
    Handicapped: "",
    Active_users: 619,
    Collections: 8098,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "PIKC \"RVT\" Limbažu teritoriālās struktūrvienības bibliotēka",
@@ -12513,7 +12513,7 @@
    Handicapped: "",
    Active_users: 136,
    Collections: 2666,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "PIKC Daugavpils mākslas vidusskolas \"Saules skola\" bibliotēka",
@@ -12527,7 +12527,7 @@
    Handicapped: "Jā",
    Active_users: 253,
    Collections: 5767,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "PIKC Daugavpils tehnikuma bibliotēka",
@@ -12541,7 +12541,7 @@
    Handicapped: "Jā",
    Active_users: 846,
    Collections: 15239,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "PIKC Liepājas Mūzikas, mākslas un dizaina vidusskola",
@@ -12555,7 +12555,7 @@
    Handicapped: "",
    Active_users: 206,
    Collections: 5099,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "PIKC Liepājas Mūzikas, mākslas un dizaina vidusskolas bibliotēka",
@@ -12569,7 +12569,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 41479,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "PIKC Nacionālā Mākslu vidusskola/Jaņa Rozentāla Mākslas skolas bibliotēka    ",
@@ -12583,7 +12583,7 @@
    Handicapped: "",
    Active_users: 176,
    Collections: 12142,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "PIKC Nacionālās Mākslu vidusskolas Emīla Dārziņa mūzikas skolas bibliotēka",
@@ -12597,7 +12597,7 @@
    Handicapped: "",
    Active_users: 467,
    Collections: 26084,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "PIKC Nacionālās Mākslu vidusskolas Rīgas Doma kora skolas bibliotēka",
@@ -12611,7 +12611,7 @@
    Handicapped: "",
    Active_users: 432,
    Collections: 22450,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "PIKC Saldus tehnikuma bibliotēka",
@@ -12625,7 +12625,7 @@
    Handicapped: "Jā",
    Active_users: 603,
    Collections: 16515,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "PIKC Ventspils Mūzikas vidusskolas bibliotēka",
@@ -12639,7 +12639,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 11865,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Pildas pagasta bibliotēka",
@@ -12653,7 +12653,7 @@
    Handicapped: "Jā",
    Active_users: 148,
    Collections: 4486,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pildas pamatskolas bibliotēka",
@@ -12667,7 +12667,7 @@
    Handicapped: "",
    Active_users: 97,
    Collections: 3479,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pilsrundāles vidusskolas bibliotēka",
@@ -12681,7 +12681,7 @@
    Handicapped: "Jā",
    Active_users: 331,
    Collections: 23914,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Piltenes pilsētas bibliotēka",
@@ -12695,7 +12695,7 @@
    Handicapped: "",
    Active_users: 476,
    Collections: 11733,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Piltenes vidusskolas bibliotēka",
@@ -12709,7 +12709,7 @@
    Handicapped: "",
    Active_users: 151,
    Collections: 8936,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Plāņu pagasta Jaunklidža bibliotēka",
@@ -12723,7 +12723,7 @@
    Handicapped: "Jā",
    Active_users: 102,
    Collections: 3598,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Platones pagasta bibliotēka",
@@ -12737,7 +12737,7 @@
    Handicapped: "Jā",
    Active_users: 212,
    Collections: 4789,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Platones pagasta Lielvircavas bibliotēka",
@@ -12751,7 +12751,7 @@
    Handicapped: "",
    Active_users: 252,
    Collections: 4554,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pļaviņu novada bibliotēka",
@@ -12765,7 +12765,7 @@
    Handicapped: "Jā",
    Active_users: 1123,
    Collections: 18845,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pļaviņu novada bibliotēkas filiāle Pļaviņu novada bērnu bibliotēka",
@@ -12779,7 +12779,7 @@
    Handicapped: "",
    Active_users: 607,
    Collections: 10079,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pļaviņu novada ģimnāzijas  bibliotēka",
@@ -12793,7 +12793,7 @@
    Handicapped: "Jā",
    Active_users: 483,
    Collections: 40636,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pļavniekkalna sākumskolas bibliotēka",
@@ -12807,7 +12807,7 @@
    Handicapped: "",
    Active_users: 215,
    Collections: 8558,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pociema bibliotēka",
@@ -12821,7 +12821,7 @@
    Handicapped: "",
    Active_users: 184,
    Collections: 4590,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Popes bibliotēka",
@@ -12835,7 +12835,7 @@
    Handicapped: "Jā",
    Active_users: 182,
    Collections: 6653,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Popes pamatskolas bibliotēka",
@@ -12849,7 +12849,7 @@
    Handicapped: "",
    Active_users: 75,
    Collections: 5249,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Praulienas pagasta bibliotēka",
@@ -12863,7 +12863,7 @@
    Handicapped: "",
    Active_users: 234,
    Collections: 7881,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Praulienas pagasta Saikavas bibliotēka",
@@ -12877,7 +12877,7 @@
    Handicapped: "",
    Active_users: 133,
    Collections: 6164,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Praulienas pamatskolas bibliotēka",
@@ -12891,7 +12891,7 @@
    Handicapped: "",
    Active_users: 113,
    Collections: 10848,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Preiļu 1. pamatskolas bibliotēka",
@@ -12905,7 +12905,7 @@
    Handicapped: "",
    Active_users: 269,
    Collections: 16871,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Preiļu 2. vidusskolas bibliotēka",
@@ -12919,7 +12919,7 @@
    Handicapped: "",
    Active_users: 246,
    Collections: 19348,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Preiļu Galvenā bibliotēka",
@@ -12933,7 +12933,7 @@
    Handicapped: "Jā",
    Active_users: 2912,
    Collections: 66536,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Preiļu novada Aizkalnes bibliotēka",
@@ -12947,7 +12947,7 @@
    Handicapped: "Jā",
    Active_users: 130,
    Collections: 5297,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Preiļu novada Līču bibliotēka",
@@ -12961,7 +12961,7 @@
    Handicapped: "",
    Active_users: 133,
    Collections: 6322,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Preiļu novada Pelēču pagasta Ārdavas bibliotēka",
@@ -12975,7 +12975,7 @@
    Handicapped: "Jā",
    Active_users: 102,
    Collections: 3499,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Preiļu novada Pelēču pagasta bibliotēka",
@@ -12989,7 +12989,7 @@
    Handicapped: "",
    Active_users: 185,
    Collections: 7055,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Preiļu novada Saunas pagasta Smelteru bibliotēka",
@@ -13003,7 +13003,7 @@
    Handicapped: "Jā",
    Active_users: 151,
    Collections: 5631,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Priekules novada Gramzdas pagasta bibliotēka",
@@ -13017,7 +13017,7 @@
    Handicapped: "Jā",
    Active_users: 177,
    Collections: 15622,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Priekules novada Virgas pagasta biblioteka Paplakā [ārējās apkalpošanas punkts]",
@@ -13031,7 +13031,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 0,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Priekules novada Virgas pagasta Purmsātu bibliotēka",
@@ -13045,7 +13045,7 @@
    Handicapped: "",
    Active_users: 169,
    Collections: 7103,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Priekules pilsētas bibliotēka",
@@ -13059,7 +13059,7 @@
    Handicapped: "",
    Active_users: 547,
    Collections: 13948,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Priekules vidusskolas bibliotēka",
@@ -13073,7 +13073,7 @@
    Handicapped: "",
    Active_users: 324,
    Collections: 18683,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Priekuļu novada Liepas pagasta bibliotēka",
@@ -13087,7 +13087,7 @@
    Handicapped: "",
    Active_users: 271,
    Collections: 15019,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Priekuļu novada Mārsnēnu pagasta bibliotēka",
@@ -13101,7 +13101,7 @@
    Handicapped: "",
    Active_users: 236,
    Collections: 6475,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Priekuļu novada Priekuļu pagasta bibliotēka",
@@ -13115,7 +13115,7 @@
    Handicapped: "Jā",
    Active_users: 635,
    Collections: 11738,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Priekuļu novada Veselavas pagasta bibliotēka",
@@ -13129,7 +13129,7 @@
    Handicapped: "Jā",
    Active_users: 164,
    Collections: 5449,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Priekuļu tehnikuma biblioteka",
@@ -13143,7 +13143,7 @@
    Handicapped: "",
    Active_users: 1077,
    Collections: 23635,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Priekuļu vidusskolas bibliotēka",
@@ -13157,7 +13157,7 @@
    Handicapped: "Jā",
    Active_users: 518,
    Collections: 11051,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Priežmalas pamatskolas bibliotēka",
@@ -13171,7 +13171,7 @@
    Handicapped: "",
    Active_users: 61,
    Collections: 440,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Profesionālās izglītības  kompetences centra \"Rīgas Tehniskā koledža\" bibliotēka",
@@ -13185,7 +13185,7 @@
    Handicapped: "",
    Active_users: 1018,
    Collections: 18837,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Profesionālās izglītības kompetences centra \"Rīgas Valsts tehnikums\" bibliotēka",
@@ -13199,7 +13199,7 @@
    Handicapped: "",
    Active_users: 1939,
    Collections: 65933,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pumpuru vidusskolas bibliotēka",
@@ -13213,7 +13213,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 23352,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pūņu pamatskolas bibliotēka",
@@ -13227,7 +13227,7 @@
    Handicapped: "",
    Active_users: 96,
    Collections: 4832,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Pureņu pagasta bibliotēka",
@@ -13241,7 +13241,7 @@
    Handicapped: "",
    Active_users: 99,
    Collections: 5216,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pūres pagasta bibliotēka- informācijas un novada izpētes centrs",
@@ -13255,7 +13255,7 @@
    Handicapped: "Jā",
    Active_users: 501,
    Collections: 8424,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Pūres pamatskolas bibliotēka",
@@ -13269,7 +13269,7 @@
    Handicapped: "",
    Active_users: 182,
    Collections: 7167,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Pušas pagasta bibliotēka",
@@ -13283,7 +13283,7 @@
    Handicapped: "",
    Active_users: 136,
    Collections: 6440,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Puškina liceja bibliotēka ",
@@ -13297,7 +13297,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 33546,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Pušmucovas pamatskolas bibliotēka",
@@ -13311,7 +13311,7 @@
    Handicapped: "Jā",
    Active_users: 85,
    Collections: 8845,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Puzes bibliotēka",
@@ -13325,7 +13325,7 @@
    Handicapped: "",
    Active_users: 294,
    Collections: 8700,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Puzes pamatskolas bibliotēka",
@@ -13339,7 +13339,7 @@
    Handicapped: "",
    Active_users: 3,
    Collections: 2961,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Raiskuma internātpamatskolas - rehabilitācijas centra bibliotēka",
@@ -13353,7 +13353,7 @@
    Handicapped: "Jā",
    Active_users: 181,
    Collections: 18632,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rāmuļu pamatskolas bibliotēka",
@@ -13367,7 +13367,7 @@
    Handicapped: "",
    Active_users: 91,
    Collections: 3329,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Randenes pamatskolas bibliotēka",
@@ -13381,7 +13381,7 @@
    Handicapped: "",
    Active_users: 62,
    Collections: 1812,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rankas pagasta bibliotēka",
@@ -13395,7 +13395,7 @@
    Handicapped: "Jā",
    Active_users: 235,
    Collections: 7108,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rankas pagasta Gaujasrēveļu bibliotēka",
@@ -13409,7 +13409,7 @@
    Handicapped: "",
    Active_users: 188,
    Collections: 4965,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rankas pamatskolas bibliotēka",
@@ -13423,7 +13423,7 @@
    Handicapped: "",
    Active_users: 97,
    Collections: 2402,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Raņķu pagasta bibliotēka",
@@ -13437,7 +13437,7 @@
    Handicapped: "Jā",
    Active_users: 113,
    Collections: 5050,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Raudas  internātpamatskolas bibliotēka ",
@@ -13451,7 +13451,7 @@
    Handicapped: "Jā",
    Active_users: 60,
    Collections: 4130,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Raunas novada Raunas pagasta bibliotēka",
@@ -13465,7 +13465,7 @@
    Handicapped: "Jā",
    Active_users: 744,
    Collections: 6295,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Raunas pagasta Rozes bibliotēka",
@@ -13479,7 +13479,7 @@
    Handicapped: "",
    Active_users: 76,
    Collections: 6196,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Raunas vidusskolas bibliotēka",
@@ -13493,7 +13493,7 @@
    Handicapped: "",
    Active_users: 183,
    Collections: 10770,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rekavas bibliotēka",
@@ -13507,7 +13507,7 @@
    Handicapped: "",
    Active_users: 262,
    Collections: 6841,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rekavas vidusskolas bibliotēka",
@@ -13521,7 +13521,7 @@
    Handicapped: "",
    Active_users: 125,
    Collections: 2684,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Remtes pamatskolas bibliotēka",
@@ -13535,7 +13535,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 115,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rencēnu pamatskolas bibliotēka",
@@ -13549,7 +13549,7 @@
    Handicapped: "",
    Active_users: 87,
    Collections: 7695,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rendas pagasta bibliotēka",
@@ -13563,7 +13563,7 @@
    Handicapped: "Jā",
    Active_users: 362,
    Collections: 8520,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes 2. vidusskolas bibliotēka",
@@ -13577,7 +13577,7 @@
    Handicapped: "",
    Active_users: 592,
    Collections: 36831,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes 3. vidusskolas bibliotēka",
@@ -13591,7 +13591,7 @@
    Handicapped: "",
    Active_users: 413,
    Collections: 11936,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes 4. vidusskolas bibliotēka",
@@ -13605,7 +13605,7 @@
    Handicapped: "",
    Active_users: 372,
    Collections: 31818,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rēzeknes 5. vidusskolas bibliotēka",
@@ -13619,7 +13619,7 @@
    Handicapped: "",
    Active_users: 524,
    Collections: 40004,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes 6. vidusskolas bibliotēka",
@@ -13633,7 +13633,7 @@
    Handicapped: "Jā",
    Active_users: 649,
    Collections: 12478,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes internātpamatskola - attīstīstības centra bibliotēka",
@@ -13647,7 +13647,7 @@
    Handicapped: "Jā",
    Active_users: 202,
    Collections: 12130,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rēzeknes Mākslas un dizaina vidusskolas bibliotēka",
@@ -13661,7 +13661,7 @@
    Handicapped: "Jā",
    Active_users: 191,
    Collections: 8358,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes pilsētas 2. bibliotēka - Rēzeknes pilsētas Centrālās bibliotēkas filiāle",
@@ -13675,7 +13675,7 @@
    Handicapped: "",
    Active_users: 1813,
    Collections: 21365,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes pilsētas bērnu bibliotēka - Rēzeknes pilsētas Centrālās bibliotēkas filiāle",
@@ -13689,7 +13689,7 @@
    Handicapped: "Jā",
    Active_users: 3083,
    Collections: 20858,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes pilsētas Centrālā bibliotēka",
@@ -13703,7 +13703,7 @@
    Handicapped: "Jā",
    Active_users: 3716,
    Collections: 53269,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes sākumskolas bibliotēka",
@@ -13717,7 +13717,7 @@
    Handicapped: "",
    Active_users: 538,
    Collections: 10572,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes tehnikuma bibliotēka",
@@ -13731,7 +13731,7 @@
    Handicapped: "Jā",
    Active_users: 801,
    Collections: 24756,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes tehnikuma bibliotēka, mācību vieta Viļāni",
@@ -13745,7 +13745,7 @@
    Handicapped: "",
    Active_users: 75,
    Collections: 5879,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes tehnikuma bibliotēka, mācību vieta Zilupe",
@@ -13759,7 +13759,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 17751,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rēzeknes Tehnoloģiju akadēmijas bibliotēka",
@@ -13773,7 +13773,7 @@
    Handicapped: "Jā",
    Active_users: 1108,
    Collections: 54927,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rēzeknes Valsts 1.ģimnāzija",
@@ -13787,7 +13787,7 @@
    Handicapped: "Jā",
    Active_users: 455,
    Collections: 40629,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rēzeknes valsts poļu ģimnāzijas bibliotēka",
@@ -13801,7 +13801,7 @@
    Handicapped: "",
    Active_users: 398,
    Collections: 20464,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rēznas pamatskolas bibliotēka",
@@ -13815,7 +13815,7 @@
    Handicapped: "",
    Active_users: 103,
    Collections: 16363,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Riebiņu novada centrālā bibliotēka",
@@ -13829,7 +13829,7 @@
    Handicapped: "Jā",
    Active_users: 701,
    Collections: 16841,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Riebiņu novada Gailīšu bibliotēka",
@@ -13843,7 +13843,7 @@
    Handicapped: "",
    Active_users: 77,
    Collections: 4277,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Riebiņu novada Galēnu bibliotēka",
@@ -13857,7 +13857,7 @@
    Handicapped: "",
    Active_users: 166,
    Collections: 4546,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Riebiņu novada Kastīres bibliotēka",
@@ -13871,7 +13871,7 @@
    Handicapped: "Jā",
    Active_users: 244,
    Collections: 6415,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Riebiņu novada Kotļerovas bibliotēka",
@@ -13885,7 +13885,7 @@
    Handicapped: "",
    Active_users: 78,
    Collections: 3223,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Riebiņu novada Pieniņu bibliotēka",
@@ -13899,7 +13899,7 @@
    Handicapped: "",
    Active_users: 74,
    Collections: 4268,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Riebiņu novada Rušonas bibliotēka",
@@ -13913,7 +13913,7 @@
    Handicapped: "",
    Active_users: 160,
    Collections: 6625,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Riebiņu novada Silajāņu bibliotēka",
@@ -13927,7 +13927,7 @@
    Handicapped: "Jā",
    Active_users: 83,
    Collections: 5185,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Riebiņu novada Sīļukalna bibliotēka",
@@ -13941,7 +13941,7 @@
    Handicapped: "Jā",
    Active_users: 102,
    Collections: 3956,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Riebiņu novada Stabulnieku bibliotēka",
@@ -13955,7 +13955,7 @@
    Handicapped: "",
    Active_users: 319,
    Collections: 7837,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Riebiņu vidusskolas bibliotēka",
@@ -13969,7 +13969,7 @@
    Handicapped: "",
    Active_users: 274,
    Collections: 9738,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 1. medicīnas koledžas bibliotēka",
@@ -13983,7 +13983,7 @@
    Handicapped: "",
    Active_users: 1130,
    Collections: 18815,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 1.speciālas internātpamatskolas-attīstības centra bibliotēka",
@@ -13997,7 +13997,7 @@
    Handicapped: "Jā",
    Active_users: 220,
    Collections: 8667,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 10.vidusskolas bibliotēka",
@@ -14011,7 +14011,7 @@
    Handicapped: "",
    Active_users: 846,
    Collections: 18646,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 13. vidusskolas bibliotēka",
@@ -14025,7 +14025,7 @@
    Handicapped: "",
    Active_users: 766,
    Collections: 15379,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 14. vakara (maiņu) vidusskolas bibliotēka",
@@ -14039,7 +14039,7 @@
    Handicapped: "",
    Active_users: 180,
    Collections: 21287,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 15. vidusskolas bibliotēka",
@@ -14053,7 +14053,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 29693,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 18. vakara (maiņu) vidusskolas bibliotēka",
@@ -14067,7 +14067,7 @@
    Handicapped: "Jā",
    Active_users: 370,
    Collections: 29692,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 19. vidusskolas bibliotēka",
@@ -14081,7 +14081,7 @@
    Handicapped: "",
    Active_users: 342,
    Collections: 41845,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 2. speciālās internātpamatskolas bibliotēka",
@@ -14095,7 +14095,7 @@
    Handicapped: "",
    Active_users: 153,
    Collections: 11451,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 21. vidusskolas bibliotēka",
@@ -14109,7 +14109,7 @@
    Handicapped: "",
    Active_users: 572,
    Collections: 18234,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 22. vidusskolas bibliotēka",
@@ -14123,7 +14123,7 @@
    Handicapped: "",
    Active_users: 699,
    Collections: 10219,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 25. vidusskolas bibliotēka",
@@ -14137,7 +14137,7 @@
    Handicapped: "",
    Active_users: 887,
    Collections: 31209,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 28. vidusskolas bibliotēka",
@@ -14151,7 +14151,7 @@
    Handicapped: "",
    Active_users: 330,
    Collections: 30005,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 29. vidusskolas bibliotēka ",
@@ -14165,7 +14165,7 @@
    Handicapped: "",
    Active_users: 270,
    Collections: 6383,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 3. arodskolas bibliotēka",
@@ -14179,7 +14179,7 @@
    Handicapped: "",
    Active_users: 256,
    Collections: 7597,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 3. speciālās pamatskolas bibliotēka",
@@ -14193,7 +14193,7 @@
    Handicapped: "",
    Active_users: 176,
    Collections: 8727,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 31. vidusskolas bibliotēka ",
@@ -14207,7 +14207,7 @@
    Handicapped: "",
    Active_users: 579,
    Collections: 22616,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 33. vidusskolas bibliotēka",
@@ -14221,7 +14221,7 @@
    Handicapped: "",
    Active_users: 860,
    Collections: 14175,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 34. vidusskolas bibliotēka",
@@ -14235,7 +14235,7 @@
    Handicapped: "",
    Active_users: 1239,
    Collections: 22802,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 37. vidusskolas bibliotēka",
@@ -14249,7 +14249,7 @@
    Handicapped: "",
    Active_users: 212,
    Collections: 5125,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 4. speciālās internātpamatskolas bibliotēka",
@@ -14263,7 +14263,7 @@
    Handicapped: "",
    Active_users: 253,
    Collections: 9440,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 40. vidusskolas bibliotēka",
@@ -14277,7 +14277,7 @@
    Handicapped: "Jā",
    Active_users: 1023,
    Collections: 40786,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 41. vidusskolas bibliotēka",
@@ -14291,7 +14291,7 @@
    Handicapped: "",
    Active_users: 704,
    Collections: 49818,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 45. vidusskolas bibliotēka",
@@ -14305,7 +14305,7 @@
    Handicapped: "Jā",
    Active_users: 570,
    Collections: 51672,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 46. vidusskolas bibliotēka",
@@ -14319,7 +14319,7 @@
    Handicapped: "",
    Active_users: 490,
    Collections: 14828,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 47. vidusskolas bibliotēka",
@@ -14333,7 +14333,7 @@
    Handicapped: "",
    Active_users: 545,
    Collections: 56088,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 49. vidusskolas bibliotēka",
@@ -14347,7 +14347,7 @@
    Handicapped: "",
    Active_users: 791,
    Collections: 38098,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 5. internātpamatskolas - attīstības centra bibliotēka",
@@ -14361,7 +14361,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 2461,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 51. vidusskolas bibliotēka",
@@ -14375,7 +14375,7 @@
    Handicapped: "",
    Active_users: 669,
    Collections: 26861,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 53. vidusskolas bibliotēka",
@@ -14389,7 +14389,7 @@
    Handicapped: "",
    Active_users: 519,
    Collections: 20031,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 54. vidusskolas bibliotēka",
@@ -14403,7 +14403,7 @@
    Handicapped: "Jā",
    Active_users: 460,
    Collections: 17511,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 6. vidusskolas bibliotēka",
@@ -14417,7 +14417,7 @@
    Handicapped: "",
    Active_users: 1118,
    Collections: 54107,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 60. vidusskolas bibliotēka",
@@ -14431,7 +14431,7 @@
    Handicapped: "",
    Active_users: 592,
    Collections: 15605,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 61. vidusskolas bibliotēka",
@@ -14445,7 +14445,7 @@
    Handicapped: "",
    Active_users: 341,
    Collections: 14644,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 63. vidusskolas bibliotēka",
@@ -14459,7 +14459,7 @@
    Handicapped: "",
    Active_users: 747,
    Collections: 46515,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 64. vidusskolas bibliotēka",
@@ -14473,7 +14473,7 @@
    Handicapped: "Jā",
    Active_users: 1238,
    Collections: 80521,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 65. vidusskolas bibliotēka",
@@ -14487,7 +14487,7 @@
    Handicapped: "",
    Active_users: 514,
    Collections: 13451,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 66. speciālās vidusskolas bibliotēka",
@@ -14501,7 +14501,7 @@
    Handicapped: "Jā",
    Active_users: 355,
    Collections: 17131,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 69. vidusskolas bibliotēka",
@@ -14515,7 +14515,7 @@
    Handicapped: "",
    Active_users: 365,
    Collections: 34551,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 7. pamatskolas bibliotēka",
@@ -14529,7 +14529,7 @@
    Handicapped: "",
    Active_users: 102,
    Collections: 7808,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 71. vidusskolas bibliotēka",
@@ -14543,7 +14543,7 @@
    Handicapped: "",
    Active_users: 507,
    Collections: 46686,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 71. vidusskolas sākumskolas un Bērnu invalīdu izglītības un sociālās rehabilitācijas centra bibliotēka [reorganizēta 04.02.2011., Rīgas 71.vidusskolas struktūrvienība]",
@@ -14557,7 +14557,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 0,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 72. vidusskolas bibliotēka",
@@ -14571,7 +14571,7 @@
    Handicapped: "",
    Active_users: 920,
    Collections: 36497,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 74. vidusskolas bibliotēka",
@@ -14585,7 +14585,7 @@
    Handicapped: "",
    Active_users: 632,
    Collections: 18189,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 75. vidusskolas bibliotēka",
@@ -14599,7 +14599,7 @@
    Handicapped: "",
    Active_users: 609,
    Collections: 59999,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 80. vidusskolas bibliotēka",
@@ -14613,7 +14613,7 @@
    Handicapped: "",
    Active_users: 821,
    Collections: 19216,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 84.vidusskolas bibliotēka",
@@ -14627,7 +14627,7 @@
    Handicapped: "Jā",
    Active_users: 1109,
    Collections: 54162,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 85. vidusskolas bibliotēka",
@@ -14641,7 +14641,7 @@
    Handicapped: "Jā",
    Active_users: 493,
    Collections: 18143,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 86. vidusskolas bibliotēka",
@@ -14655,7 +14655,7 @@
    Handicapped: "",
    Active_users: 728,
    Collections: 24346,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 88. vidusskolas bibliotēka ",
@@ -14669,7 +14669,7 @@
    Handicapped: "Jā",
    Active_users: 762,
    Collections: 36865,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 89. vidusskolas bibliotēka",
@@ -14683,7 +14683,7 @@
    Handicapped: "",
    Active_users: 705,
    Collections: 16728,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 9. vakara (maiņu) vidusskolas bibliotēka",
@@ -14697,7 +14697,7 @@
    Handicapped: "",
    Active_users: 423,
    Collections: 15168,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 92. vidusskolas bibliotēka",
@@ -14711,7 +14711,7 @@
    Handicapped: "",
    Active_users: 889,
    Collections: 11267,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 93. vidusskolas bibliotēka",
@@ -14725,7 +14725,7 @@
    Handicapped: "",
    Active_users: 337,
    Collections: 22171,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 94. vidusskolas bibliotēka",
@@ -14739,7 +14739,7 @@
    Handicapped: "",
    Active_users: 680,
    Collections: 14778,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas 95.vidusskolas bibliotēka",
@@ -14753,7 +14753,7 @@
    Handicapped: "",
    Active_users: 1238,
    Collections: 46810,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas 96. vidusskolas bibliotēka",
@@ -14767,7 +14767,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 28455,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Aeronavigācijas institūta bibliotēka",
@@ -14781,7 +14781,7 @@
    Handicapped: "Jā",
    Active_users: 442,
    Collections: 6182,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Angļu ģimnāzijas bibliotēka",
@@ -14795,7 +14795,7 @@
    Handicapped: "",
    Active_users: 1164,
    Collections: 63019,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Anniņmuižas vidusskolas bibliotēka",
@@ -14809,7 +14809,7 @@
    Handicapped: "",
    Active_users: 906,
    Collections: 45252,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Austrumu vidusskolas bibliotēka",
@@ -14823,7 +14823,7 @@
    Handicapped: "",
    Active_users: 620,
    Collections: 33239,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Avotu pamatskolas bibliotēka",
@@ -14837,7 +14837,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 46644,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Celtniecības koledžas bibliotēka",
@@ -14851,7 +14851,7 @@
    Handicapped: "Jā",
    Active_users: 984,
    Collections: 21638,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centra daiļamatniecības pamatskolas bibliotēka",
@@ -14865,7 +14865,7 @@
    Handicapped: "",
    Active_users: 369,
    Collections: 11066,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Centra humanitārās vidusskolas bibliotēka",
@@ -14879,7 +14879,7 @@
    Handicapped: "",
    Active_users: 754,
    Collections: 20399,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Centrālā bibliotēka",
@@ -14893,7 +14893,7 @@
    Handicapped: "Jā",
    Active_users: 15161,
    Collections: 136748,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās  bibliotēkas filiālbibliotēka \"Kurzeme\"",
@@ -14907,7 +14907,7 @@
    Handicapped: "Jā",
    Active_users: 1925,
    Collections: 18953,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Biķernieku filiālbibliotēka",
@@ -14921,7 +14921,7 @@
    Handicapped: "Jā",
    Active_users: 2039,
    Collections: 12880,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Bišumuižas filiālbibliotēka ",
@@ -14935,7 +14935,7 @@
    Handicapped: "Jā",
    Active_users: 1182,
    Collections: 13440,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Bolderājas filiālbibliotēka",
@@ -14949,7 +14949,7 @@
    Handicapped: "",
    Active_users: 1927,
    Collections: 23244,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Čiekurkalna filiālbibliotēka",
@@ -14963,7 +14963,7 @@
    Handicapped: "Jā",
    Active_users: 1619,
    Collections: 17178,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Daugavas filiālbibliotēka",
@@ -14977,7 +14977,7 @@
    Handicapped: "Jā",
    Active_users: 2661,
    Collections: 24845,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas filiālbibliotēka \"Avots\"",
@@ -14991,7 +14991,7 @@
    Handicapped: "Jā",
    Active_users: 1758,
    Collections: 18206,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas filiālbibliotēka \"Pārdaugava\"",
@@ -15005,7 +15005,7 @@
    Handicapped: "Jā",
    Active_users: 4309,
    Collections: 44187,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas filiālbibliotēka \"Pūce\"",
@@ -15019,7 +15019,7 @@
    Handicapped: "",
    Active_users: 1570,
    Collections: 19988,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas filiālbibliotēka \"Rēzna\"",
@@ -15033,7 +15033,7 @@
    Handicapped: "",
    Active_users: 2126,
    Collections: 22896,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas filiālbibliotēka \"Strazds\"",
@@ -15047,7 +15047,7 @@
    Handicapped: "",
    Active_users: 1732,
    Collections: 22838,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas filiālbibliotēka \"Vidzeme\"",
@@ -15061,7 +15061,7 @@
    Handicapped: "Jā",
    Active_users: 5639,
    Collections: 45147,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas filiālbibliotēka \"Zemgale\"",
@@ -15075,7 +15075,7 @@
    Handicapped: "Jā",
    Active_users: 2236,
    Collections: 17018,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Grīziņkalna filiālbibliotēka",
@@ -15089,7 +15089,7 @@
    Handicapped: "Jā",
    Active_users: 2080,
    Collections: 13813,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Iļģuciema filiālbibliotēka",
@@ -15103,7 +15103,7 @@
    Handicapped: "",
    Active_users: 2435,
    Collections: 25164,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Imantas filiālbibliotēka",
@@ -15117,7 +15117,7 @@
    Handicapped: "",
    Active_users: 4373,
    Collections: 49380,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Jaunciema filiālbibliotēka",
@@ -15131,7 +15131,7 @@
    Handicapped: "Jā",
    Active_users: 506,
    Collections: 10782,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Juglas filiālbibliotēka",
@@ -15145,7 +15145,7 @@
    Handicapped: "",
    Active_users: 3076,
    Collections: 23210,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Ķengaraga filiālbibliotēka",
@@ -15159,7 +15159,7 @@
    Handicapped: "Jā",
    Active_users: 2912,
    Collections: 26572,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Mežciema filiālbibliotēka",
@@ -15173,7 +15173,7 @@
    Handicapped: "",
    Active_users: 1261,
    Collections: 9993,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Pļavnieku filiābibliotēka",
@@ -15187,7 +15187,7 @@
    Handicapped: "",
    Active_users: 2610,
    Collections: 28717,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Sarkandaugavas filiālbibliotēka",
@@ -15201,7 +15201,7 @@
    Handicapped: "",
    Active_users: 1981,
    Collections: 29022,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Šampētera filiālbibliotēka",
@@ -15215,7 +15215,7 @@
    Handicapped: "",
    Active_users: 1826,
    Collections: 24541,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Torņakalna filiālbibliotēka",
@@ -15229,7 +15229,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 16173,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Centrālās bibliotēkas Ziemeļblāzmas filiālbibliotēka",
@@ -15243,7 +15243,7 @@
    Handicapped: "Jā",
    Active_users: 2021,
    Collections: 20804,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Daugavgrīvas vidusskolas bibliotēka",
@@ -15257,7 +15257,7 @@
    Handicapped: "",
    Active_users: 558,
    Collections: 19137,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Ezerkrastu pamatskolas bibliotēka",
@@ -15271,7 +15271,7 @@
    Handicapped: "",
    Active_users: 140,
    Collections: 9152,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Franču liceja bibliotēka",
@@ -15285,7 +15285,7 @@
    Handicapped: "",
    Active_users: 1093,
    Collections: 79753,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Hanzas vidusskolas bibliotēka",
@@ -15299,7 +15299,7 @@
    Handicapped: "",
    Active_users: 988,
    Collections: 45015,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Igauņu pamatskolas bibliotēka",
@@ -15313,7 +15313,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 4112,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Imantas vidusskolas bibliotēka",
@@ -15327,7 +15327,7 @@
    Handicapped: "",
    Active_users: 321,
    Collections: 27352,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas internātvidusskolas bērniem ar dzirdes traucējumiem bibliotēka",
@@ -15341,7 +15341,7 @@
    Handicapped: "",
    Active_users: 122,
    Collections: 4020,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Itas Kozakēvičas Poļu vidusskolas bibliotēka",
@@ -15355,7 +15355,7 @@
    Handicapped: "Jā",
    Active_users: 356,
    Collections: 15011,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas J. Poruka vidusskolas bibliotēka",
@@ -15369,7 +15369,7 @@
    Handicapped: "",
    Active_users: 385,
    Collections: 15814,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Juglas vidusskolas bibliotēka",
@@ -15383,7 +15383,7 @@
    Handicapped: "",
    Active_users: 1302,
    Collections: 15440,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Juridiskās augstskolas Juridiskā bibliotēka",
@@ -15397,7 +15397,7 @@
    Handicapped: "Jā",
    Active_users: 740,
    Collections: 15224,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Klasiskās ģimnāzijas bibliotēka",
@@ -15411,7 +15411,7 @@
    Handicapped: "",
    Active_users: 1729,
    Collections: 43775,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Kristīgās vidusskolas bibliotēka",
@@ -15425,7 +15425,7 @@
    Handicapped: "",
    Active_users: 265,
    Collections: 7230,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Kultūru vidusskolas bibliotēka",
@@ -15439,7 +15439,7 @@
    Handicapped: "",
    Active_users: 844,
    Collections: 14698,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Ķengaraga vidusskolas bibliotēka",
@@ -15453,7 +15453,7 @@
    Handicapped: "",
    Active_users: 717,
    Collections: 27284,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Lastādijas internātpamatskolas bibliotēka",
@@ -15467,7 +15467,7 @@
    Handicapped: "",
    Active_users: 231,
    Collections: 29923,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Lietuviešu vidusskolas bibliotēka",
@@ -15481,7 +15481,7 @@
    Handicapped: "",
    Active_users: 429,
    Collections: 13037,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Mākslas un mediju tehnikuma bibliotēka",
@@ -15495,7 +15495,7 @@
    Handicapped: "",
    Active_users: 1034,
    Collections: 14395,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Mūzikas internātvidusskolas bibliotēka",
@@ -15509,7 +15509,7 @@
    Handicapped: "",
    Active_users: 369,
    Collections: 22620,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Natālijas Draudziņas vidusskolas bibliotēka",
@@ -15523,7 +15523,7 @@
    Handicapped: "",
    Active_users: 800,
    Collections: 17474,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Ostvalda vidusskolas bibliotēka",
@@ -15537,7 +15537,7 @@
    Handicapped: "",
    Active_users: 1056,
    Collections: 30769,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Pārdaugavas pamatskolas bibliotēka",
@@ -15551,7 +15551,7 @@
    Handicapped: "",
    Active_users: 520,
    Collections: 34021,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Pļavnieku pamatskolas bibliotēka",
@@ -15565,7 +15565,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 18573,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Purvciema vidusskolas bibliotēka",
@@ -15579,7 +15579,7 @@
    Handicapped: "",
    Active_users: 1384,
    Collections: 60904,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Raiņa 8. vakara (maiņu) vidusskolas bibliotēka",
@@ -15593,7 +15593,7 @@
    Handicapped: "",
    Active_users: 160,
    Collections: 54402,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Rīnūžu vidusskolas bibliotēka",
@@ -15607,7 +15607,7 @@
    Handicapped: "",
    Active_users: 800,
    Collections: 34738,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas sākumskolas \"Valodiņa\" bibliotēka",
@@ -15621,7 +15621,7 @@
    Handicapped: "",
    Active_users: 202,
    Collections: 7627,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Sanatorijas internātpamatskolas bibliotēka",
@@ -15635,7 +15635,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 8306,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Sergeja Žoltoka vidusskolas bibliotēka",
@@ -15649,7 +15649,7 @@
    Handicapped: "",
    Active_users: 421,
    Collections: 27149,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas sociālās aprūpes centra \"Gaiļezers\" bibliotēka",
@@ -15663,7 +15663,7 @@
    Handicapped: "Jā",
    Active_users: 1311,
    Collections: 6060,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas speciālās internātpamatskolas bibliotēka",
@@ -15677,7 +15677,7 @@
    Handicapped: "",
    Active_users: 400,
    Collections: 5027,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Stila un modes tehnikuma bibliotēka",
@@ -15691,7 +15691,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 19328,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Stradiņa universitātes bibliotēka",
@@ -15705,7 +15705,7 @@
    Handicapped: "Jā",
    Active_users: 13571,
    Collections: 583730,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Tehniskās universitātes Zinātniskā bibliotēka",
@@ -15719,7 +15719,7 @@
    Handicapped: "Jā",
    Active_users: 14194,
    Collections: 1480901,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Teikas vidusskolas bibliotēka",
@@ -15733,7 +15733,7 @@
    Handicapped: "",
    Active_users: 962,
    Collections: 33011,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Tirdzniecības profesionālās vidusskolas bibliotēka",
@@ -15747,7 +15747,7 @@
    Handicapped: "",
    Active_users: 496,
    Collections: 21957,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Ukraiņu vidusskolas bibliotēka",
@@ -15761,7 +15761,7 @@
    Handicapped: "",
    Active_users: 345,
    Collections: 18756,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas un Visas Latvijas Metropolīta Aleksandra (Kudrjašova) Grāveru pamatskolas bibliotēka",
@@ -15775,7 +15775,7 @@
    Handicapped: "",
    Active_users: 45,
    Collections: 947,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas V. Zālīša sākumskolas bibliotēka",
@@ -15789,7 +15789,7 @@
    Handicapped: "",
    Active_users: 647,
    Collections: 17663,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas vakara ģimnāzijas bibliotēka",
@@ -15803,7 +15803,7 @@
    Handicapped: "",
    Active_users: 844,
    Collections: 55617,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Valda Avotiņa pamatskolas- attīstības centra bibliotēka                                                ",
@@ -15817,7 +15817,7 @@
    Handicapped: "",
    Active_users: 320,
    Collections: 21721,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Valdorfskolas bibliotēka",
@@ -15831,7 +15831,7 @@
    Handicapped: "",
    Active_users: 412,
    Collections: 12893,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Valsts 1. ģimnāzijas bibliotēka",
@@ -15845,7 +15845,7 @@
    Handicapped: "",
    Active_users: 1174,
    Collections: 33573,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Valsts 2. ģimnāzijas bibliotēka",
@@ -15859,7 +15859,7 @@
    Handicapped: "Jā",
    Active_users: 895,
    Collections: 40061,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Valsts 3. ģimnāzijas bibliotēka",
@@ -15873,7 +15873,7 @@
    Handicapped: "Jā",
    Active_users: 925,
    Collections: 45328,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas Valsts vācu ģimnāzijas bibliotēka",
@@ -15887,7 +15887,7 @@
    Handicapped: "",
    Active_users: 787,
    Collections: 31273,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rīgas vēstures un kuģniecības muzeja zinātniskā bibliotēka",
@@ -15901,7 +15901,7 @@
    Handicapped: "",
    Active_users: 60,
    Collections: 26582,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Ziepniekkalna sākumskolas bibliotēka",
@@ -15915,7 +15915,7 @@
    Handicapped: "",
    Active_users: 243,
    Collections: 10448,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rīgas Zolitūdes ģimnāzijas bibliotēka",
@@ -15929,7 +15929,7 @@
    Handicapped: "",
    Active_users: 1639,
    Collections: 40144,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rikavas pagasta bibliotēka",
@@ -15943,7 +15943,7 @@
    Handicapped: "Jā",
    Active_users: 173,
    Collections: 4402,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rites pamatskolas bibliotēka",
@@ -15957,7 +15957,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 1816,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Robežnieku pagasta bibliotēka",
@@ -15971,7 +15971,7 @@
    Handicapped: "",
    Active_users: 150,
    Collections: 4725,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Robežnieku pagasta Joņinu bibliotēka",
@@ -15985,7 +15985,7 @@
    Handicapped: "",
    Active_users: 95,
    Collections: 2892,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Robežnieku pamatskolas bibliotēka",
@@ -15999,7 +15999,7 @@
    Handicapped: "",
    Active_users: 90,
    Collections: 6900,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rojas novada bibliotēka",
@@ -16013,7 +16013,7 @@
    Handicapped: "Jā",
    Active_users: 806,
    Collections: 17758,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rojas novada Kaltenes bibliotēka",
@@ -16027,7 +16027,7 @@
    Handicapped: "Jā",
    Active_users: 137,
    Collections: 8598,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rojas vidusskolas bibliotēka",
@@ -16041,7 +16041,7 @@
    Handicapped: "Jā",
    Active_users: 359,
    Collections: 13221,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ropažu novada bibliotēka",
@@ -16055,7 +16055,7 @@
    Handicapped: "",
    Active_users: 1490,
    Collections: 17268,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ropažu novada bibliotēkas Zaķumuižas filiālbibliotēka",
@@ -16069,7 +16069,7 @@
    Handicapped: "Jā",
    Active_users: 552,
    Collections: 6252,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ropažu vidusskolas informatīvi metodiskais centrs - bibliotēka                                                                                                                   ",
@@ -16083,7 +16083,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 11284,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rožupes pamatskolas bibliotēka",
@@ -16097,7 +16097,7 @@
    Handicapped: "Jā",
    Active_users: 104,
    Collections: 3055,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "RTU Rīgas Biznesa skolas bibliotēka",
@@ -16111,7 +16111,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 5816,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rubas pagasta bibliotēka",
@@ -16125,7 +16125,7 @@
    Handicapped: "",
    Active_users: 124,
    Collections: 9281,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rubenes bibliotēka",
@@ -16139,7 +16139,7 @@
    Handicapped: "Jā",
    Active_users: 360,
    Collections: 6415,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rubeņu pamatskolas bibliotēka",
@@ -16153,7 +16153,7 @@
    Handicapped: "",
    Active_users: 68,
    Collections: 6593,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rucavas pagasta bibliotēka",
@@ -16167,7 +16167,7 @@
    Handicapped: "",
    Active_users: 340,
    Collections: 15959,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rucavas pamatskolas bibliotēka",
@@ -16181,7 +16181,7 @@
    Handicapped: "",
    Active_users: 85,
    Collections: 4012,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rudbāržu pagasta bibliotēka",
@@ -16195,7 +16195,7 @@
    Handicapped: "",
    Active_users: 266,
    Collections: 6760,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rudes pamatskolas  bibliotēka",
@@ -16209,7 +16209,7 @@
    Handicapped: "",
    Active_users: 49,
    Collections: 3282,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rudzātu speciālās internātpamatskolas bibliotēka",
@@ -16223,7 +16223,7 @@
    Handicapped: "Jā",
    Active_users: 114,
    Collections: 3646,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rudzātu vidusskolas bibliotēka",
@@ -16237,7 +16237,7 @@
    Handicapped: "",
    Active_users: 153,
    Collections: 8137,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rugāju  bibliotēka",
@@ -16251,7 +16251,7 @@
    Handicapped: "",
    Active_users: 263,
    Collections: 7637,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rugāju novada Eglaines pamatskolas bibliotēka",
@@ -16265,7 +16265,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 13705,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rugāju novada vidusskolas bibliotēka",
@@ -16279,7 +16279,7 @@
    Handicapped: "Jā",
    Active_users: 200,
    Collections: 17648,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rūjienas novada Ipiķu pagasta bibliotēka",
@@ -16293,7 +16293,7 @@
    Handicapped: "Jā",
    Active_users: 74,
    Collections: 4400,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rūjienas novada Jeru pagasta bibliotēka",
@@ -16307,7 +16307,7 @@
    Handicapped: "",
    Active_users: 104,
    Collections: 3941,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rūjienas novada Lodes pagasta bibliotēka",
@@ -16321,7 +16321,7 @@
    Handicapped: "Jā",
    Active_users: 64,
    Collections: 3665,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rūjienas novada Vilpulkas pagasta bibliotēka",
@@ -16335,7 +16335,7 @@
    Handicapped: "",
    Active_users: 83,
    Collections: 3394,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rūjienas pilsētas bibliotēka",
@@ -16349,7 +16349,7 @@
    Handicapped: "Jā",
    Active_users: 909,
    Collections: 17190,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rūjienas vidusskolas bibliotēka",
@@ -16363,7 +16363,7 @@
    Handicapped: "Jā",
    Active_users: 525,
    Collections: 28152,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Rumbas pagasta bibliotēka",
@@ -16377,7 +16377,7 @@
    Handicapped: "Jā",
    Active_users: 305,
    Collections: 8145,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rundāles novada Pilsrundāles bibliotēka ",
@@ -16391,7 +16391,7 @@
    Handicapped: "",
    Active_users: 326,
    Collections: 11776,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rundāles novada Vecrundāles bibliotēka",
@@ -16405,7 +16405,7 @@
    Handicapped: "Jā",
    Active_users: 45,
    Collections: 4551,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rundēnu pagasta bibliotēka",
@@ -16419,7 +16419,7 @@
    Handicapped: "",
    Active_users: 138,
    Collections: 4056,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Rušonas pamatskolas bibliotēka ",
@@ -16433,7 +16433,7 @@
    Handicapped: "Jā",
    Active_users: 81,
    Collections: 3816,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sabiles pamatskolas bibliotēka",
@@ -16447,7 +16447,7 @@
    Handicapped: "",
    Active_users: 145,
    Collections: 11557,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sakstagala Jāņa Klīdzēja pamatskolas bibliotēka",
@@ -16461,7 +16461,7 @@
    Handicapped: "",
    Active_users: 62,
    Collections: 4294,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Sakstagala pagasta  bibliotēka",
@@ -16475,7 +16475,7 @@
    Handicapped: "",
    Active_users: 160,
    Collections: 7625,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sākumskolas \"Ābelīte\" bibliotēka",
@@ -16489,7 +16489,7 @@
    Handicapped: "",
    Active_users: 135,
    Collections: 3100,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Sākumskolas \"Taurenītis\" bibliotēka",
@@ -16503,7 +16503,7 @@
    Handicapped: "",
    Active_users: 174,
    Collections: 5558,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Salacgrīvas novada bibliotēka",
@@ -16517,7 +16517,7 @@
    Handicapped: "Jā",
    Active_users: 1643,
    Collections: 20453,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salacgrīvas novada bibliotēkas filiālbibliotēka Ainažu bibliotēka",
@@ -16531,7 +16531,7 @@
    Handicapped: "Jā",
    Active_users: 480,
    Collections: 10340,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salacgrīvas novada bibliotēkas filiālbibliotēka Svētciema bibliotēka",
@@ -16545,7 +16545,7 @@
    Handicapped: "",
    Active_users: 237,
    Collections: 7029,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salacgrīvas novada bibliotēkas filiālbibliotēka Tūjas bibliotēka",
@@ -16559,7 +16559,7 @@
    Handicapped: "",
    Active_users: 233,
    Collections: 6675,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salacgrīvas novada bibliotēkas Korģenes bibliotēka",
@@ -16573,7 +16573,7 @@
    Handicapped: "",
    Active_users: 154,
    Collections: 5804,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salacgrīvas novada Liepupes bibliotēka",
@@ -16587,7 +16587,7 @@
    Handicapped: "",
    Active_users: 204,
    Collections: 11423,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salacgrīvas vidusskolas bibliotēka",
@@ -16601,7 +16601,7 @@
    Handicapped: "",
    Active_users: 536,
    Collections: 26065,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Salas bibliotēka",
@@ -16615,7 +16615,7 @@
    Handicapped: "Jā",
    Active_users: 550,
    Collections: 10210,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salas pamatskolas bibliotēka",
@@ -16629,7 +16629,7 @@
    Handicapped: "",
    Active_users: 70,
    Collections: 3827,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salas vidusskolas bibliotēka",
@@ -16643,7 +16643,7 @@
    Handicapped: "Jā",
    Active_users: 238,
    Collections: 18463,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salaspils 1. vidusskolas bibliotēka",
@@ -16657,7 +16657,7 @@
    Handicapped: "Jā",
    Active_users: 1054,
    Collections: 24006,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salaspils 2. vidusskolas bibliotēka",
@@ -16671,7 +16671,7 @@
    Handicapped: "",
    Active_users: 979,
    Collections: 34029,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Salaspils novada bibliotēka",
@@ -16685,7 +16685,7 @@
    Handicapped: "Jā",
    Active_users: 3077,
    Collections: 64615,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salaspils novada bibliotēkas Dienvidu filiālbibliotēka",
@@ -16699,7 +16699,7 @@
    Handicapped: "",
    Active_users: 412,
    Collections: 9932,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salaspils novada bibliotēkas Saulkalnes filiālbibliotēka",
@@ -16713,7 +16713,7 @@
    Handicapped: "",
    Active_users: 305,
    Collections: 8834,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Saldus novada pašvaldības iestāde Saldus pilsētas bibliotēka",
@@ -16727,7 +16727,7 @@
    Handicapped: "Jā",
    Active_users: 3898,
    Collections: 79053,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Saldus novada pašvaldības Kursīšu pamatskolas bibliotēka",
@@ -16741,7 +16741,7 @@
    Handicapped: "Jā",
    Active_users: 72,
    Collections: 6616,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Saldus novada pašvaldības Rubas pamatskolas bibliotēka",
@@ -16755,7 +16755,7 @@
    Handicapped: "",
    Active_users: 84,
    Collections: 6640,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Saldus novada Rubas pagasta Līkupēnu bibliotēka",
@@ -16769,7 +16769,7 @@
    Handicapped: "",
    Active_users: 86,
    Collections: 7205,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Saldus novada Zaņas pagasta bibliotēka",
@@ -16783,7 +16783,7 @@
    Handicapped: "",
    Active_users: 174,
    Collections: 3892,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Saldus novada Zirņu pagasta Butnāru bibliotēka",
@@ -16797,7 +16797,7 @@
    Handicapped: "Jā",
    Active_users: 93,
    Collections: 4832,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Saldus pagasta bibliotēka",
@@ -16811,7 +16811,7 @@
    Handicapped: "",
    Active_users: 428,
    Collections: 12886,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Saldus pamatskolas bibliotēka",
@@ -16825,7 +16825,7 @@
    Handicapped: "",
    Active_users: 320,
    Collections: 14187,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Saldus vidusskolas bibliotēka",
@@ -16839,7 +16839,7 @@
    Handicapped: "",
    Active_users: 706,
    Collections: 62723,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salgales pagasta Garozas bibliotēka",
@@ -16853,7 +16853,7 @@
    Handicapped: "",
    Active_users: 225,
    Collections: 5350,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salgales pamatskolas bibliotēka ",
@@ -16867,7 +16867,7 @@
    Handicapped: "",
    Active_users: 110,
    Collections: 3293,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Salienas pagasta bibliotēka",
@@ -16881,7 +16881,7 @@
    Handicapped: "",
    Active_users: 209,
    Collections: 4162,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salienas vidusskolas bibliotēka",
@@ -16895,7 +16895,7 @@
    Handicapped: "",
    Active_users: 136,
    Collections: 10838,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Salnavas pagasta bibliotēka",
@@ -16909,7 +16909,7 @@
    Handicapped: "",
    Active_users: 207,
    Collections: 6566,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Salnavas pamatskolas bibliotēka",
@@ -16923,7 +16923,7 @@
    Handicapped: "Jā",
    Active_users: 60,
    Collections: 3274,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sarkaņu pagasta bibliotēka",
@@ -16937,7 +16937,7 @@
    Handicapped: "",
    Active_users: 163,
    Collections: 4418,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sarkaņu pagasta Biksēres bibliotēka",
@@ -16951,7 +16951,7 @@
    Handicapped: "Jā",
    Active_users: 226,
    Collections: 5088,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Saulkrastu novada bibliotēka",
@@ -16965,7 +16965,7 @@
    Handicapped: "",
    Active_users: 1445,
    Collections: 17490,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Saulkrastu vidusskolas bibliotēka",
@@ -16979,7 +16979,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 11904,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Saunas pagasta bibliotēka",
@@ -16993,7 +16993,7 @@
    Handicapped: "",
    Active_users: 149,
    Collections: 5988,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Seces pagasta bibliotēka",
@@ -17007,7 +17007,7 @@
    Handicapped: "",
    Active_users: 225,
    Collections: 4927,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Seces pamatskolas bibliotēka",
@@ -17021,7 +17021,7 @@
    Handicapped: "",
    Active_users: 118,
    Collections: 4305,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sējas novada \"Ainavas\" bibliotēka",
@@ -17035,7 +17035,7 @@
    Handicapped: "",
    Active_users: 67,
    Collections: 4368,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sējas novada bibliotēka",
@@ -17049,7 +17049,7 @@
    Handicapped: "",
    Active_users: 325,
    Collections: 13577,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sējas novada Pabažu bibliotēka",
@@ -17063,7 +17063,7 @@
    Handicapped: "Jā",
    Active_users: 200,
    Collections: 5195,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sējas pamatskolas bibliotēka",
@@ -17077,7 +17077,7 @@
    Handicapped: "Jā",
    Active_users: 130,
    Collections: 15284,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sēlpils 1. bibliotēka",
@@ -17091,7 +17091,7 @@
    Handicapped: "",
    Active_users: 211,
    Collections: 6222,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sēlpils 2. bibliotēka",
@@ -17105,7 +17105,7 @@
    Handicapped: "",
    Active_users: 100,
    Collections: 4438,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sēmes pagasta bibliotēka",
@@ -17119,7 +17119,7 @@
    Handicapped: "Jā",
    Active_users: 253,
    Collections: 9931,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sēmes sākumskolas bibliotēka",
@@ -17133,7 +17133,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 1342,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Sērenes pagasta bibliotēka",
@@ -17147,7 +17147,7 @@
    Handicapped: "Jā",
    Active_users: 100,
    Collections: 4405,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sesavas pagasta Bērvircavas bibliotēka",
@@ -17161,7 +17161,7 @@
    Handicapped: "",
    Active_users: 176,
    Collections: 6208,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sesavas pagasta bibliotēka",
@@ -17175,7 +17175,7 @@
    Handicapped: "Jā",
    Active_users: 318,
    Collections: 5895,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sesavas pamatskolas bibliotēka ",
@@ -17189,7 +17189,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 8519,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "SIA \"Biznesa augstskola Turība\" bibliotēka",
@@ -17203,7 +17203,7 @@
    Handicapped: "Jā",
    Active_users: 2495,
    Collections: 69017,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "SIA \"Biznesa vadības koledža\" bibliotēka",
@@ -17217,7 +17217,7 @@
    Handicapped: "Jā",
    Active_users: 321,
    Collections: 2496,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "SIA \"Bulduru Dārzkopības vidusskola\" bibliotēka",
@@ -17231,7 +17231,7 @@
    Handicapped: "",
    Active_users: 279,
    Collections: 23433,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "SIA \"Jēkabpils reģionālā slimnīca\" bibliotēka",
@@ -17245,7 +17245,7 @@
    Handicapped: "Jā",
    Active_users: 50,
    Collections: 5280,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "SIA \"Stockholm School of Economics in Riga\" bibliotēka",
@@ -17259,7 +17259,7 @@
    Handicapped: "Jā",
    Active_users: 1228,
    Collections: 25595,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "SIA \"Vidzemes slimnīca\" bibliotēka",
@@ -17273,7 +17273,7 @@
    Handicapped: "Jā",
    Active_users: 271,
    Collections: 2923,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Siguldas 1. pamatskolas bibliotēka",
@@ -17287,7 +17287,7 @@
    Handicapped: "",
    Active_users: 519,
    Collections: 12855,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Siguldas novada Allažu pagasta bibliotēka",
@@ -17301,7 +17301,7 @@
    Handicapped: "",
    Active_users: 270,
    Collections: 6913,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Siguldas novada bibliotēka",
@@ -17315,7 +17315,7 @@
    Handicapped: "Jā",
    Active_users: 2005,
    Collections: 30490,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Siguldas novada Mores pagasta bibliotēka",
@@ -17329,7 +17329,7 @@
    Handicapped: "",
    Active_users: 153,
    Collections: 3949,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Siguldas novada Siguldas pagasta Centra bibliotēka",
@@ -17343,7 +17343,7 @@
    Handicapped: "",
    Active_users: 421,
    Collections: 7987,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Siguldas novada Siguldas pagasta Jūdažu bibliotēka",
@@ -17357,7 +17357,7 @@
    Handicapped: "Jā",
    Active_users: 177,
    Collections: 5406,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Siguldas pilsētas vidusskolas bibliotēka",
@@ -17371,7 +17371,7 @@
    Handicapped: "",
    Active_users: 854,
    Collections: 34268,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Siguldas Valsts ģimnāzijas bibliotēka",
@@ -17385,7 +17385,7 @@
    Handicapped: "",
    Active_users: 523,
    Collections: 31905,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Silenes pamatskolas bibliotēka",
@@ -17399,7 +17399,7 @@
    Handicapped: "Jā",
    Active_users: 64,
    Collections: 4054,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Silmalas pagasta bibliotēka",
@@ -17413,7 +17413,7 @@
    Handicapped: "",
    Active_users: 105,
    Collections: 7110,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Silmalas pagasta Kruķu bibliotēka",
@@ -17427,7 +17427,7 @@
    Handicapped: "",
    Active_users: 194,
    Collections: 4918,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Silmalas pagasta Ružinas bibliotēka",
@@ -17441,7 +17441,7 @@
    Handicapped: "Jā",
    Active_users: 160,
    Collections: 4760,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Silmalas pagasta Štikānu bibliotēka",
@@ -17455,7 +17455,7 @@
    Handicapped: "",
    Active_users: 95,
    Collections: 4964,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sīļukalna pamatskolas  bibliotēka ",
@@ -17469,7 +17469,7 @@
    Handicapped: "",
    Active_users: 41,
    Collections: 1107,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Skaistas pagasta bibliotēka",
@@ -17483,7 +17483,7 @@
    Handicapped: "",
    Active_users: 101,
    Collections: 4640,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Skaistkalnes pagasta Skaistkalnes bibliotēka",
@@ -17497,7 +17497,7 @@
    Handicapped: "Jā",
    Active_users: 464,
    Collections: 8524,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Skaistkalnes vidusskolas bibliotēka",
@@ -17511,7 +17511,7 @@
    Handicapped: "",
    Active_users: 166,
    Collections: 5952,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Skrīveru  bērnu bibliotēka",
@@ -17525,7 +17525,7 @@
    Handicapped: "",
    Active_users: 395,
    Collections: 7898,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Skrudalienas pagasta bibliotēka",
@@ -17539,7 +17539,7 @@
    Handicapped: "",
    Active_users: 163,
    Collections: 3075,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Skrudalienas pagasta Silenes bibliotēka",
@@ -17553,7 +17553,7 @@
    Handicapped: "Jā",
    Active_users: 196,
    Collections: 4062,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Skrundas  bērnu bibliotēka",
@@ -17567,7 +17567,7 @@
    Handicapped: "Jā",
    Active_users: 543,
    Collections: 7710,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Skrundas novada Antuļu bibliotēka",
@@ -17581,7 +17581,7 @@
    Handicapped: "",
    Active_users: 119,
    Collections: 5953,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Skrundas pilsētas bibliotēka",
@@ -17595,7 +17595,7 @@
    Handicapped: "",
    Active_users: 774,
    Collections: 9491,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Skrundas vidusskolas bibliotēka",
@@ -17609,7 +17609,7 @@
    Handicapped: "",
    Active_users: 389,
    Collections: 19664,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Skujenes pamatskolas bibliotēka",
@@ -17623,7 +17623,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 0,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Skujetnieku bibliotēka",
@@ -17637,7 +17637,7 @@
    Handicapped: "",
    Active_users: 113,
    Collections: 4671,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Skultes bibliotēka",
@@ -17651,7 +17651,7 @@
    Handicapped: "",
    Active_users: 207,
    Collections: 3840,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Slampes pagasta bibliotēka",
@@ -17665,7 +17665,7 @@
    Handicapped: "",
    Active_users: 544,
    Collections: 14293,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Slokas pamatskolas bibliotēka",
@@ -17679,7 +17679,7 @@
    Handicapped: "Jā",
    Active_users: 339,
    Collections: 18219,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Smārdes pagasta bibliotēka",
@@ -17693,7 +17693,7 @@
    Handicapped: "",
    Active_users: 319,
    Collections: 8583,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Smārdes pagasta Milzkalnes bibliotēka",
@@ -17707,7 +17707,7 @@
    Handicapped: "Jā",
    Active_users: 179,
    Collections: 12299,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Smārdes pamatskolas bibliotēka",
@@ -17721,7 +17721,7 @@
    Handicapped: "Jā",
    Active_users: 192,
    Collections: 14302,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Smiltenes  vidusskolas bibliotēka",
@@ -17735,7 +17735,7 @@
    Handicapped: "Jā",
    Active_users: 852,
    Collections: 41340,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Smiltenes novada bibliotēka",
@@ -17749,7 +17749,7 @@
    Handicapped: "",
    Active_users: 1961,
    Collections: 20966,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Smiltenes novada bibliotēkas Bilskas bibliotēka",
@@ -17763,7 +17763,7 @@
    Handicapped: "",
    Active_users: 265,
    Collections: 6206,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Smiltenes novada bibliotēkas Birzuļu bibliotēka",
@@ -17777,7 +17777,7 @@
    Handicapped: "",
    Active_users: 80,
    Collections: 2653,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Smiltenes novada bibliotēkas Blomes bibliotēka",
@@ -17791,7 +17791,7 @@
    Handicapped: "",
    Active_users: 148,
    Collections: 4508,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Smiltenes novada bibliotēkas Brantu  bibliotēka",
@@ -17805,7 +17805,7 @@
    Handicapped: "Jā",
    Active_users: 109,
    Collections: 3268,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Smiltenes novada bibliotēkas Grundzāles bibliotēka",
@@ -17819,7 +17819,7 @@
    Handicapped: "Jā",
    Active_users: 189,
    Collections: 4430,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Smiltenes novada bibliotēkas Launkalnes bibliotēka",
@@ -17833,7 +17833,7 @@
    Handicapped: "",
    Active_users: 228,
    Collections: 4392,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Smiltenes novada bibliotēkas Palsmanes  bibliotēka",
@@ -17847,7 +17847,7 @@
    Handicapped: "Jā",
    Active_users: 270,
    Collections: 4774,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Smiltenes novada bibliotēkas Variņu bibliotēka",
@@ -17861,7 +17861,7 @@
    Handicapped: "",
    Active_users: 225,
    Collections: 4457,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Smiltenes tehnikuma bibliotēka",
@@ -17875,7 +17875,7 @@
    Handicapped: "",
    Active_users: 596,
    Collections: 14120,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Snēpeles pagasta bibliotēka",
@@ -17889,7 +17889,7 @@
    Handicapped: "Jā",
    Active_users: 280,
    Collections: 6523,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sociālās integrācijas valsts aģentūras mācību bibliotēka",
@@ -17903,7 +17903,7 @@
    Handicapped: "Jā",
    Active_users: 358,
    Collections: 13830,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Sociālās korekcijas izglītības iestādes \"Naukšēni\" bibliotēka",
@@ -17917,7 +17917,7 @@
    Handicapped: "",
    Active_users: 91,
    Collections: 4422,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Sokolku pagasta bibliotēka",
@@ -17931,7 +17931,7 @@
    Handicapped: "Jā",
    Active_users: 176,
    Collections: 7798,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Spāres internātpamatskolas bibliotēka",
@@ -17945,7 +17945,7 @@
    Handicapped: "Jā",
    Active_users: 122,
    Collections: 1705,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Staburaga pagasta bibliotēka",
@@ -17959,7 +17959,7 @@
    Handicapped: "Jā",
    Active_users: 107,
    Collections: 5956,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Stacijas pamatskolas  Vīksnas filiāle ",
@@ -17973,7 +17973,7 @@
    Handicapped: "",
    Active_users: 53,
    Collections: 3315,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Stacijas pamatskolas bibliotēka",
@@ -17987,7 +17987,7 @@
    Handicapped: "",
    Active_users: 85,
    Collections: 4848,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Staiceles pamatskolas bibliotēka",
@@ -18001,7 +18001,7 @@
    Handicapped: "Jā",
    Active_users: 265,
    Collections: 9702,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Staiceles pilsētas bibliotēka",
@@ -18015,7 +18015,7 @@
    Handicapped: "Jā",
    Active_users: 542,
    Collections: 13341,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Stāķu pamatskolas bibliotēka",
@@ -18029,7 +18029,7 @@
    Handicapped: "",
    Active_users: 136,
    Collections: 4875,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Stalbes pagasta bibliotēka",
@@ -18043,7 +18043,7 @@
    Handicapped: "Jā",
    Active_users: 174,
    Collections: 5463,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Stalbes vidusskolas bibliotēka",
@@ -18057,7 +18057,7 @@
    Handicapped: "",
    Active_users: 171,
    Collections: 5764,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Staļģenes vidusskolas bibliotēka",
@@ -18071,7 +18071,7 @@
    Handicapped: "",
    Active_users: 243,
    Collections: 6541,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Stāmerienas pagasta Kalnienas bibliotēka",
@@ -18085,7 +18085,7 @@
    Handicapped: "",
    Active_users: 178,
    Collections: 5738,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Stāmerienas pamatskolas bibliotēka",
@@ -18099,7 +18099,7 @@
    Handicapped: "",
    Active_users: 80,
    Collections: 5271,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Staņislava Broka Daugavpils Mūzikas vidusskolas  bibliotēka",
@@ -18113,7 +18113,7 @@
    Handicapped: "",
    Active_users: 625,
    Collections: 37642,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Stelpes pagasta Stelpes bibliotēka",
@@ -18127,7 +18127,7 @@
    Handicapped: "",
    Active_users: 214,
    Collections: 5202,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Stelpes pamatskolas bibliotēka",
@@ -18141,7 +18141,7 @@
    Handicapped: "",
    Active_users: 66,
    Collections: 5837,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Stendes pamatskolas bibliotēka",
@@ -18155,7 +18155,7 @@
    Handicapped: "",
    Active_users: 72,
    Collections: 4339,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Stienes bibliotēka",
@@ -18169,7 +18169,7 @@
    Handicapped: "",
    Active_users: 63,
    Collections: 5471,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Stiklu internātpamatskolas bibliotēka",
@@ -18183,7 +18183,7 @@
    Handicapped: "Jā",
    Active_users: 101,
    Collections: 9782,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Stoļerovas pagasta bibliotēka",
@@ -18197,7 +18197,7 @@
    Handicapped: "",
    Active_users: 183,
    Collections: 5226,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Stopiņu novada Sauriešu bibliotēka",
@@ -18211,7 +18211,7 @@
    Handicapped: "Jā",
    Active_users: 377,
    Collections: 8570,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Stopiņu novada Ulbrokas bibliotēka",
@@ -18225,7 +18225,7 @@
    Handicapped: "",
    Active_users: 711,
    Collections: 13624,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Stopiņu pamatskolas bibliotēka",
@@ -18239,7 +18239,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 8794,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Stradu pagasta bibliotēka",
@@ -18253,7 +18253,7 @@
    Handicapped: "Jā",
    Active_users: 252,
    Collections: 5195,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Stradu pagasta Stāķu bibliotēka",
@@ -18267,7 +18267,7 @@
    Handicapped: "",
    Active_users: 337,
    Collections: 7327,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Straumes bibliotēka",
@@ -18281,7 +18281,7 @@
    Handicapped: "",
    Active_users: 139,
    Collections: 4138,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Straupes pagasta bibliotēka",
@@ -18295,7 +18295,7 @@
    Handicapped: "Jā",
    Active_users: 386,
    Collections: 9641,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Straupes pamatskolas bibliotēka",
@@ -18309,7 +18309,7 @@
    Handicapped: "Jā",
    Active_users: 214,
    Collections: 2704,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Strautiņu bibliotēka",
@@ -18323,7 +18323,7 @@
    Handicapped: "Jā",
    Active_users: 200,
    Collections: 5042,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Strautiņu pamatskolas bibliotēka",
@@ -18337,7 +18337,7 @@
    Handicapped: "",
    Active_users: 83,
    Collections: 7382,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Strazdumuižas internātvidusskolas - attīstības centra vājredzīgiem un neredzīgiem bērniem bibliotēka",
@@ -18351,7 +18351,7 @@
    Handicapped: "Jā",
    Active_users: 244,
    Collections: 14393,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Strenču novada Plāņu pagasta  bibliotēka",
@@ -18365,7 +18365,7 @@
    Handicapped: "",
    Active_users: 72,
    Collections: 3451,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Strenču novada Sedas pilsētas bibliotēka",
@@ -18379,7 +18379,7 @@
    Handicapped: "Jā",
    Active_users: 149,
    Collections: 4698,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Strenču novada vidusskolas bibliotēka",
@@ -18393,7 +18393,7 @@
    Handicapped: "",
    Active_users: 158,
    Collections: 10760,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Strenču novada vidusskolas Sedas filiāles bibliotēka",
@@ -18407,7 +18407,7 @@
    Handicapped: "",
    Active_users: 58,
    Collections: 10720,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Strenču pilsētas bibliotēka",
@@ -18421,7 +18421,7 @@
    Handicapped: "Jā",
    Active_users: 680,
    Collections: 7967,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Striķu pamatskolas bibliotēka",
@@ -18435,7 +18435,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 4168,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Strūžānu pagasta bibliotēka",
@@ -18449,7 +18449,7 @@
    Handicapped: "Jā",
    Active_users: 243,
    Collections: 8241,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Subates pamatskolas bibliotēka",
@@ -18463,7 +18463,7 @@
    Handicapped: "",
    Active_users: 65,
    Collections: 1998,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Subates pilsētas bibliotēka",
@@ -18477,7 +18477,7 @@
    Handicapped: "",
    Active_users: 300,
    Collections: 8438,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sunākstes pagasta bibliotēka",
@@ -18491,7 +18491,7 @@
    Handicapped: "Jā",
    Active_users: 124,
    Collections: 4373,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sunākstes pamatskolas bibliotēka",
@@ -18505,7 +18505,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 5649,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Suntažu internātpamatskolas - rehabilitācijas centra bibliotēka",
@@ -18519,7 +18519,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 6363,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Suntažu pagasta bibliotēka",
@@ -18533,7 +18533,7 @@
    Handicapped: "Jā",
    Active_users: 373,
    Collections: 6573,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Suntažu vidusskolas bibliotēka ",
@@ -18547,7 +18547,7 @@
    Handicapped: "",
    Active_users: 291,
    Collections: 10942,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Suntažu vidusskolas Lauberes filiāles bibliotēka",
@@ -18561,7 +18561,7 @@
    Handicapped: "",
    Active_users: 23,
    Collections: 2495,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Sūnu pamatskolas bibliotēka",
@@ -18575,7 +18575,7 @@
    Handicapped: "Jā",
    Active_users: 111,
    Collections: 6927,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Svariņu pagasta bibliotēka",
@@ -18589,7 +18589,7 @@
    Handicapped: "",
    Active_users: 140,
    Collections: 6227,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sveķu internātpamatskolas bibliotēka",
@@ -18603,7 +18603,7 @@
    Handicapped: "",
    Active_users: 130,
    Collections: 4947,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Sventes pagasta bibliotēka",
@@ -18617,7 +18617,7 @@
    Handicapped: "Jā",
    Active_users: 215,
    Collections: 5231,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Sventes vidusskolas bibliotēka",
@@ -18631,7 +18631,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 6837,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Svētes pagasta bibliotēka",
@@ -18645,7 +18645,7 @@
    Handicapped: "Jā",
    Active_users: 230,
    Collections: 2898,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Svētes pagasta Jēkabnieku bibliotēka",
@@ -18659,7 +18659,7 @@
    Handicapped: "",
    Active_users: 223,
    Collections: 3911,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Svētes pamatskolas bibliotēka",
@@ -18673,7 +18673,7 @@
    Handicapped: "Jā",
    Active_users: 203,
    Collections: 8806,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Svitenes pagasta bibliotēka",
@@ -18687,7 +18687,7 @@
    Handicapped: "",
    Active_users: 159,
    Collections: 6995,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Š. Dubnova Rīgas Ebreju vidusskolas bibliotēka",
@@ -18701,7 +18701,7 @@
    Handicapped: "",
    Active_users: 368,
    Collections: 9406,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Šēderes pagasta bibliotēka",
@@ -18715,7 +18715,7 @@
    Handicapped: "",
    Active_users: 159,
    Collections: 6570,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Šēderes pagasta Pašulienes bibliotēka",
@@ -18729,7 +18729,7 @@
    Handicapped: "",
    Active_users: 140,
    Collections: 6385,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Šķaunes pagasta bibliotēka",
@@ -18743,7 +18743,7 @@
    Handicapped: "",
    Active_users: 246,
    Collections: 5019,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Šķaunes sākumskolas bibliotēka",
@@ -18757,7 +18757,7 @@
    Handicapped: "Jā",
    Active_users: 31,
    Collections: 5644,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Šķēdes pagasta bibliotēka",
@@ -18771,7 +18771,7 @@
    Handicapped: "",
    Active_users: 277,
    Collections: 6451,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Šķeltovas pamatskolas bibliotēka",
@@ -18785,7 +18785,7 @@
    Handicapped: "",
    Active_users: 48,
    Collections: 5333,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Šķibes pamatskolas bibliotēka ",
@@ -18799,7 +18799,7 @@
    Handicapped: "",
    Active_users: 182,
    Collections: 9763,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Špoģu vidusskolas bibliotēka",
@@ -18813,7 +18813,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 11117,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tabores pagasta bibliotēka",
@@ -18827,7 +18827,7 @@
    Handicapped: "",
    Active_users: 257,
    Collections: 6329,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu 2. vidusskolas bibliotēka",
@@ -18841,7 +18841,7 @@
    Handicapped: "Jā",
    Active_users: 810,
    Collections: 18562,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu Galvenā bibliotēka",
@@ -18855,7 +18855,7 @@
    Handicapped: "",
    Active_users: 3323,
    Collections: 66994,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu Galvenās bibliotēkas struktūrvienība Talsu bērnu bibliotēka",
@@ -18869,7 +18869,7 @@
    Handicapped: "",
    Active_users: 1462,
    Collections: 16270,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada  Uguņu bibliotēka",
@@ -18883,7 +18883,7 @@
    Handicapped: "",
    Active_users: 135,
    Collections: 4449,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Abavas bibliotēka",
@@ -18897,7 +18897,7 @@
    Handicapped: "",
    Active_users: 78,
    Collections: 4259,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Ausekļa bibliotēka",
@@ -18911,7 +18911,7 @@
    Handicapped: "Jā",
    Active_users: 155,
    Collections: 4621,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Balgales  bibliotēka",
@@ -18925,7 +18925,7 @@
    Handicapped: "",
    Active_users: 182,
    Collections: 8509,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Dižstendes bibliotēka",
@@ -18939,7 +18939,7 @@
    Handicapped: "Jā",
    Active_users: 400,
    Collections: 8899,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Īves  bibliotēka",
@@ -18953,7 +18953,7 @@
    Handicapped: "",
    Active_users: 208,
    Collections: 9347,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Ķūļciema  bibliotēka",
@@ -18967,7 +18967,7 @@
    Handicapped: "",
    Active_users: 138,
    Collections: 6892,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Laidzes  bibliotēka",
@@ -18981,7 +18981,7 @@
    Handicapped: "Jā",
    Active_users: 449,
    Collections: 9302,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Laucienes  bibliotēka",
@@ -18995,7 +18995,7 @@
    Handicapped: "Jā",
    Active_users: 166,
    Collections: 8743,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Lībagu bibliotēka",
@@ -19009,7 +19009,7 @@
    Handicapped: "Jā",
    Active_users: 547,
    Collections: 10246,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Lubes  bibliotēka",
@@ -19023,7 +19023,7 @@
    Handicapped: "Jā",
    Active_users: 184,
    Collections: 6380,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Nogales bibliotēka",
@@ -19037,7 +19037,7 @@
    Handicapped: "",
    Active_users: 77,
    Collections: 5399,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Pastendes bibliotēka",
@@ -19051,7 +19051,7 @@
    Handicapped: "",
    Active_users: 724,
    Collections: 13176,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Pļavu bibliotēka",
@@ -19065,7 +19065,7 @@
    Handicapped: "",
    Active_users: 152,
    Collections: 5051,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Sabiles  bērnu bibliotēka",
@@ -19079,7 +19079,7 @@
    Handicapped: "Jā",
    Active_users: 463,
    Collections: 8067,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Sabiles  bibliotēka",
@@ -19093,7 +19093,7 @@
    Handicapped: "",
    Active_users: 696,
    Collections: 12669,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Spāres bibliotēka",
@@ -19107,7 +19107,7 @@
    Handicapped: "",
    Active_users: 248,
    Collections: 8846,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Stendes  bibliotēka",
@@ -19121,7 +19121,7 @@
    Handicapped: "",
    Active_users: 643,
    Collections: 13916,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Strazdes  bibliotēka",
@@ -19135,7 +19135,7 @@
    Handicapped: "",
    Active_users: 169,
    Collections: 5366,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Vakara un neklātienes vidusskolas bibliotēka",
@@ -19149,7 +19149,7 @@
    Handicapped: "Jā",
    Active_users: 182,
    Collections: 5343,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Valdemārpils  bibliotēka ",
@@ -19163,7 +19163,7 @@
    Handicapped: "Jā",
    Active_users: 742,
    Collections: 12399,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Valdgales  bibliotēka",
@@ -19177,7 +19177,7 @@
    Handicapped: "Jā",
    Active_users: 191,
    Collections: 8534,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Vandzenes  bibliotēka",
@@ -19191,7 +19191,7 @@
    Handicapped: "Jā",
    Active_users: 357,
    Collections: 9247,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu novada Virbu  bibliotēka",
@@ -19205,7 +19205,7 @@
    Handicapped: "",
    Active_users: 217,
    Collections: 8740,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu pamatskolas bibliotēka",
@@ -19219,7 +19219,7 @@
    Handicapped: "",
    Active_users: 274,
    Collections: 11191,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Talsu sākumskolas bibliotēka",
@@ -19233,7 +19233,7 @@
    Handicapped: "",
    Active_users: 342,
    Collections: 8199,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Talsu Valsts ģimnāzijas bibliotēka",
@@ -19247,7 +19247,7 @@
    Handicapped: "",
    Active_users: 332,
    Collections: 22802,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Tārgales bibliotēka",
@@ -19261,7 +19261,7 @@
    Handicapped: "Jā",
    Active_users: 310,
    Collections: 11127,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tārgales pamatskolas bibliotēka",
@@ -19275,7 +19275,7 @@
    Handicapped: "",
    Active_users: 194,
    Collections: 14968,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Taurupes pagasta bibliotēka",
@@ -19289,7 +19289,7 @@
    Handicapped: "Jā",
    Active_users: 259,
    Collections: 6988,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Taurupes pamatskolas bibliotēka ",
@@ -19303,7 +19303,7 @@
    Handicapped: "",
    Active_users: 60,
    Collections: 6551,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Taurupes pamatskolas Mazozolu filiāles bibliotēka  ",
@@ -19317,7 +19317,7 @@
    Handicapped: "",
    Active_users: 38,
    Collections: 2090,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Taurupes pamatskolas Meņģeles filiāles bibliotēka",
@@ -19331,7 +19331,7 @@
    Handicapped: "",
    Active_users: 28,
    Collections: 1404,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tērvetes novada Augstkalnes pagasta bibliotēka",
@@ -19345,7 +19345,7 @@
    Handicapped: "Jā",
    Active_users: 329,
    Collections: 6044,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tērvetes novada Bukaišu pagasta bibliotēka",
@@ -19359,7 +19359,7 @@
    Handicapped: "Jā",
    Active_users: 224,
    Collections: 6303,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tērvetes novada Tērvetes pagasta bibliotēka",
@@ -19373,7 +19373,7 @@
    Handicapped: "",
    Active_users: 300,
    Collections: 6081,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tērvetes novada Tērvetes pagasta Bites bibliotēka",
@@ -19387,7 +19387,7 @@
    Handicapped: "Jā",
    Active_users: 226,
    Collections: 7582,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Teteles pamatskolas bibliotēka ",
@@ -19401,7 +19401,7 @@
    Handicapped: "",
    Active_users: 212,
    Collections: 8328,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Tikaiņu bibliotēka",
@@ -19415,7 +19415,7 @@
    Handicapped: "",
    Active_users: 78,
    Collections: 2830,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tilžas internātpamatskolas bibliotēka",
@@ -19429,7 +19429,7 @@
    Handicapped: "",
    Active_users: 100,
    Collections: 12792,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Tilžas pagasta bibliotēka",
@@ -19443,7 +19443,7 @@
    Handicapped: "Jā",
    Active_users: 333,
    Collections: 8255,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tilžas vidusskolas bibliotēka",
@@ -19457,7 +19457,7 @@
    Handicapped: "",
    Active_users: 138,
    Collections: 5716,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Tīnūžu sākumskolas bibliotēka ",
@@ -19471,7 +19471,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 7491,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tirzas bibliotēka",
@@ -19485,7 +19485,7 @@
    Handicapped: "Jā",
    Active_users: 294,
    Collections: 5675,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tirzas pamatskolas bibliotēka",
@@ -19499,7 +19499,7 @@
    Handicapped: "",
    Active_users: 110,
    Collections: 7104,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tiskādu speciālās internātpamatskolas  bibliotēka",
@@ -19513,7 +19513,7 @@
    Handicapped: "",
    Active_users: 94,
    Collections: 10515,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tiskādu vidusskolas bibliotēka",
@@ -19527,7 +19527,7 @@
    Handicapped: "Jā",
    Active_users: 210,
    Collections: 27056,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tiskādu vidusskolas struktūrvienības Kruķu sākumskolas bibliotēka ",
@@ -19541,7 +19541,7 @@
    Handicapped: "",
    Active_users: 49,
    Collections: 8491,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Transporta un sakaru institūta bibliotēka",
@@ -19555,7 +19555,7 @@
    Handicapped: "",
    Active_users: 1013,
    Collections: 40442,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Trapenes bibliotēka",
@@ -19569,7 +19569,7 @@
    Handicapped: "Jā",
    Active_users: 355,
    Collections: 6560,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Trapenes sākumskolas bibliotēka",
@@ -19583,7 +19583,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 14203,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Trikātas pamatskolas bibliotēka",
@@ -19597,7 +19597,7 @@
    Handicapped: "",
    Active_users: 102,
    Collections: 10734,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tukuma 2. pamatskolas bibliotēka ",
@@ -19611,7 +19611,7 @@
    Handicapped: "",
    Active_users: 542,
    Collections: 14793,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tukuma 2. vidusskolas bibliotēka",
@@ -19625,7 +19625,7 @@
    Handicapped: "",
    Active_users: 809,
    Collections: 28490,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Tukuma 3. pamatskolas bibliotēka",
@@ -19639,7 +19639,7 @@
    Handicapped: "",
    Active_users: 230,
    Collections: 7256,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tukuma bibliotēka",
@@ -19653,7 +19653,7 @@
    Handicapped: "Jā",
    Active_users: 3573,
    Collections: 68503,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tukuma E. Birznieka-Upīša 1. pamatskolas bibliotēka",
@@ -19667,7 +19667,7 @@
    Handicapped: "",
    Active_users: 300,
    Collections: 10983,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tukuma internātpamatskolas bibliotēka",
@@ -19681,7 +19681,7 @@
    Handicapped: "",
    Active_users: 165,
    Collections: 2415,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Tukuma Raiņa ģimnāzijas bibliotēka",
@@ -19695,7 +19695,7 @@
    Handicapped: "",
    Active_users: 365,
    Collections: 37280,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Tukuma vakara un neklātienes vidusskolas bibliotēka",
@@ -19709,7 +19709,7 @@
    Handicapped: "",
    Active_users: 426,
    Collections: 11108,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Tumes pagasta bibliotēka",
@@ -19723,7 +19723,7 @@
    Handicapped: "",
    Active_users: 356,
    Collections: 14518,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Tumes vidusskolas bibliotēka",
@@ -19737,7 +19737,7 @@
    Handicapped: "",
    Active_users: 250,
    Collections: 8863,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Turlavas pagasta bibliotēka",
@@ -19751,7 +19751,7 @@
    Handicapped: "Jā",
    Active_users: 312,
    Collections: 4618,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Turlavas pagasta Ķikuru bibliotēka",
@@ -19765,7 +19765,7 @@
    Handicapped: "Jā",
    Active_users: 275,
    Collections: 3093,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Turlavas pamatskolas bibliotēka",
@@ -19779,7 +19779,7 @@
    Handicapped: "",
    Active_users: 134,
    Collections: 4766,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ūdrīšu pagasta Augstkalnes  bibliotēka",
@@ -19793,7 +19793,7 @@
    Handicapped: "",
    Active_users: 140,
    Collections: 6636,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ugāles bibliotēka",
@@ -19807,7 +19807,7 @@
    Handicapped: "Jā",
    Active_users: 840,
    Collections: 14769,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ugāles vidusskolas bibliotēka",
@@ -19821,7 +19821,7 @@
    Handicapped: "",
    Active_users: 275,
    Collections: 11648,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ugunsdrošības un civilās aizsardzības koledžas bibliotēka",
@@ -19835,7 +19835,7 @@
    Handicapped: "",
    Active_users: 167,
    Collections: 10771,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ulbrokas vidusskolas bibliotēka",
@@ -19849,7 +19849,7 @@
    Handicapped: "Jā",
    Active_users: 848,
    Collections: 29028,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Umurgas bibliotēka",
@@ -19863,7 +19863,7 @@
    Handicapped: "Jā",
    Active_users: 304,
    Collections: 6857,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Umurgas pamatskolas bibliotēka",
@@ -19877,7 +19877,7 @@
    Handicapped: "",
    Active_users: 125,
    Collections: 11430,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Upesgrīvas internātpamatskolas bibliotēka",
@@ -19891,7 +19891,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 15915,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Upesleju internātpamatskola - rehabilitācijas centrs",
@@ -19905,7 +19905,7 @@
    Handicapped: "Jā",
    Active_users: 305,
    Collections: 12381,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Upītes bibliotēka",
@@ -19919,7 +19919,7 @@
    Handicapped: "Jā",
    Active_users: 172,
    Collections: 5448,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Usmas  bibliotēka",
@@ -19933,7 +19933,7 @@
    Handicapped: "Jā",
    Active_users: 177,
    Collections: 7119,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Uzvaras pamatskolas bibliotēka",
@@ -19947,7 +19947,7 @@
    Handicapped: "",
    Active_users: 159,
    Collections: 12986,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Užavas bibliotēka",
@@ -19961,7 +19961,7 @@
    Handicapped: "",
    Active_users: 203,
    Collections: 5541,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Užavas pamatskolas bibliotēka",
@@ -19975,7 +19975,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 1979,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "V.Plūdoņa Kuldīgas vidusskolas bibliotēka",
@@ -19989,7 +19989,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 14605,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vaboles pagasta bibliotēka",
@@ -20003,7 +20003,7 @@
    Handicapped: "Jā",
    Active_users: 269,
    Collections: 5049,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vaboles vidusskolas bibliotēka",
@@ -20017,7 +20017,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 8208,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vadakstes pagasta bibliotēka",
@@ -20031,7 +20031,7 @@
    Handicapped: "",
    Active_users: 136,
    Collections: 8280,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vaidavas pagasta bibliotēka",
@@ -20045,7 +20045,7 @@
    Handicapped: "",
    Active_users: 200,
    Collections: 6307,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vaiņodes pagasta bibliotēka",
@@ -20059,7 +20059,7 @@
    Handicapped: "",
    Active_users: 421,
    Collections: 7429,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vaiņodes vidusskolas bibliotēka",
@@ -20073,7 +20073,7 @@
    Handicapped: "",
    Active_users: 265,
    Collections: 11654,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vaivaru pamatskolas bibliotēka",
@@ -20087,7 +20087,7 @@
    Handicapped: "Jā",
    Active_users: 206,
    Collections: 3007,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valdemāra Ancīša Aknīstes bibliotēka",
@@ -20101,7 +20101,7 @@
    Handicapped: "",
    Active_users: 445,
    Collections: 12602,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valdemārpils vidusskolas bibliotēka",
@@ -20115,7 +20115,7 @@
    Handicapped: "Jā",
    Active_users: 295,
    Collections: 10153,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valgundes   bibliotēka",
@@ -20129,7 +20129,7 @@
    Handicapped: "",
    Active_users: 220,
    Collections: 4970,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Valgundes pagasta Tīreļu bibliotēka",
@@ -20143,7 +20143,7 @@
    Handicapped: "",
    Active_users: 233,
    Collections: 4664,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valkas Jāņa Cimzes ģimnāzijas bibliotēka",
@@ -20157,7 +20157,7 @@
    Handicapped: "",
    Active_users: 532,
    Collections: 36039,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valkas novada Centrālā  bibliotēka",
@@ -20171,7 +20171,7 @@
    Handicapped: "Jā",
    Active_users: 1551,
    Collections: 35672,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valkas novada Ērģemes pagasta Ērģemes bibliotēka",
@@ -20185,7 +20185,7 @@
    Handicapped: "Jā",
    Active_users: 159,
    Collections: 5104,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valkas novada Ērģemes pagasta Omuļu bibliotēka",
@@ -20199,7 +20199,7 @@
    Handicapped: "",
    Active_users: 63,
    Collections: 3938,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valkas novada Ērģemes pagasta Turnas bibliotēka",
@@ -20213,7 +20213,7 @@
    Handicapped: "",
    Active_users: 83,
    Collections: 4164,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valkas novada Vijciema pagasta bibliotēka",
@@ -20227,7 +20227,7 @@
    Handicapped: "",
    Active_users: 138,
    Collections: 4529,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valkas novada Zvārtavas pagasta bibliotēka",
@@ -20241,7 +20241,7 @@
    Handicapped: "Jā",
    Active_users: 119,
    Collections: 4282,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valkas pagasta Lugažu bibliotēka",
@@ -20255,7 +20255,7 @@
    Handicapped: "",
    Active_users: 129,
    Collections: 4754,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valkas pagasta Sēļu bibliotēka",
@@ -20269,7 +20269,7 @@
    Handicapped: "",
    Active_users: 142,
    Collections: 8330,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valles pagasta Taurkalnes bibliotēka",
@@ -20283,7 +20283,7 @@
    Handicapped: "Jā",
    Active_users: 105,
    Collections: 4862,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valles pagasta Valles bibliotēka",
@@ -20297,7 +20297,7 @@
    Handicapped: "Jā",
    Active_users: 301,
    Collections: 7862,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valles vidusskolas bibliotēka",
@@ -20311,7 +20311,7 @@
    Handicapped: "Jā",
    Active_users: 142,
    Collections: 9262,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras 2. vidusskolas bibliotēka",
@@ -20325,7 +20325,7 @@
    Handicapped: "",
    Active_users: 310,
    Collections: 14373,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras 2. vidusskolas struktūrvienība vakara (maiņu) vidusskolas bibliotēka",
@@ -20339,7 +20339,7 @@
    Handicapped: "",
    Active_users: 200,
    Collections: 10331,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras 5. vidusskolas bibliotēka",
@@ -20353,7 +20353,7 @@
    Handicapped: "",
    Active_users: 601,
    Collections: 32677,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras bibliotēka",
@@ -20367,7 +20367,7 @@
    Handicapped: "Jā",
    Active_users: 6634,
    Collections: 84869,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras Dizaina un mākslas vidusskolas bibliotēka",
@@ -20381,7 +20381,7 @@
    Handicapped: "Jā",
    Active_users: 130,
    Collections: 2146,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras Gaujas krasta vidusskola - attīstības centrs",
@@ -20395,7 +20395,7 @@
    Handicapped: "Jā",
    Active_users: 258,
    Collections: 10658,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras Mūzikas skolas bibliotēka",
@@ -20409,7 +20409,7 @@
    Handicapped: "Jā",
    Active_users: 60,
    Collections: 9062,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras Pārgaujas ģimnāzijas bibliotēka",
@@ -20423,7 +20423,7 @@
    Handicapped: "Jā",
    Active_users: 624,
    Collections: 28596,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras Pārgaujas sākumskolas bibliotēka",
@@ -20437,7 +20437,7 @@
    Handicapped: "Jā",
    Active_users: 665,
    Collections: 21759,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras sākumskolas bibliotēka",
@@ -20451,7 +20451,7 @@
    Handicapped: "Jā",
    Active_users: 620,
    Collections: 17666,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras tehnikuma bibliotēka",
@@ -20465,7 +20465,7 @@
    Handicapped: "Jā",
    Active_users: 885,
    Collections: 31491,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras Valsts ģimnāzijas bibliotēka",
@@ -20479,7 +20479,7 @@
    Handicapped: "",
    Active_users: 610,
    Collections: 43962,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valmieras Viestura vidusskolas bibliotēka",
@@ -20493,7 +20493,7 @@
    Handicapped: "",
    Active_users: 842,
    Collections: 44298,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valsts policijas koledžas bibliotēka",
@@ -20507,7 +20507,7 @@
    Handicapped: "",
    Active_users: 760,
    Collections: 66824,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valsts robežsardzes koledžas bibliotēka",
@@ -20521,7 +20521,7 @@
    Handicapped: "",
    Active_users: 474,
    Collections: 9458,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valsts SIA \"Rīgas Tūrisma un radošās indistrijas tehnikums\", mācību vieta Preiļos bibliotēka",
@@ -20535,7 +20535,7 @@
    Handicapped: "",
    Active_users: 178,
    Collections: 6241,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Valsts sociālā aprūpes centra \"Rīga\" filiāles \"Jugla\" bibliotēka",
@@ -20549,7 +20549,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 12470,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Valsts tehniskās uzraudzības aģentūras nodaļas \"Latvijas Lauksaimniecības muzejs\" bibliotēka",
@@ -20563,7 +20563,7 @@
    Handicapped: "",
    Active_users: 1,
    Collections: 9643,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vandzenes pamatskolas  bibliotēka",
@@ -20577,7 +20577,7 @@
    Handicapped: "",
    Active_users: 92,
    Collections: 6259,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vānes pagasta bibliotēka",
@@ -20591,7 +20591,7 @@
    Handicapped: "",
    Active_users: 200,
    Collections: 10182,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vānes pamatskolas bibliotēka",
@@ -20605,7 +20605,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 5759,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vangažu vidusskolas bibliotēka",
@@ -20619,7 +20619,7 @@
    Handicapped: "",
    Active_users: 480,
    Collections: 15568,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Varakļānu novada Murmastienes  bibliotēka",
@@ -20633,7 +20633,7 @@
    Handicapped: "",
    Active_users: 243,
    Collections: 8517,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Varakļānu novada Stirnienes bibliotēka",
@@ -20647,7 +20647,7 @@
    Handicapped: "Jā",
    Active_users: 134,
    Collections: 11594,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Varakļānu tautas bibliotēka",
@@ -20661,7 +20661,7 @@
    Handicapped: "",
    Active_users: 602,
    Collections: 11127,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Varakļānu vidusskolas bibliotēka",
@@ -20675,7 +20675,7 @@
    Handicapped: "",
    Active_users: 295,
    Collections: 13067,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Variešu bibliotēka",
@@ -20689,7 +20689,7 @@
    Handicapped: "Jā",
    Active_users: 343,
    Collections: 7618,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Variešu sākumskolas bibliotēka",
@@ -20703,7 +20703,7 @@
    Handicapped: "Jā",
    Active_users: 81,
    Collections: 2466,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Variņu pamatskolas bibliotēka",
@@ -20717,7 +20717,7 @@
    Handicapped: "",
    Active_users: 65,
    Collections: 2114,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vārkavas novada Rožkalnu bibliotēka",
@@ -20731,7 +20731,7 @@
    Handicapped: "Jā",
    Active_users: 122,
    Collections: 5648,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vārkavas novada Upmalas bibliotēka",
@@ -20745,7 +20745,7 @@
    Handicapped: "Jā",
    Active_users: 250,
    Collections: 6505,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vārkavas novada Vanagu bibliotēka",
@@ -20759,7 +20759,7 @@
    Handicapped: "Jā",
    Active_users: 77,
    Collections: 4051,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vārkavas novada Vārkavas pagasta bibliotēka",
@@ -20773,7 +20773,7 @@
    Handicapped: "Jā",
    Active_users: 145,
    Collections: 5652,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vārkavas vidusskolas bibliotēka",
@@ -20787,7 +20787,7 @@
    Handicapped: "",
    Active_users: 178,
    Collections: 9381,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vārmes pagasta bibliotēka",
@@ -20801,7 +20801,7 @@
    Handicapped: "Jā",
    Active_users: 384,
    Collections: 8876,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vārmes pamatskolas bibliotēka",
@@ -20815,7 +20815,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 12746,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vārves bibliotēka",
@@ -20829,7 +20829,7 @@
    Handicapped: "",
    Active_users: 166,
    Collections: 5994,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "VAS \"Latvijas dzelzceļš\" Dokumentācijas centra bibliotēka",
@@ -20843,7 +20843,7 @@
    Handicapped: "Jā",
    Active_users: 1219,
    Collections: 28706,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Veclaicenes  bibliotēka",
@@ -20857,7 +20857,7 @@
    Handicapped: "Jā",
    Active_users: 128,
    Collections: 7775,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecpiebalgas novada Dzērbenes pagasta bibliotēka",
@@ -20871,7 +20871,7 @@
    Handicapped: "Jā",
    Active_users: 257,
    Collections: 9002,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecpiebalgas novada Taurenes pagasta bibliotēka",
@@ -20885,7 +20885,7 @@
    Handicapped: "Jā",
    Active_users: 469,
    Collections: 10084,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vecpiebalgas novada Vecpiebalgas pagasta bibliotēka",
@@ -20899,7 +20899,7 @@
    Handicapped: "Jā",
    Active_users: 514,
    Collections: 8527,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecpiebalgas vidusskolas bibliotēka",
@@ -20913,7 +20913,7 @@
    Handicapped: "",
    Active_users: 253,
    Collections: 11616,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecpils bibliotēka",
@@ -20927,7 +20927,7 @@
    Handicapped: "",
    Active_users: 188,
    Collections: 6051,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vecsalienas pagasta bibliotēka",
@@ -20941,7 +20941,7 @@
    Handicapped: "",
    Active_users: 179,
    Collections: 3560,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecsaules pagasta Jaunsaules bibliotēka",
@@ -20955,7 +20955,7 @@
    Handicapped: "Jā",
    Active_users: 142,
    Collections: 5203,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecsaules pagasta Ozolaines bibliotēka",
@@ -20969,7 +20969,7 @@
    Handicapped: "Jā",
    Active_users: 132,
    Collections: 6022,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecsaules pagasta Vecsaules bibliotēka",
@@ -20983,7 +20983,7 @@
    Handicapped: "Jā",
    Active_users: 287,
    Collections: 7792,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecsaules pamatskolas bibliotēka",
@@ -20997,7 +20997,7 @@
    Handicapped: "",
    Active_users: 242,
    Collections: 15548,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecsvirlaukas bibliotēka",
@@ -21011,7 +21011,7 @@
    Handicapped: "",
    Active_users: 97,
    Collections: 4281,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vectilžas pagasta bibliotēka",
@@ -21025,7 +21025,7 @@
    Handicapped: "Jā",
    Active_users: 167,
    Collections: 6113,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecumnieku pagasta Beibežu bibliotēka",
@@ -21039,7 +21039,7 @@
    Handicapped: "",
    Active_users: 176,
    Collections: 6890,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecumnieku pagasta bibliotēka",
@@ -21053,7 +21053,7 @@
    Handicapped: "",
    Active_users: 1050,
    Collections: 18586,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecumnieku pagasta Misas bibliotēka",
@@ -21067,7 +21067,7 @@
    Handicapped: "",
    Active_users: 339,
    Collections: 11630,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecumnieku pagasta Umpārtes bibliotēka",
@@ -21081,7 +21081,7 @@
    Handicapped: "",
    Active_users: 135,
    Collections: 5545,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vecumnieku vidusskolas bibliotēka",
@@ -21095,7 +21095,7 @@
    Handicapped: "",
    Active_users: 416,
    Collections: 13668,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils 1. pamatskolas bibliotēka",
@@ -21109,7 +21109,7 @@
    Handicapped: "Jā",
    Active_users: 457,
    Collections: 18457,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils 2. pamatskolas bibliotēka",
@@ -21123,7 +21123,7 @@
    Handicapped: "Jā",
    Active_users: 395,
    Collections: 12813,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils 2. vidusskolas bibliotēka",
@@ -21137,7 +21137,7 @@
    Handicapped: "",
    Active_users: 576,
    Collections: 29801,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils 3. vidusskolas bibliotēka",
@@ -21151,7 +21151,7 @@
    Handicapped: "Jā",
    Active_users: 491,
    Collections: 17680,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils 4. vidusskolas bibliotēka",
@@ -21165,7 +21165,7 @@
    Handicapped: "",
    Active_users: 794,
    Collections: 36924,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils 6. vidusskolas bibliotēka",
@@ -21179,7 +21179,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 30915,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ventspils bibliotēka. Bērnu bibliotēka",
@@ -21193,7 +21193,7 @@
    Handicapped: "Jā",
    Active_users: 2834,
    Collections: 13736,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils bibliotēka. Gāliņciema bibliotēka",
@@ -21207,7 +21207,7 @@
    Handicapped: "Jā",
    Active_users: 907,
    Collections: 12514,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils bibliotēka. Galvenā bibliotēka",
@@ -21221,7 +21221,7 @@
    Handicapped: "Jā",
    Active_users: 5185,
    Collections: 112303,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils bibliotēka. Pārventas bibliotēka",
@@ -21235,7 +21235,7 @@
    Handicapped: "Jā",
    Active_users: 3837,
    Collections: 55949,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils bibliotēka. Ventspils Augstskolas bibliotēka",
@@ -21249,7 +21249,7 @@
    Handicapped: "Jā",
    Active_users: 1272,
    Collections: 20100,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils Centra sākumskolas bibliotēka",
@@ -21263,7 +21263,7 @@
    Handicapped: "",
    Active_users: 316,
    Collections: 8143,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils Pārventas pamatskolas bibliotēka",
@@ -21277,7 +21277,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 34494,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ventspils Tehnikuma bibliotēka",
@@ -21291,7 +21291,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 13137,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ventspils Valsts 1. ģimnāzijas bibliotēka",
@@ -21305,7 +21305,7 @@
    Handicapped: "Jā",
    Active_users: 1412,
    Collections: 29924,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vērēmu pagasta bibliotēka",
@@ -21319,7 +21319,7 @@
    Handicapped: "",
    Active_users: 291,
    Collections: 8799,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Verēmu pamatskolas bibliotēka",
@@ -21333,7 +21333,7 @@
    Handicapped: "",
    Active_users: 112,
    Collections: 4709,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vērgales pagasta Saraiķu bibliotēka",
@@ -21347,7 +21347,7 @@
    Handicapped: "",
    Active_users: 66,
    Collections: 4245,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vērgales pagasta Ziemupes bibliotēka",
@@ -21361,7 +21361,7 @@
    Handicapped: "",
    Active_users: 81,
    Collections: 3954,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vērgales pamatskolas bibliotēka",
@@ -21375,7 +21375,7 @@
    Handicapped: "",
    Active_users: 121,
    Collections: 6268,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vestienas bibliotēka",
@@ -21389,7 +21389,7 @@
    Handicapped: "",
    Active_users: 285,
    Collections: 6443,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vestienas pamatskolas bibliotēka",
@@ -21403,7 +21403,7 @@
    Handicapped: "Jā",
    Active_users: 106,
    Collections: 9427,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vidagas bibliotēka",
@@ -21417,7 +21417,7 @@
    Handicapped: "Jā",
    Active_users: 232,
    Collections: 6097,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vidrižu bibliotēka",
@@ -21431,7 +21431,7 @@
    Handicapped: "Jā",
    Active_users: 181,
    Collections: 4644,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vidrižu pamatskolas bibliotēka",
@@ -21445,7 +21445,7 @@
    Handicapped: "",
    Active_users: 96,
    Collections: 4860,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viduču pamatskolas bibliotēka",
@@ -21459,7 +21459,7 @@
    Handicapped: "",
    Active_users: 102,
    Collections: 2189,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vidzemes Augstskolas bibliotēka",
@@ -21473,7 +21473,7 @@
    Handicapped: "Jā",
    Active_users: 840,
    Collections: 28075,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viesatu pagasta bibliotēka",
@@ -21487,7 +21487,7 @@
    Handicapped: "",
    Active_users: 120,
    Collections: 6952,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viesītes novada Elkšņu pagasta bibliotēka",
@@ -21501,7 +21501,7 @@
    Handicapped: "",
    Active_users: 115,
    Collections: 3943,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viesītes novada Rites pagasta bibliotēka",
@@ -21515,7 +21515,7 @@
    Handicapped: "Jā",
    Active_users: 174,
    Collections: 5699,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viesītes novada Saukas pagasta Lones bibliotēka",
@@ -21529,7 +21529,7 @@
    Handicapped: "Jā",
    Active_users: 109,
    Collections: 3471,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viesītes novada Saukas pagasta Saukas bibliotēka",
@@ -21543,7 +21543,7 @@
    Handicapped: "",
    Active_users: 111,
    Collections: 3508,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viesītes novada Viesītes bibliotēka",
@@ -21557,7 +21557,7 @@
    Handicapped: "Jā",
    Active_users: 810,
    Collections: 19342,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viesītes vidusskolas bibliotēka",
@@ -21571,7 +21571,7 @@
    Handicapped: "Jā",
    Active_users: 387,
    Collections: 14438,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Viesnīcu biznesa koledžas HOTEL SCHOOL bibliotēka",
@@ -21585,7 +21585,7 @@
    Handicapped: "Jā",
    Active_users: null,
    Collections: 1555,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viesturu pagasta Bērsteles bibliotēka",
@@ -21599,7 +21599,7 @@
    Handicapped: "",
    Active_users: 226,
    Collections: 6565,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viesturu pagasta bibliotēka",
@@ -21613,7 +21613,7 @@
    Handicapped: "",
    Active_users: 96,
    Collections: 6707,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vietalvas pagasta bibliotēka",
@@ -21627,7 +21627,7 @@
    Handicapped: "",
    Active_users: 157,
    Collections: 3605,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vijciema pamatskolas bibliotēka",
@@ -21641,7 +21641,7 @@
    Handicapped: "",
    Active_users: 64,
    Collections: 5709,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vīksnas pagasta bibliotēka",
@@ -21655,7 +21655,7 @@
    Handicapped: "",
    Active_users: 169,
    Collections: 6440,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vilces pagasta Ķīves bibliotēka",
@@ -21669,7 +21669,7 @@
    Handicapped: "",
    Active_users: 239,
    Collections: 6194,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vilces pagasta Vilces bibliotēka",
@@ -21683,7 +21683,7 @@
    Handicapped: "",
    Active_users: 336,
    Collections: 5135,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vilces pagasta Ziedkalnes bibliotēka",
@@ -21697,7 +21697,7 @@
    Handicapped: "",
    Active_users: 186,
    Collections: 3909,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vilces pamatskolas bibliotēka ",
@@ -21711,7 +21711,7 @@
    Handicapped: "",
    Active_users: 129,
    Collections: 5106,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vilgāles pamatskolas bibliotēka",
@@ -21725,7 +21725,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 6373,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Viļakas novada bibliotēka",
@@ -21739,7 +21739,7 @@
    Handicapped: "Jā",
    Active_users: 672,
    Collections: 17061,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viļakas novada Vecumu bibliotēka",
@@ -21753,7 +21753,7 @@
    Handicapped: "",
    Active_users: 120,
    Collections: 5637,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viļakas Valsts ģimnāzijas bibliotēka",
@@ -21767,7 +21767,7 @@
    Handicapped: "",
    Active_users: 227,
    Collections: 11303,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viļānu pagasta Radopoles bibliotēka",
@@ -21781,7 +21781,7 @@
    Handicapped: "",
    Active_users: 166,
    Collections: 7699,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viļānu pilsētas bibliotēka",
@@ -21795,7 +21795,7 @@
    Handicapped: "Jā",
    Active_users: 1101,
    Collections: 32373,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viļānu vidusskolas bibliotēka",
@@ -21809,7 +21809,7 @@
    Handicapped: "",
    Active_users: 529,
    Collections: 14263,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Viļķenes bibliotēka",
@@ -21823,7 +21823,7 @@
    Handicapped: "",
    Active_users: 239,
    Collections: 7332,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vīpes pagasta bibliotēka",
@@ -21837,7 +21837,7 @@
    Handicapped: "",
    Active_users: 189,
    Collections: 4063,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vīpes pamatskolas bibliotēka",
@@ -21851,7 +21851,7 @@
    Handicapped: "",
    Active_users: 57,
    Collections: 5325,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Virbu pamatskolas bibliotēka",
@@ -21865,7 +21865,7 @@
    Handicapped: "",
    Active_users: 110,
    Collections: 9752,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vircavas pagasta bibliotēka",
@@ -21879,7 +21879,7 @@
    Handicapped: "Jā",
    Active_users: 275,
    Collections: 4175,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vircavas vidusskolas bibliotēka",
@@ -21893,7 +21893,7 @@
    Handicapped: "",
    Active_users: 204,
    Collections: 7395,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vircavas vidusskolas Lielvircavas filiāles bibliotēka",
@@ -21907,7 +21907,7 @@
    Handicapped: "",
    Active_users: 63,
    Collections: 3185,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Vircavas vidusskolas Platones filiāles bibliotēka ",
@@ -21921,7 +21921,7 @@
    Handicapped: "",
    Active_users: 47,
    Collections: 1768,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Virgas pagasta bibliotēka",
@@ -21935,7 +21935,7 @@
    Handicapped: "Jā",
    Active_users: 224,
    Collections: 5357,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Višķu pagasta bibliotēka",
@@ -21949,7 +21949,7 @@
    Handicapped: "",
    Active_users: 274,
    Collections: 7042,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Vitrupes bibliotēka",
@@ -21963,7 +21963,7 @@
    Handicapped: "",
    Active_users: 193,
    Collections: 5512,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "VSAC \"Zemgale\" filiāle \"Lielbērze\"",
@@ -21977,7 +21977,7 @@
    Handicapped: "Jā",
    Active_users: 93,
    Collections: 756,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "VSIA \"Paula Stradiņa Klīniskās universitātes slimnīca\" bibliotēka",
@@ -21991,7 +21991,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 546,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "VSIA \"Rīgas Tūrisma un radošās industrijas tehnikums\" bibliotēka",
@@ -22005,7 +22005,7 @@
    Handicapped: "",
    Active_users: 1870,
    Collections: 46097,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "VSIA slimnīcas \"Ģintermuiža\" bibliotēka",
@@ -22019,7 +22019,7 @@
    Handicapped: "",
    Active_users: 335,
    Collections: 3618,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Z.A.Meierovica Kabiles pamatskola",
@@ -22033,7 +22033,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 7787,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zālītes speciālās internātpamatskolas bibliotēka",
@@ -22047,7 +22047,7 @@
    Handicapped: "",
    Active_users: 98,
    Collections: 2886,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zaļenieku komerciālās un amatniecības vidusskolas bibliotēka",
@@ -22061,7 +22061,7 @@
    Handicapped: "",
    Active_users: 114,
    Collections: 6814,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Zaļenieku pagasta bibliotēka",
@@ -22075,7 +22075,7 @@
    Handicapped: "Jā",
    Active_users: 611,
    Collections: 6138,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zaļenieku pagasta Ūziņu bibliotēka",
@@ -22089,7 +22089,7 @@
    Handicapped: "",
    Active_users: 172,
    Collections: 3967,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zaļenieku pamatskolas bibliotēka ",
@@ -22103,7 +22103,7 @@
    Handicapped: "",
    Active_users: 114,
    Collections: 4776,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zaļesjes pagasta bibliotēka",
@@ -22117,7 +22117,7 @@
    Handicapped: "",
    Active_users: 111,
    Collections: 4503,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zasas vidusskolas bibliotēka",
@@ -22131,7 +22131,7 @@
    Handicapped: "",
    Active_users: 164,
    Collections: 17094,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zaubes pamatskolas bibliotēka",
@@ -22145,7 +22145,7 @@
    Handicapped: "",
    Active_users: 56,
    Collections: 5432,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Zeltiņu bibliotēka",
@@ -22159,7 +22159,7 @@
    Handicapped: "",
    Active_users: 177,
    Collections: 6583,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zemgales reģiona Kompetenču attīstības centra Metodiskā bibliotēka",
@@ -22173,7 +22173,7 @@
    Handicapped: "Jā",
    Active_users: 696,
    Collections: 10017,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zemgales vidusskolas bibliotēka (Daugavpils nov.)",
@@ -22187,7 +22187,7 @@
    Handicapped: "",
    Active_users: 212,
    Collections: 9449,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zemgales vidusskolas bibliotēka (Tukuma nov.)",
@@ -22201,7 +22201,7 @@
    Handicapped: "Jā",
    Active_users: 305,
    Collections: 13405,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Zemītes pamatskolas bibliotēka",
@@ -22215,7 +22215,7 @@
    Handicapped: "",
    Active_users: 102,
    Collections: 6204,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zentenes pagasta bibliotēka",
@@ -22229,7 +22229,7 @@
    Handicapped: "",
    Active_users: 63,
    Collections: 6056,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ziemeļu Ministru padomes biroja Latvijā bibliotēka",
@@ -22243,7 +22243,7 @@
    Handicapped: "",
    Active_users: null,
    Collections: 4152,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ziemeļvalstu ģimnāzijas bibliotēka",
@@ -22257,7 +22257,7 @@
    Handicapped: "",
    Active_users: 1067,
    Collections: 44321,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Ziemeļvidzemes internātpamatskolas bibliotēka",
@@ -22271,7 +22271,7 @@
    Handicapped: "",
    Active_users: 83,
    Collections: 6186,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ziemeru pamatskolas bibliotēka",
@@ -22285,7 +22285,7 @@
    Handicapped: "",
    Active_users: 85,
    Collections: 6552,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Zilākalna pagasta bibliotēka",
@@ -22299,7 +22299,7 @@
    Handicapped: "",
    Active_users: 190,
    Collections: 5505,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zīlānu bibliotēka",
@@ -22313,7 +22313,7 @@
    Handicapped: "",
    Active_users: 172,
    Collections: 3220,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zilupes pilsētas bibliotēka",
@@ -22327,7 +22327,7 @@
    Handicapped: "",
    Active_users: 733,
    Collections: 26578,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zilupes vidusskolas bibliotēka",
@@ -22341,7 +22341,7 @@
    Handicapped: "",
    Active_users: 377,
    Collections: 10502,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zirņu pagasta bibliotēka",
@@ -22355,7 +22355,7 @@
    Handicapped: "Jā",
    Active_users: 313,
    Collections: 7097,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zirņu pamatskolas bibliotēka",
@@ -22369,7 +22369,7 @@
    Handicapped: "",
    Active_users: 138,
    Collections: 7612,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Ziru bibliotēka",
@@ -22383,7 +22383,7 @@
    Handicapped: "Jā",
    Active_users: 168,
    Collections: 5703,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zlēku bibliotēka",
@@ -22397,7 +22397,7 @@
    Handicapped: "",
    Active_users: 144,
    Collections: 6304,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zūru bibliotēka",
@@ -22411,7 +22411,7 @@
    Handicapped: "",
    Active_users: 136,
    Collections: 4928,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zūru pamatskolas bibliotēka",
@@ -22425,7 +22425,7 @@
    Handicapped: "",
    Active_users: 211,
    Collections: 8530,
-   Wi-Fi: ""
+   WiFi: false
  },
  {
    Name: "Zvārdes pagasta bibliotēka",
@@ -22439,7 +22439,7 @@
    Handicapped: "",
    Active_users: 135,
    Collections: 5368,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zvejniekciema vidusskolas bibliotēka",
@@ -22453,7 +22453,7 @@
    Handicapped: "Jā",
    Active_users: 335,
    Collections: 18996,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Zvirgzdenes pagasta bibliotēka",
@@ -22467,7 +22467,7 @@
    Handicapped: "",
    Active_users: 80,
    Collections: 4543,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Žīguru bibliotēka",
@@ -22481,7 +22481,7 @@
    Handicapped: "",
    Active_users: 157,
    Collections: 6364,
-   Wi-Fi: "Jā"
+   WiFi: true
  },
  {
    Name: "Žīguru pamatskolas bibliotēka",
@@ -22495,6 +22495,6 @@
    Handicapped: "",
    Active_users: 57,
    Collections: 5791,
-   Wi-Fi: ""
+   WiFi: false
  }
 ]
