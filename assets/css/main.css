@@ -2,12 +2,7 @@
 	height:100%;
 	margin:0;
 }
-#heading{
-  position: absolute;
-  top: 0;
-  left: 50%;
-  z-index: 100;  
-}
+
 #main{
   transition:all 150ms linear;
   background-image:url(../img/Background.jpg);
@@ -17,13 +12,16 @@
 }
 
 #heading_holder{
+  border-style: solid;
+  border-color:black;
+  border-width:5px;
   transition:all 150ms linear;
   font-family:"Comic Sans MS", cursive, sans-serif;
   font-style:italic;
-  text-align:center;
-  font-size:50px;
-  padding-top:10px;
-  width:100%;
+  font-size:55px;
+  position:absolute;
+  left:36%;
+  z-index:100;  
 }
 #heading_holder.sidebarOpenMain{
   padding-left:+100px;
@@ -31,8 +29,8 @@
 
 #map{
   width:100%;
-  height:200px;
 }
 #map.sidebarOpenMain{
-  margin-left:0;
+  transition:all 150ms linear;
+  left:+250;
 }

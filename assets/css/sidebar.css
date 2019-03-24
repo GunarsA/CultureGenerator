@@ -28,11 +28,15 @@
   text-align:center;
 }
 
-#sidebar .sidebar_toggle_btn{
+#sidebar_toggle_btn{
+  transition:all 150ms linear;
   position:absolute;
-  padding-top:4px;
+  padding-top:40px;
   left:260px;
   top:20px;
+}
+#sidebar_toggle_btn.sidebarOpenMain{
+  padding-top:4px;
 }
 
 input[type="checkbox"]{
@@ -43,11 +47,11 @@ input[type="checkbox"]{
   vertical-align:text-bottom;
 }
 
-#sidebar .sidebar_toggle_btn:hover, #sidebar table tr td input{
+#sidebar #sidebar_toggle_btn:hover, #sidebar table tr td input{
   cursor:pointer;
 }
 
-#sidebar .sidebar_toggle_btn span{
+#sidebar #sidebar_toggle_btn span{
   display:block;
   width:30px;
   height:5px;
