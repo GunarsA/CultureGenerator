@@ -20,5 +20,11 @@ function dropPins(allPoints, map){
 			icon: "assets/img/library_resized.png",
 			animation: google.maps.Animation.DROP
 		});
+		google.maps.event.addListener(marker, 'click', (function(marker, i) {
+		return function() {
+		infowindow.setContent(allPoints[i].Name);
+		infowindow.open(map, marker);
+		};
+		})(marker, i));  
 	}
 }
