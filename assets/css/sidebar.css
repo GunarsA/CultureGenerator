@@ -20,6 +20,9 @@
   padding:15px;
 }
 
+#sidebar table{
+  padding-right:10px;
+}
 #sidebar table tr td{
   color:rgb(230,230,230);
   list-style:none;
@@ -31,7 +34,7 @@
 #sidebar_toggle_btn{
   transition:all 150ms linear;
   position:absolute;
-  padding-top:40px;
+  padding-top:43px;
   left:260px;
   top:30px;
 }
