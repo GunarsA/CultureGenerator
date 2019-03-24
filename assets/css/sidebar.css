@@ -1,4 +1,6 @@
 #sidebar{
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-style:italic;
   position:fixed;
   width:250px;
   height:100%;
