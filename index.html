@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Culture Finder</title>
+        <title>Culture Generator</title>
 		<!-- utf-8 -->
         <meta charset="utf-8">
 		<!-- Ikona -->
@@ -66,13 +66,13 @@
         </div>
 		<div id="main">
             <div id="heading_holder">
-                <p>Kultūras Meklētājs</p>
+                <p>KULTURAS ĢENERATORS</p>
             </div>
             <div id="image_holder">
                 <img id="place_img" src="assets/img/cat.jpg" onerror="this.src='assets/img/image-not-found.png'">
             </div>
         </div>
-		<div id="map">
+		<div id="map" style="z-index: 10;">
 			<script defer>
 				google.maps.event.addDomListener(window, 'load', initMap);
 			</script>
