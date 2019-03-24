@@ -8,8 +8,13 @@ function update(){
 	}
 	var museum_bool = document.getElementById("museum_checkbox").checked;
 	if(museum_bool===true){
+		dropPins(museums);
+	}
+	var museum_bool = document.getElementById("libraries_checkbox").checked;
+	if(museum_bool===true){
 		dropPins(libraries);
 	}
+	
 }
 
 function initMap() {
@@ -30,7 +35,7 @@ function setContent(marker, location, infowindow){
 	};
 }
 function addMarker(location) {
-	var myLatlng = new google.maps.LatLng(parseFloat(location.LAT), parseFloat(location.LON));
+	var myLatlng = new google.maps.LatLng(location.LAT, location.LON);
     var marker = new google.maps.Marker({
         position: myLatlng,
         map: map,
