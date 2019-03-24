@@ -1,6 +1,11 @@
 var map;
+var infowindow=new google.maps.InfoWindow();
 function update(){
 	dropPins(libraries);
+	var museum_bool = document.getElementById("museum_checkbox").value;
+	if(museum_bool===true){
+		dropPins(libraries);
+	}
 }
 function initMap() {
 	// lat lng
@@ -19,7 +24,6 @@ function setContent(marker, x,infowindow){
 	};
 }
 function dropPins(allPoints){
-	var infowindow = new google.maps.InfoWindow(); 
 	for (var i = 0; i < allPoints.length; i++){
 		var myLatlng = new google.maps.LatLng(parseFloat(allPoints[i].LAT), parseFloat(allPoints[i].LON));
 		var marker = new google.maps.Marker({
