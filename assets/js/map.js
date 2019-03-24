@@ -12,9 +12,6 @@ function initMap() {
 	map = new google.maps.Map(document.getElementById('map'), mapOptions);
 	update();
 }
-function sayHi(){
-		alert("hi");
-}
 function setContent(marker, x,infowindow){
 	return function() {
 		infowindow.setContent(x.Name);
