@@ -55,3 +55,17 @@ input[type="checkbox"]{
   margin:5px 0px;
 }
 
+#refresh{
+  text-align:center;
+}
+
+#refresh_button{
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-style:italic;
+  font-size:17px;
+  margin-right:auto;
+}
+
+button{
+  cursor:pointer;
+}
