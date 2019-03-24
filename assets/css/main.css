@@ -17,11 +17,10 @@
   transition:all 150ms linear;
   font-family:"Comic Sans MS", cursive, sans-serif;
   font-style:italic;
-  font-size:25px;
+  font-size:40px;
   position:absolute;
   left:31%;
-  z-index:100;
-  top: 10px;
+  z-index:100;  
 }
 #heading_holder.sidebarOpenMain{
   left:41%;

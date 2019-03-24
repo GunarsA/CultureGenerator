@@ -30,7 +30,7 @@ function initMap() {
 
 function setContent(marker, location, infowindow){
 	return function() {
-		infowindow.setContent(<li>location.Name</li>);
+		infowindow.setContent(location.Name);
 		infowindow.open(map, marker);
 	};
 }
