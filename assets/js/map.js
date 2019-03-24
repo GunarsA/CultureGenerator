@@ -20,7 +20,7 @@ function update(){
 function initMap() {
 	var myLatlng = new google.maps.LatLng(56.946285,23.917078);
 	var mapOptions = {
-		zoom:7.9,
+		zoom:7.96,
 		center: myLatlng
 	};
 	map = new google.maps.Map(document.getElementById('map'), mapOptions);
