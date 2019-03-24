@@ -14,23 +14,17 @@
   border-width:4px;
   background-color:white;
   padding:4px;
-  top:10px;
   transition:all 150ms linear;
   font-family:"Comic Sans MS", cursive, sans-serif;
   font-style:italic;
   font-size:25px;
   position:absolute;
-<<<<<<< HEAD
   left:31%;
   z-index:100;
   top: 10px;
-=======
-  left:37%;
-  z-index:100;  
->>>>>>> 74a027e4126f500aa62a98bd954940775df816d3
 }
 #heading_holder.sidebarOpenMain{
-  left:42%;
+  left:41%;
 }
 
 #map{

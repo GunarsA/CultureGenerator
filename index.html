@@ -48,10 +48,6 @@
                         <td><input type="checkbox"></td>
                     </tr>
                     <tr>
-                        <td>Piemineķļi</td>
-                        <td><input type="checkbox"></td>
-                    </tr>
-                    <tr>
                         <td>Dabas Parki</td>
                         <td><input type="checkbox"></td>
                     </tr>
@@ -59,6 +55,13 @@
                     <tr>
                         <td>Kino</td>
                         <td><input type="checkbox"></td>
+                    </tr>
+                    <tr>
+                        <td>Maksimālā distance</td>
+                        <td>
+                            <input name="rangeInput" type="range" min="1" max="500" value="500" class="distance" style="width: 50%;" onchange="updateTextInput(this.value)">
+                            <p><span id="currentValue" >500</span> km</p>
+                        </td>
                     </tr>
                     <tr>
                         <td colspan="2" id="refresh" ><button id="refresh_button" type="button" onclick="update()">ATJAUNINĀT</button></td>
